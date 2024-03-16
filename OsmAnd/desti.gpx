@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="OsmAnd 4.6.3" 
+creator="OsmAnd Maps 4.6.3 (4.6.3.2)" 
+xmlns="http://www.topografix.com/GPX/1/1" 
+xmlns:osmand="https://osmand.net" 
+xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <name>favorites</name>
+        <time>2024-01-11T14:54:57Z</time>
+    </metadata>
+    <wpt lat="41.9530040" lon="2.7991838">
+        <time>2024-01-11T14:54:57Z</time>
+        <name>Carrer de la Vinya (El Perelló), Vilablareix</name>
+        <extensions>
+            <osmand:address>Carrer de la Vinya (El Perelló), Vilablareix</osmand:address>
+            <osmand:icon>mountain</osmand:icon>
+            <osmand:background>circle</osmand:background>
+            <osmand:color>#ffff0000</osmand:color>
+            <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+            <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+            <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+        </extensions>
+    </wpt>
+    <extensions>
+        <osmand:points_groups>
+            <group color="#ffff0000" background="circle" name="" icon="mountain"/>
+        </osmand:points_groups>
+    </extensions>
+</gpx>

@@ -1,0 +1,14 @@
+/Users/joan/Projects/OsmAnd/OsmAnd/bin/Debug/net8.0/OsmAnd
+/Users/joan/Projects/OsmAnd/OsmAnd/bin/Debug/net8.0/OsmAnd.deps.json
+/Users/joan/Projects/OsmAnd/OsmAnd/bin/Debug/net8.0/OsmAnd.runtimeconfig.json
+/Users/joan/Projects/OsmAnd/OsmAnd/bin/Debug/net8.0/OsmAnd.dll
+/Users/joan/Projects/OsmAnd/OsmAnd/bin/Debug/net8.0/OsmAnd.pdb
+/Users/joan/Projects/OsmAnd/OsmAnd/obj/Debug/net8.0/OsmAnd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joan/Projects/OsmAnd/OsmAnd/obj/Debug/net8.0/OsmAnd.AssemblyInfoInputs.cache
+/Users/joan/Projects/OsmAnd/OsmAnd/obj/Debug/net8.0/OsmAnd.AssemblyInfo.cs
+/Users/joan/Projects/OsmAnd/OsmAnd/obj/Debug/net8.0/OsmAnd.csproj.CoreCompileInputs.cache
+/Users/joan/Projects/OsmAnd/OsmAnd/obj/Debug/net8.0/OsmAnd.dll
+/Users/joan/Projects/OsmAnd/OsmAnd/obj/Debug/net8.0/refint/OsmAnd.dll
+/Users/joan/Projects/OsmAnd/OsmAnd/obj/Debug/net8.0/OsmAnd.pdb
+/Users/joan/Projects/OsmAnd/OsmAnd/obj/Debug/net8.0/OsmAnd.genruntimeconfig.cache
+/Users/joan/Projects/OsmAnd/OsmAnd/obj/Debug/net8.0/ref/OsmAnd.dll
