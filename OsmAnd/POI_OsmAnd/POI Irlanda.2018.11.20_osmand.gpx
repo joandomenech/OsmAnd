@@ -1,0 +1,712 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-POI Irlanda.2018.11.20</name>
+    <time>2024-03-17T17:49:50Z</time>
+  </metadata>
+  <wpt lat="51.941944425925612" lon="-9.810722200199962">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Ballaghbeama Gap (259m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Ballaghbeama Gap (259m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="51.94897223263979" lon="-9.933583298698068">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Ballaghisheen Pass (304m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Ballaghisheen Pass (304m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.954638926312327" lon="-6.532333306968212">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Ballinabarny Gap (319m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Ballinabarny Gap (319m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.90033333003521" lon="-6.442833356559277">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Ballygobban Pass (318m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Ballygobban Pass (318m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="53.13802775926888" lon="-6.439416641369462">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Ballynultagh (450m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Ballynultagh (450m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="54.273361070081592" lon="-9.821194466203451">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Barnacuille (212m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Barnacuille (212m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="53.656833367422223" lon="-9.632361084222794">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Barnaderg (200m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Barnaderg (200m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="53.951666643843055" lon="-9.314277749508619">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Barnageehy (197m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Barnageehy (197m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="51.619083322584629" lon="-9.44805552251637">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Barnageehy (210m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Barnageehy (210m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.911777812987566" lon="-6.458805575966835">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Barnameelia (315m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Barnameelia (315m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="51.558194411918521" lon="-9.526027757674456">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Barnancleeve (160m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Barnancleeve (160m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="55.070083346217871" lon="-7.859055558219552">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Barnes Gap (108m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Barnes Gap (108m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="54.744833316653967" lon="-7.920000040903687">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Barnesmore Gap (180m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Barnesmore Gap (180m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="51.615861151367426" lon="-10.067111123353243">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Bealbarnish Gap (90m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Bealbarnish Gap (90m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="53.118638908490539" lon="-6.300638895481825">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Bearnaveag (495m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Bearnaveag (495m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.905944427475333" lon="-6.332111097872257">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Bearndearg (245m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Bearndearg (245m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="54.169777762144804" lon="-7.817638898268342">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Bellavally Gap (335m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Bellavally Gap (335m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="51.795555576682091" lon="-9.587861141189933">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Caha Pass (240m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Caha Pass (240m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="54.876833371818066" lon="-8.140583317726851">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Carbat Gap (175m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Carbat Gap (175m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1817222610116" lon="-10.207472210749984">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Connor Pass (456m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Connor Pass (456m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="51.776444418355823" lon="-10.166611103340983">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Coomakesta Pass (208m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Coomakesta Pass (208m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.547499965876341" lon="-7.025861106812954">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Coppanagh Gap (240m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Coppanagh Gap (240m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.656138902530074" lon="-6.769777787849307">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Corbut Gap (350m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Corbut Gap (350m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="51.757611120119691" lon="-9.264861149713397">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Cousane Gap (232m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Cousane Gap (232m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.470805551856756" lon="-6.531583294272423">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Darby's Gap (80m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Darby's Gap (80m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.928611105307937" lon="-6.383222183212638">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Drumgoff Gap (455m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Drumgoff Gap (455m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="51.6076944116503" lon="-10.121861128136516">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Firkeel Gap (50m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Firkeel Gap (50m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="53.123277788981795" lon="-8.604388888925314">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Francis Gap (255m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Francis Gap (255m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="51.994361076503992" lon="-9.644277803599834">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Gap of Dunloe (240m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Gap of Dunloe (240m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="55.23266670294106" lon="-7.497833333909512">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Gap of Mamore (262m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Gap of Mamore (262m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="53.047583336010575" lon="-7.655916698276997">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Glendine Gap (450m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Glendine Gap (450m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="54.72058329731226" lon="-8.487472236156464">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Glengesh Pass (275m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Glengesh Pass (275m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="55.09502780623734" lon="-7.325805583968759">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Granias Gap (275m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Granias Gap (275m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="51.722000017762184" lon="-9.756722208112478">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Healy Pass (285m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Healy Pass (285m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.738333353772759" lon="-6.474166670814157">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Kilcavan Gap (185m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Kilcavan Gap (185m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.91094440035522" lon="-6.169527741149068">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Kilmacrea Pass (140m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Kilmacrea Pass (140m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9384999666363" lon="-9.65755557641387">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Moll's Gap (263m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Moll's Gap (263m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="54.730527754873037" lon="-8.422777773812413">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Neck of the Ballagh (125m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Neck of the Ballagh (125m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="51.81444444693625" lon="-9.301833305507898">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Pass of Keimaneigh (201m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Pass of Keimaneigh (201m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="53.137777810916305" lon="-6.312222182750702">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Sally Gap (495m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Sally Gap (495m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.575833313167095" lon="-6.77613889798522">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Scullogue Gap (190m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Scullogue Gap (190m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="54.569083331152797" lon="-7.931805532425642">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-The Black Gap (160m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-The Black Gap (160m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="53.091750014573336" lon="-7.557083331048489">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-The Cut (435m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-The Cut (435m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="54.091194402426481" lon="-8.948388900607824">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-The Gap (190m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-The Gap (190m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.242249995470047" lon="-7.955833347514272">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-The Gap (339m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-The Gap (339m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.969444468617439" lon="-6.316916635259986">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Three Crosses Pass (380m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Three Crosses Pass (380m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="51.666194479912519" lon="-9.443555530160666">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Vaughan Pass (185m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Vaughan Pass (185m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="52.764777755364776" lon="-6.359972208738327">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Wicklow Gap (230m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Wicklow Gap (230m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="53.041861094534397" lon="-6.397805521264672">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Wicklow Gap (475m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Wicklow Gap (475m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="54.061083337292075" lon="-6.274194410070777">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IE-Windy Gap (198m)</name>
+    <type>POI Irlanda.2018.11.20</type>
+    <extensions>
+      <osmand:address>IE-Windy Gap (198m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <osmand:group color="#ffff0000" background="circle" icon="mountain" name="POI Irlanda.2018.11.20" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

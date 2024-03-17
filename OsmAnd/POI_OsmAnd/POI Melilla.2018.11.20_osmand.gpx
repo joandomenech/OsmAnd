@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-POI Melilla.2018.11.20</name>
+    <time>2024-03-17T17:49:50Z</time>
+  </metadata>
+  <wpt lat="35.31519703567028" lon="-2.946853023022413">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>ML- Rostrogordo (92m)</name>
+    <type>POI Melilla.2018.11.20</type>
+    <extensions>
+      <osmand:address>ML- Rostrogordo (92m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="35.314260022714734" lon="-2.960779974237084">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>ML- Tres Estrella (135m)</name>
+    <type>POI Melilla.2018.11.20</type>
+    <extensions>
+      <osmand:address>ML- Tres Estrella (135m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <osmand:group color="#ffff0000" background="circle" icon="mountain" name="POI Melilla.2018.11.20" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

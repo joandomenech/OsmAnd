@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-POI Baleares.2018.11.20</name>
+    <time>2024-03-17T17:49:50Z</time>
+  </metadata>
+  <wpt lat="39.131746022030711" lon="2.927444977685809">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IB-Cabrera - Faro Sa Punta l'Ensiola (101m)</name>
+    <type>POI Baleares.2018.11.20</type>
+    <extensions>
+      <osmand:address>IB-Cabrera - Faro Sa Punta l'Ensiola (101m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.673007981851697" lon="1.546560041606426">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IB-Formentera - Pilar de la Mola (163m)</name>
+    <type>POI Baleares.2018.11.20</type>
+    <extensions>
+      <osmand:address>IB-Formentera - Pilar de la Mola (163m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.665276011452079" lon="1.535037020221353">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IB-Formentera - Sa Talaiassa (195m)</name>
+    <type>POI Baleares.2018.11.20</type>
+    <extensions>
+      <osmand:address>IB-Formentera - Sa Talaiassa (195m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="39.789587035775185" lon="2.775972001254559">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IB-Mallorca - Puig Major (Túnel) (871m)</name>
+    <type>POI Baleares.2018.11.20</type>
+    <extensions>
+      <osmand:address>IB-Mallorca - Puig Major (Túnel) (871m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="39.827763000503182" lon="2.817856958135962">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IB-Mallorca - Sa Calobra (724m)</name>
+    <type>POI Baleares.2018.11.20</type>
+    <extensions>
+      <osmand:address>IB-Mallorca - Sa Calobra (724m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="39.471030039712787" lon="3.168303994461894">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IB-Mallorca - Sant Salvador (495m)</name>
+    <type>POI Baleares.2018.11.20</type>
+    <extensions>
+      <osmand:address>IB-Mallorca - Sant Salvador (495m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="39.928671978414059" lon="3.117663972079754">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IB-Mallorca - Talaia d'Albercuix (360m)</name>
+    <type>POI Baleares.2018.11.20</type>
+    <extensions>
+      <osmand:address>IB-Mallorca - Talaia d'Albercuix (360m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="39.984825029969215" lon="4.111197022721171">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>IB-Menorca - Monte Toro (315m)</name>
+    <type>POI Baleares.2018.11.20</type>
+    <extensions>
+      <osmand:address>IB-Menorca - Monte Toro (315m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <osmand:group color="#ffff0000" background="circle" icon="mountain" name="POI Baleares.2018.11.20" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

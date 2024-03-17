@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-POI Murcia.2018.11.20</name>
+    <time>2024-03-17T17:49:50Z</time>
+  </metadata>
+  <wpt lat="38.135511986911297" lon="-1.418824028223753">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MU-Almeces (Repetidores) (1120m)</name>
+    <type>POI Murcia.2018.11.20</type>
+    <extensions>
+      <osmand:address>MU-Almeces (Repetidores) (1120m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.551643028855324" lon="-1.151958983391523">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MU-Cabo Tiñoso (369m)</name>
+    <type>POI Murcia.2018.11.20</type>
+    <extensions>
+      <osmand:address>MU-Cabo Tiñoso (369m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.844233978539705" lon="-1.270987959578633">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MU-Carrascoy (1058m)</name>
+    <type>POI Murcia.2018.11.20</type>
+    <extensions>
+      <osmand:address>MU-Carrascoy (1058m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.581293005496264" lon="-0.965043967589736">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MU-Castillo de San Julián (300m)</name>
+    <type>POI Murcia.2018.11.20</type>
+    <extensions>
+      <osmand:address>MU-Castillo de San Julián (300m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.862566038966179" lon="-1.574563980102539">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MU-Collado Bermejo Morrón de Espuña (1580m)</name>
+    <type>POI Murcia.2018.11.20</type>
+    <extensions>
+      <osmand:address>MU-Collado Bermejo Morrón de Espuña (1580m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.612576028332114" lon="-1.099798986688256">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MU-Cuesta de Galifa (177m)</name>
+    <type>POI Murcia.2018.11.20</type>
+    <extensions>
+      <osmand:address>MU-Cuesta de Galifa (177m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.598632983863354" lon="-1.140718013048172">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MU-El Cedacero (310m)</name>
+    <type>POI Murcia.2018.11.20</type>
+    <extensions>
+      <osmand:address>MU-El Cedacero (310m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.629605960100889" lon="-1.185458013787866">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MU-La Cuesta (349m)</name>
+    <type>POI Murcia.2018.11.20</type>
+    <extensions>
+      <osmand:address>MU-La Cuesta (349m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.62447296641767" lon="-1.156618986278772">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MU-Peñas Blancas (340m)</name>
+    <type>POI Murcia.2018.11.20</type>
+    <extensions>
+      <osmand:address>MU-Peñas Blancas (340m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.599905021488667" lon="-0.886903004720807">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MU-Portman (210m)</name>
+    <type>POI Murcia.2018.11.20</type>
+    <extensions>
+      <osmand:address>MU-Portman (210m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <osmand:group color="#ffff0000" background="circle" icon="mountain" name="POI Murcia.2018.11.20" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

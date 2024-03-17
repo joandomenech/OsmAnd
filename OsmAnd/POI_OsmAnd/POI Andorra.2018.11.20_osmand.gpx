@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-POI Andorra.2018.11.20</name>
+    <time>2024-03-17T17:49:50Z</time>
+  </metadata>
+  <wpt lat="42.456583315506577" lon="1.479722242802382">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Coll de Jou (1140m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Coll de Jou (1140m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.545694429427385" lon="1.452916665002704">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Coll de la Botella (2069m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Coll de la Botella (2069m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.459277762100101" lon="1.449777809903026">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Coll de la Galina (1911m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Coll de la Galina (1911m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.456972235813737" lon="1.510305544361472">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Coll de la Plana (1508m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Coll de la Plana (1508m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.44977779686451" lon="1.471222238615155">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Coll del Rep (1388m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Coll del Rep (1388m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.625555526465178" lon="1.527472184970975">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Coll dels Abòs (1722m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Coll dels Abòs (1722m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.555499998852611" lon="1.571777751669288">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Coll d’Ordino (1983m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Coll d’Ordino (1983m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.458722209557891" lon="1.521694455295801">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Coll Jovell (1673m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Coll Jovell (1673m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.527750032022595" lon="1.547972224652767">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Collada de Baixalis (1795m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Collada de Baixalis (1795m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.434722222387791" lon="1.520472206175327">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Collada Fosca (2039m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Collada Fosca (2039m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.569166691973805" lon="1.587527766823769">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Collet de Montaup (1951m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Collet de Montaup (1951m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.551888907328248" lon="1.520166685804725">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Collet des Colls (1378m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Collet des Colls (1378m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.54633329808712" lon="1.419500028714538">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Port de Cabùs (2301m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Port de Cabùs (2301m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.54011107608676" lon="1.719527738168836">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AND-Port d’Envalira (2408m)</name>
+    <type>POI Andorra.2018.11.20</type>
+    <extensions>
+      <osmand:address>AND-Port d’Envalira (2408m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <osmand:group color="#ffff0000" background="circle" icon="mountain" name="POI Andorra.2018.11.20" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

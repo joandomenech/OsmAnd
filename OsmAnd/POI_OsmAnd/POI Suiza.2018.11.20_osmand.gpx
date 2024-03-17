@@ -1,0 +1,3890 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-POI Suiza.2018.11.20</name>
+    <time>2024-03-17T17:49:50Z</time>
+  </metadata>
+  <wpt lat="47.276036655530334" lon="8.521122140809894">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Albis-Pass (793m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Albis-Pass (793m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.582531901076436" lon="9.837819384410977">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Albula-Pass (2315m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Albula-Pass (2315m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.51809730194509" lon="8.123809620738029">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Ampferehöchi (579m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Ampferehöchi (579m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.048092199489474" lon="8.897421564906836">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Arosio (842m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Arosio (842m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.716734217479825" lon="7.620966928079724">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Auf dem Egg (636m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Auf dem Egg (636m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.266137041151524" lon="7.539524668827653">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Balmbergpass (1084m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Balmbergpass (1084m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.553620705381036" lon="8.578078178688884">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Bassa della Sella (2138m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Bassa della Sella (2138m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.435433212667704" lon="8.030109498649836">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Benkerjoch (674m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Benkerjoch (674m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.041093418374658" lon="8.556769285351038">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Bernerhöchi (554m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Bernerhöchi (554m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.410859208554029" lon="10.027180407196283">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-BerninaPass/Passo del Bernina (2330m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-BerninaPass/Passo del Bernina (2330m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.460802299901843" lon="7.554613938555121">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Blattenpass (577m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Blattenpass (577m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.349972417578101" lon="7.741765072569251">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Breitehöchi/Breitenhöhe (845m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Breitehöchi/Breitenhöhe (845m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.157332813367248" lon="8.586779097095132">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Brämenhöchi (955m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Brämenhöchi (955m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.756469802930951" lon="8.136573666706681">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Brünig-Pass (1007m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Brünig-Pass (1007m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.296163449063897" lon="8.507793070748448">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Buchenegg (786m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Buchenegg (786m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.142336582764983" lon="7.440125187858939">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Buechtürli (561m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Buechtürli (561m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.495238846167922" lon="7.855825591832399">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Buuseregg (577m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Buuseregg (577m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.281458573415875" lon="8.087605247274041">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Bänkelloch (640m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Bänkelloch (640m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.339290687814355" lon="7.788470210507512">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Bärenwil (778m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Bärenwil (778m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.27481147274375" lon="7.600066317245364">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Bättlerchuchi (1074m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Bättlerchuchi (1074m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.30733753181994" lon="8.084170091897249">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Böhler Passhöchi (617m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Böhler Passhöchi (617m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.480949629098177" lon="8.138762516900897">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Bözberg (569m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Bözberg (569m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.528806691989303" lon="8.158890316262841">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Bürersteig (550m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Bürersteig (550m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.410683128982782" lon="8.903421331197023">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Chalchegg (826m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Chalchegg (826m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.450106237083673" lon="7.458823956549168">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Challhöchi (747m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Challhöchi (747m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.369197485968471" lon="7.834090646356344">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Challhöchi (847m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Challhöchi (847m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.103150179609656" lon="8.53902974165976">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Chatzenbergegg (952m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Chatzenbergegg (952m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.136386772617698" lon="8.721805606037378">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Chatzenstrick (1053m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Chatzenstrick (1053m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.277332413941622" lon="9.164984654635191">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Chellen (1112m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Chellen (1112m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.365413056686521" lon="7.802175963297486">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Chilchzimmersattel/Belchen-Pass/Bölchen (991m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Chilchzimmersattel/Belchen-Pass/Bölchen (991m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.395361764356494" lon="9.113525887951255">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Chrummentürli (783m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Chrummentürli (783m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.947059780359268" lon="7.804235480725765">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Chrüzhöchi (848m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Chrüzhöchi (848m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.870306273922324" lon="7.7265799138695">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Chuderhüsi (1103m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Chuderhüsi (1103m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.109683118760586" lon="8.750955015420914">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Chälen (1022m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Chälen (1022m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.397661734372377" lon="6.99207759462297">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col d'Ayerne (1465m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col d'Ayerne (1465m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.527887508273125" lon="6.997061893343925">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Belle Chaux (1510m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Belle Chaux (1510m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.031781267374754" lon="7.106825597584248">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Champex (1490m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Champex (1490m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.421825755387545" lon="6.997671341523528">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Chaude (1621m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Chaude (1621m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.096056910231709" lon="7.006921106949449">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Chuffort (1225m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Chuffort (1225m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.092785453423858" lon="6.890625301748514">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Gautraine (1205m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Gautraine (1205m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.451262831687927" lon="6.977125788107514">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Jaman (1512m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Jaman (1512m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.229699291288853" lon="6.874479912221432">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de l'Abréviau (1628m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de l'Abréviau (1628m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.789449071511626" lon="6.459441259503365">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de l'Aiguillon (1293m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de l'Aiguillon (1293m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.49088098667562" lon="6.93338549695909">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de l'Alliaz (1198m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de l'Alliaz (1198m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.525527499616146" lon="6.635968666523695">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Barre (525m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Barre (525m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.324643455445766" lon="7.126662712544203">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Croix (1778m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Croix (1778m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.372851995751262" lon="7.141348896548152">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Croix (789m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Croix (789m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.121510127559304" lon="7.232951698824763">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Croix de Cœur (2173m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Croix de Cœur (2173m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.079806998372078" lon="6.999833956360817">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Dame (1217m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Dame (1217m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.526843709871173" lon="7.223043199628592">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Forcla (1660m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Forcla (1660m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.809219801798463" lon="6.477266969159245">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Gittaz Dessous (1242m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Gittaz Dessous (1242m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.068318486213684" lon="6.937580723315477">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Gueulaz (1965m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Gueulaz (1965m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.422278042882681" lon="7.108796266838908">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Lécherette (1388m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Lécherette (1388m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.664392417296767" lon="7.318777441978455">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Salzmatt (1637m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Salzmatt (1637m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.496464172378182" lon="7.151185143738985">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Scierne-au-Cuir (1397m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Scierne-au-Cuir (1397m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.22238359041512" lon="7.146801073104143">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Tane (1007m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Tane (1007m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.98808659799397" lon="6.792170293629169">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Tourne (1166m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Tourne (1166m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.98372658342123" lon="6.7789236176759">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Tourne (1170m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Tourne (1170m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.549471076577902" lon="7.052933648228645">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Vudalla  (1451m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Vudalla  (1451m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.07273711450398" lon="6.869814712554216">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de la Vue des Alpes (1283m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de la Vue des Alpes (1283m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.370193256065249" lon="7.051715087145567">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Montvoie (858m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Montvoie (858m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.210047775879502" lon="7.194217247888446">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Pierre-Pertuis (827m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Pierre-Pertuis (827m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.343526961281896" lon="6.98851210065186">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Prafandaz (1570m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Prafandaz (1570m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.659047529101372" lon="6.347865471616387">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Pétra Félix (1144m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Pétra Félix (1144m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.547157671302557" lon="6.981795765459538">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Rathevel (1233m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Rathevel (1233m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.088301554322243" lon="7.04354926943779">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Son Mont (962m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Son Mont (962m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.442691162228584" lon="7.070633880794048">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Sonlomont (1503m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Sonlomont (1503m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.45793667063117" lon="6.940102251246572">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Sonloup (1149m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Sonloup (1149m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.304780775681138" lon="7.069356730207801">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Soud (1524m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Soud (1524m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.311597801744938" lon="7.270014127716422">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Soulce (792m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Soulce (792m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.540823467075825" lon="6.991603765636683">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col de Villard (1459m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col de Villard (1459m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.82994682341814" lon="6.494916826486588">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col des Etroits (1153m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col des Etroits (1153m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.512686004862189" lon="6.950795883312821">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col des Joncs (1197m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col des Joncs (1197m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.397235598415136" lon="7.10145371966064">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col des Mosses (1445m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col des Mosses (1445m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.096988534554839" lon="7.124246461316943">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col des Planches (1411m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col des Planches (1411m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.384813139215112" lon="7.219113344326615">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col des Rangiers (856m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col des Rangiers (856m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.90904013812542" lon="6.524114431813359">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col des Verrières (937m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col des Verrières (937m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.119422890245914" lon="7.03216471709311">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col du Chasseral (1502m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col du Chasseral (1502m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.566510144621134" lon="6.696679042652249">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col du Châlet-à-Gobet (872m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col du Châlet-à-Gobet (872m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.250555502250791" lon="7.183681782335043">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col du Fuet (935m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col du Fuet (935m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.109646800905466" lon="7.157668881118298">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col du Lein (1665m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col du Lein (1665m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.552882846444845" lon="6.250283438712358">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col du Marchairuz (1449m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col du Marchairuz (1449m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.650542160496116" lon="6.364578986540437">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col du Mollendruz (1184m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col du Mollendruz (1184m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.190265310928226" lon="7.039685128256679">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col du Mont Crosin (1227m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col du Mont Crosin (1227m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.685343068093061" lon="6.336939660832286">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col du Mont-d'Orzeires (1061m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col du Mont-d'Orzeires (1061m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.391873359680176" lon="7.046008855104446">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col du Moëllé (1661m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col du Moëllé (1661m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.353424228727818" lon="7.204536879435182">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col du Pillon (1546m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col du Pillon (1546m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.331701520830393" lon="7.286257166415453">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col du Sanetsch (2252m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col du Sanetsch (2252m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.101885493844748" lon="7.144135041162372">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col du Tronc (1622m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col du Tronc (1622m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.979455836117268" lon="6.561192534863949">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Col France (1120m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Col France (1120m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.100942134857178" lon="6.931263115257025">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Derrière Pertuis (1153m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Derrière Pertuis (1153m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.532618278637528" lon="7.860473357141018">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Egg (508m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Egg (508m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.415312873199582" lon="7.739625927060843">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Egg (607m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Egg (607m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.416819101199508" lon="7.8748660068959">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Egg (642m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Egg (642m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.956108966842294" lon="8.518884424120188">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Egg (774m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Egg (774m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.384868627414107" lon="9.292218005284667">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Egg (858m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Egg (858m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.541245352476835" lon="8.190623363479972">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Egg Rotberg (602m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Egg Rotberg (602m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.397023476660252" lon="7.662960682064295">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Eichhöhe (685m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Eichhöhe (685m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.400862975046039" lon="7.599433567374945">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Engihöchi (653m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Engihöchi (653m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.169237462803721" lon="8.236326612532139">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Erlosen Römerswil (762m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Erlosen Römerswil (762m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.203217446804047" lon="8.221843186765909">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Erlosen Waldhus (795m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Erlosen Waldhus (795m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.173437047749758" lon="8.772206576541066">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Etzel-Pass/Sankt Meinrad (950m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Etzel-Pass/Sankt Meinrad (950m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.63173945620656" lon="7.284058257937431">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Euschelspass (1567m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Euschelspass (1567m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.249589463695884" lon="6.846104068681598">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-F-Pas de Morgins (1369m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-F-Pas de Morgins (1369m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.328266641125083" lon="8.900884967297316">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Ferenwaltsberg (976m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Ferenwaltsberg (976m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.028607232496142" lon="9.529170803725719">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-FL-Sankt Luzisteig (713m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-FL-Sankt Luzisteig (713m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.750533655285835" lon="9.947177488356829">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Flüela-Pass (2383m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Flüela-Pass (2383m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.306725796312094" lon="7.075288183987141">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Forclaz (1601m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Forclaz (1601m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.141788298264146" lon="8.610690906643867">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Forcola (1020m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Forcola (1020m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.44441825337708" lon="9.206249099224806">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Forcola (1598m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Forcola (1598m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.217672266066074" lon="8.738759262487292">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Forcola di Dunzio (596m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Forcola di Dunzio (596m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.055211560800672" lon="7.83597556874156">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Fritzenfluh (929m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Fritzenfluh (929m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.01359692029655" lon="8.782715303823352">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Fuederegg (1482m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Fuederegg (1482m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.176436319947243" lon="8.098550671711564">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Furggu (1872m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Furggu (1872m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.572711914777756" lon="8.415211932733655">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Furka-Pass (2436m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Furka-Pass (2436m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.582557298243046" lon="7.423536311835051">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Gestelenpass (1851m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Gestelenpass (1851m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.677340446040034" lon="9.34816025197506">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Glaspass (1846m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Glaspass (1846m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.893478464335203" lon="8.108056420460343">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Glaubenberg-Pass (1540m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Glaubenberg-Pass (1540m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.819138946011662" lon="8.093384904786944">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Glaubenbielen-Pass/Glaubenbühlen-Pass (1611m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Glaubenbielen-Pass/Glaubenbühlen-Pass (1611m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.102872295305133" lon="8.965143654495478">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Gola di Lago (972m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Gola di Lago (972m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.696662241593003" lon="6.381641188636422">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Golet (1154m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Golet (1154m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.55884338542819" lon="8.562107970938087">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Gotthard-Pass/Passo del San Gottardo (2106m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Gotthard-Pass/Passo del San Gottardo (2106m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.155113117769361" lon="8.652715254575014">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Gottschalkenberg (1148m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Gottschalkenberg (1148m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.561222923919559" lon="8.336648438125849">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Grimsel-Pass (2165m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Grimsel-Pass (2165m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.655903896316886" lon="8.101658513769507">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Grosse Scheidegg (1962m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Grosse Scheidegg (1962m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.546871764585376" lon="7.257203813642263">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Grubenbergpass (1633m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Grubenbergpass (1633m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.425270909443498" lon="8.450557915493846">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Gubrist (531m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Gubrist (531m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.732029933482409" lon="7.447888255119324">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Gurnigel/Passhöhe Stierenhütte (1609m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Gurnigel/Passhöhe Stierenhütte (1609m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.520549260079861" lon="8.42088564299047">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Gätterli (605m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Gätterli (605m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.018323307856917" lon="8.551313001662493">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Gätterlipass (1190m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Gätterlipass (1190m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.051692754030228" lon="8.68402493186295">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Haggenegg (1414m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Haggenegg (1414m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.452118288725615" lon="7.496577808633447">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Hahnenmoospass (1950m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Hahnenmoospass (1950m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.088148165494204" lon="8.603598978370428">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Halsegg (1320m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Halsegg (1320m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.381227528676391" lon="7.869039159268141">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Hauenstein (690m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Hauenstein (690m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.415231401100755" lon="8.346412600949407">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Heitersberg (648m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Heitersberg (648m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.876162374392152" lon="7.978606475517154">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Hilferenpass (1290m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Hilferenpass (1290m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.171810790896416" lon="9.16300811804831">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Hinter Höhi (1416m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Hinter Höhi (1416m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.214811462908983" lon="8.611438320949674">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Hirzel-Pass (672m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Hirzel-Pass (672m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.023582197725773" lon="8.219891125336289">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Holderchäppeli (942m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Holderchäppeli (942m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.216708119958639" lon="8.325783312320709">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Horben (826m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Horben (826m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.362110922113061" lon="8.966693300753832">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Hulftegg (954m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Hulftegg (954m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.164743086323142" lon="9.383486118167639">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Höhi (1189m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Höhi (1189m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.083928547799587" lon="8.581062974408269">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Hüttenloch (1521m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Hüttenloch (1521m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.017480004578829" lon="8.733370034024119">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Ibergereggsattel (1406m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Ibergereggsattel (1406m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.591527946293354" lon="7.337787933647633">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Jaunpass (1511m)/Col de Bellegarde</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Jaunpass (1511m)/Col de Bellegarde</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.472240220755339" lon="9.727659216150641">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Julier-Pass (2284m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Julier-Pass (2284m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.121312171220779" lon="9.118109531700611">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Kerenzerberg (743m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Kerenzerberg (743m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.146473051980138" lon="8.599854949861765">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Kisten-Pass (946m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Kisten-Pass (946m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.868110215291381" lon="8.855364862829447">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Klausen-Pass (1952m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Klausen-Pass (1952m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.856258036568761" lon="9.411561554297805">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Kunkelspass (1357m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Kunkelspass (1357m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.37870667129755" lon="7.21125103533268">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-La Caquerelle (834m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-La Caquerelle (834m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.494574053213" lon="7.194539615884423">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-La Forcla (1209m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-La Forcla (1209m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.350947041064501" lon="7.067523188889027">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-La Forclaz (1261m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-La Forclaz (1261m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.087372479960322" lon="7.518575191497803">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-La Forclaz (1731m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-La Forclaz (1731m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.295386614277959" lon="7.484422959387302">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-La Hauteur (795m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-La Hauteur (795m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.124100830405951" lon="6.830833917483687">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Le Basset (1057m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Le Basset (1057m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.086387211456895" lon="6.757121281698346">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Le Basset (1238m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Le Basset (1238m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.519948756322265" lon="7.00009161606431">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Le Creux (1490m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Le Creux (1490m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.754140891134739" lon="9.559041811153293">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Lenzerheidepass/Parpan Höhe (1547m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Lenzerheidepass/Parpan Höhe (1547m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.131642112508416" lon="6.997310416772962">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Les Pontins (1110m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Les Pontins (1110m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.658728262409568" lon="6.306105237454176">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Les Vyfourches (1045m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Les Vyfourches (1045m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.286661975085735" lon="8.275673529133201">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Lindenberg Brandholz (741m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Lindenberg Brandholz (741m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.24321429617703" lon="8.305653082206845">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Lindenberg Schlatt (822m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Lindenberg Schlatt (822m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.280752625316381" lon="7.845930000767112">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Loch (1523m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Loch (1523m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.563657699152827" lon="8.801336791366339">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Lukmanier-Pass/Passo del Lucomagno (1920m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Lukmanier-Pass/Passo del Lucomagno (1920m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.002618638798594" lon="7.825042884796858">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Lüderenalp (1144m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Lüderenalp (1144m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.39606892131269" lon="9.694898212328553">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Malojapass (1815m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Malojapass (1815m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.152098147198558" lon="8.626814670860767">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Mangelhöhe (1104m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Mangelhöhe (1104m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.736786579713225" lon="7.706663338467479">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Margelsattel (1196m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Margelsattel (1196m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.113021044060588" lon="8.416529484093189">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Michaelskreuz (781m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Michaelskreuz (781m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.308391723781824" lon="7.552093751728535">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Mieschegg (1104m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Mieschegg (1104m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.140252314507961" lon="8.905653348192573">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Monte Ceneri (554m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Monte Ceneri (554m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.25138838775456" lon="7.829382279887795">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Moosalp (2058m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Moosalp (2058m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.055592434480786" lon="8.660024525597692">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Mostelegg (1266m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Mostelegg (1266m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.760585652664304" lon="7.692055776715279">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Multenegg (1083m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Multenegg (1083m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.362511828541756" lon="8.367419075220823">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Mutschellen (552m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Mutschellen (552m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.093086112290621" lon="7.975203841924667">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Mörisegg (708m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Mörisegg (708m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.477726427838206" lon="8.386743552982807">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Nufenenpass (2478m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Nufenenpass (2478m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.65865215472877" lon="8.671186370775104">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Oberalp-Pass (2046m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Oberalp-Pass (2046m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.351734209805727" lon="7.763914922252297">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Oberer Hauenstein (734m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Oberer Hauenstein (734m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.230842942371964" lon="7.391608636826277">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Obergrenchenberg (1361m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Obergrenchenberg (1361m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.798036079853773" lon="7.492695143446326">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Oberschönegg (783m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Oberschönegg (783m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.639693714678288" lon="10.292405867949128">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Ofen-Pass/Pass dal Fuorn (2149m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Ofen-Pass/Pass dal Fuorn (2149m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.309699971228838" lon="9.241909990087152">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Osterbuelsattel (1068m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Osterbuelsattel (1068m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.678707199171185" lon="10.160515364259481">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Ova Spin (1889m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Ova Spin (1889m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.543109212070704" lon="8.590445928275585">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Passo Scimfuss (2238m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Passo Scimfuss (2238m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.357568349689245" lon="7.656264044344425">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Passwang (946m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Passwang (946m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.29177082888782" lon="8.103576544672251">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Pfaffenberg (622m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Pfaffenberg (622m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.02400716021657" lon="6.711768144741654">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Porte des Chaux (1079m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Porte des Chaux (1079m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.25827319920063" lon="6.872934373095632">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Portes de Culet (1787m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Portes de Culet (1787m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.99518003500998" lon="8.867700006812811">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Pragelpass (1548m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Pragelpass (1548m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.451192196458578" lon="7.769744452089071">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Ramlinsburg (521m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Ramlinsburg (521m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.141819084063172" lon="8.66370870731771">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Raten-Pass (1077m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Raten-Pass (1077m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.092931633815169" lon="8.157121064141393">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Recketschwandhöchi/Linden (840m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Recketschwandhöchi/Linden (840m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.620080228894949" lon="7.322566313669086">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Reidigenpass (1604m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Reidigenpass (1604m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.003545761108398" lon="8.091085245832801">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Rengg/Lobenalp (959m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Rengg/Lobenalp (959m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.30832994915545" lon="9.487808542326093">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Resspass (1309m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Resspass (1309m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.261553229764104" lon="9.039575038477778">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Ricken-Pass (790m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Ricken-Pass (790m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.488183965906501" lon="7.839677017182112">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Rickenbacherhöchi (558m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Rickenbacherhöchi (558m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.205082252621651" lon="9.266458321362734">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Rietegg (1414m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Rietegg (1414m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.219552602618933" lon="9.250113693997264">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Risipass (1459m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Risipass (1459m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.212162362411618" lon="9.341674670577049">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Rossegg (1343m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Rossegg (1343m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.395508615300059" lon="9.509695870801806">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Ruppen-Pass (1003m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Ruppen-Pass (1003m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.428679410368204" lon="7.986859884113073">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Saalhöhe (779m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Saalhöhe (779m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.512539992108941" lon="7.301980024203658">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Saanenmoserpass (1279m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Saanenmoserpass (1279m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.514109671115875" lon="7.30428203009069">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Saanenmöser (1279m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Saanenmöser (1279m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.396347308531404" lon="7.640661299228668">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Sabelhöhe (664m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Sabelhöhe (664m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.495873667299747" lon="9.170633219182491">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-San-Bernardino-Pass (2066m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-San-Bernardino-Pass (2066m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.409943174570799" lon="9.535046517848969">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Sankt Anton (1110m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Sankt Anton (1110m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.339025484398007" lon="7.805208703503013">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Santelhöchi (797m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Santelhöchi (797m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.086689462885261" lon="8.630236079916358">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Sattel Morgarten (791m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Sattel Morgarten (791m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.093107486143708" lon="8.669114699587226">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Sattel/Biberegg (932m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Sattel/Biberegg (932m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.127335658296943" lon="8.846818674355745">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Sattelegg (1190m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Sattelegg (1190m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.826177313923836" lon="7.797028133645654">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Schallenbergpass (1167m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Schallenbergpass (1167m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.303802380338311" lon="8.94368564710021">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Scheidegg (1197m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Scheidegg (1197m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.299517635256052" lon="9.35383765026927">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Scheidegg (1353m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Scheidegg (1353m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.335821837186813" lon="7.581815393641591">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Schelten-Pass (1051m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Schelten-Pass (1051m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.306540915742517" lon="8.887008391320705">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Schufelberger Egg (990m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Schufelberger Egg (990m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.030881242826581" lon="9.018175369128585">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Schwammhöhe/Schwammhöchi (1060m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Schwammhöhe/Schwammhöchi (1060m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.74725373275578" lon="7.385878851637244">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Schwarzenbühl (1491m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Schwarzenbühl (1491m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.989286886528134" lon="8.63009300082922">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Schwyzerhöhe (750m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Schwyzerhöhe (750m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.25338414311409" lon="9.3032958637923">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Schwägalp-Pass (1300m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Schwägalp-Pass (1300m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.970981061458588" lon="8.007880942896008">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Schüpferegg (1019m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Schüpferegg (1019m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.429396901279688" lon="7.629228550940752">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Seetalhöhe (551m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Seetalhöhe (551m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.883242148905993" lon="8.091465448960662">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Sewenegg (1742m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Sewenegg (1742m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.721781572327018" lon="8.50458431057632">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Siblingerhöhe (555m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Siblingerhöhe (555m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.391007952392101" lon="7.713664406910539">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Sixfeld (677m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Sixfeld (677m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.433911478146911" lon="8.060240764170885">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Staffelegg (621m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Staffelegg (621m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.497622659429908" lon="8.839544439688325">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Steig (595m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Steig (595m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.402751417830586" lon="8.996395077556372">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Steig (834m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Steig (834m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.394235739484429" lon="7.582965223118663">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Steinenbühlhöhe (613m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Steinenbühlhöhe (613m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.044966109097004" lon="8.042357219383121">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Steinhuserberg (888m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Steinhuserberg (888m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.384760165587068" lon="8.915657652541995">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Sternenberg (888m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Sternenberg (888m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.005616510286927" lon="8.748255623504519">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Sternenegg (1497m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Sternenegg (1497m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.987425852566957" lon="7.509418884292245">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Stockerehöchi (692m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Stockerehöchi (692m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.124911863356829" lon="7.93642396107316">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Stocki (721m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Stocki (721m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.360893869772553" lon="9.495033491402864">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Stosss (943m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Stosss (943m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.185529595240951" lon="6.868875185027719">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Sur Cou (1350m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Sur Cou (1350m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.730459667742252" lon="8.449330553412437">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Susten-Pass (2224m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Susten-Pass (2224m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.729605803266168" lon="8.447690131142735">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Sustenpass (tunnel) (2224m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Sustenpass (tunnel) (2224m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.980560403317213" lon="7.517104670405388">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Talhöchi (769m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Talhöchi (769m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.049654191359878" lon="8.830268187448382">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Tierfäderenegg (1430m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Tierfäderenegg (1430m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.06083313561976" lon="7.999459728598595">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Twerenegg (938m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Twerenegg (938m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.117780791595578" lon="8.656609822064638">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Tänndlichrütz (1017m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Tänndlichrütz (1017m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.263072701171041" lon="8.713132264092565">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Türli (608m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Türli (608m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.380328737199306" lon="7.657328546047211">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Ulmethöhe (973m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Ulmethöhe (973m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.89299357123673" lon="9.858854524791241">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Unter Sattel (1448m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Unter Sattel (1448m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.169243497774005" lon="9.198943935334682">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Vorder Höhi (1537m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Vorder Höhi (1537m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.368037346750498" lon="8.462754925712943">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Waldegg (589m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Waldegg (589m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.40268905647099" lon="9.41114648245275">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Waldegg (986m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Waldegg (986m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.302139410749078" lon="8.165878728032112">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Wampfle (705m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Wampfle (705m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.325976034626365" lon="9.114171210676432">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Wasserfluh (848m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Wasserfluh (848m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.725336564704776" lon="7.442754004150629">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Wasserscheide (1584m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Wasserscheide (1584m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.46226410381496" lon="8.029921241104603">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Wasserscheide (585m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Wasserscheide (585m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.250928496941924" lon="7.726483354344964">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Weierhöhe (485m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Weierhöhe (485m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.255142917856574" lon="7.508265199139714">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Weissenstein (1279m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Weissenstein (1279m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.203406458720565" lon="9.350755456835032">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Wildhaus (1093m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Wildhaus (1093m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.72230239957571" lon="8.234294839203358">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Winterlücke (1391m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Winterlücke (1391m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.517038164660335" lon="7.837619762867689">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Wintersingeregg (504m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Wintersingeregg (504m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.48611212708056" lon="7.813080567866564">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Wintersingerhöchi (622m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Wintersingerhöchi (622m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.326182229444385" lon="7.757576359435916">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Wishöchi (811m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Wishöchi (811m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.385236928239465" lon="7.886111168190837">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Wisnerhöchi (778m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Wisnerhöchi (778m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.392538487911224" lon="9.460983518511057">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Wissegg (1057m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Wissegg (1057m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.832989454269409" lon="9.853846253827214">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Wolfgang-Pass (1631m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Wolfgang-Pass (1631m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.130518769845366" lon="7.4848547950387">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Wolftürli (618m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Wolftürli (618m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.13780683465302" lon="8.53312561288476">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Zugerberg/Passhöhe Tankfalle (943m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Zugerberg/Passhöhe Tankfalle (943m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.575325416401029" lon="8.277579071000218">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Zurzacherberg Passhöhe (477m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Zurzacherberg Passhöhe (477m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.904325988143682" lon="8.334883293136954">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH-Ächerli-Pass (1458m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH-Ächerli-Pass (1458m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.057740021497011" lon="7.001410005614161">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH&gt;FR-Col de la Forclaz (1527m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH&gt;FR-Col de la Forclaz (1527m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.455679759383202" lon="6.090265531092882">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH&gt;FR-Col de la Givrine (1232m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH&gt;FR-Col de la Givrine (1232m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.0510517898947" lon="6.719985762611032">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH&gt;FR-Col des Roches (919m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH&gt;FR-Col des Roches (919m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.110666207969189" lon="8.845414873212576">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH&gt;IT-Alpe di Neggia (1395m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH&gt;IT-Alpe di Neggia (1395m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="45.869169998914003" lon="7.170309964567423">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH&gt;IT-Col du Grand Saint Bernard (2473m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH&gt;IT-Col du Grand Saint Bernard (2473m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.440825685858727" lon="10.056123537942767">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH&gt;IT-Forcola di Livigno (2315m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH&gt;IT-Forcola di Livigno (2315m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.249976037070155" lon="8.031456051394343">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH&gt;IT-Simplon-Pass (2005m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH&gt;IT-Simplon-Pass (2005m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.505513358861208" lon="9.330365471541882">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH&gt;IT-Splügen-Pass/Passo dello Spluga (2113m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH&gt;IT-Splügen-Pass/Passo dello Spluga (2113m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.541586639359593" lon="10.433152187615633">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CH&gt;IT-Umbrail-Pass/Passo dell'Umbrail (2503m)</name>
+    <type>POI Suiza.2018.11.20</type>
+    <extensions>
+      <osmand:address>CH&gt;IT-Umbrail-Pass/Passo dell'Umbrail (2503m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <osmand:group color="#ffff0000" background="circle" icon="mountain" name="POI Suiza.2018.11.20" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

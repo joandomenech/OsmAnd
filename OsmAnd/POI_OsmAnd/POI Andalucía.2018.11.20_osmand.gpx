@@ -1,0 +1,1748 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-POI Andalucía.2018.11.20</name>
+    <time>2024-03-17T17:49:50Z</time>
+  </metadata>
+  <wpt lat="36.884438004344702" lon="-2.043255027383566">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AL-Alto de Hortichuelas (267m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>AL-Alto de Hortichuelas (267m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.020845012739301" lon="-2.165288999676704">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AL-Alto de Níjar (634m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>AL-Alto de Níjar (634m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.225000010803342" lon="-2.410999964922667">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AL-Alto Velefique (1860m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>AL-Alto Velefique (1860m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.223000004887581" lon="-2.545000026002526">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AL-Calar Alto (2155m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>AL-Calar Alto (2155m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.298999978229403" lon="-2.524999966844916">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AL-Carretera Paisajística</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>AL-Carretera Paisajística</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.264000000432134" lon="-2.455999972298741">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AL-Collado del Ramal (1696m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>AL-Collado del Ramal (1696m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.987012969329953" lon="-2.222510995343328">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AL-Huebro (710m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>AL-Huebro (710m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.25503203459084" lon="-2.775949034839869">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AL-Padilla-Escúllar (2036m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>AL-Padilla-Escúllar (2036m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.995121035724878" lon="-2.301068035885692">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AL-Pico Colativí (1387m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>AL-Pico Colativí (1387m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.104130033403635" lon="-2.762301033362746">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AL-Santillana (1350m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>AL-Santillana (1350m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.251598974689841" lon="-2.412959989160299">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AL-Tetica de Bacares (2078m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>AL-Tetica de Bacares (2078m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.284956015646458" lon="-2.346643963828683">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AL-Área Recreativa Reul Alto (1149m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>AL-Área Recreativa Reul Alto (1149m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.935112476348877" lon="-5.212824940681458">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CA-Carretera a Jerez</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CA-Carretera a Jerez</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.754999961704016" lon="-5.394000029191375">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CA-Puerto de El Boyar (1100m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CA-Puerto de El Boyar (1100m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.55899996869266" lon="-5.6010000128299">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CA-Puerto de Gáliz (417m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CA-Puerto de Gáliz (417m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.618999978527427" lon="-5.455000000074506">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CA-Puerto Mojón Vívora (595m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CA-Puerto Mojón Vívora (595m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.78760003298521" lon="-5.376783348619938">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CA-Puerto Palomas (1357m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CA-Puerto Palomas (1357m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.70400002039969" lon="-5.371999964118004">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CA-Puerto Pedro Ruiz (905m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CA-Puerto Pedro Ruiz (905m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.521861096844077" lon="-5.549249975010753">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CA-Sierra Alcornocales (340m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CA-Sierra Alcornocales (340m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.38823413848877" lon="-4.212226867675781">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CO-Carretera Curvas 3</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CO-Carretera Curvas 3</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.332491716369987" lon="-4.234691541641951">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CO-Carretera Curvas 4</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CO-Carretera Curvas 4</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.30672406964004" lon="-4.257036857306957">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CO-Carretera Curvas 5</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CO-Carretera Curvas 5</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.245841026306152" lon="-4.313957691192627">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CO-Carretera Curvas 6</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CO-Carretera Curvas 6</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.542171981185675" lon="-4.304158994928002">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CO-Cueva de Los Murciélagos (985m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CO-Cueva de Los Murciélagos (985m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.486932976171374" lon="-4.380145976319909">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CO-Ermita de Virgen de la Sierra (1208m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CO-Ermita de Virgen de la Sierra (1208m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.989238975569606" lon="-4.539978979155421">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CO-Las Mojoneras (340m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CO-Las Mojoneras (340m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.049588007852435" lon="-4.941666014492512">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CO-Puerto del Aire (779m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CO-Puerto del Aire (779m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.646159907802939" lon="-4.329952457919717">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CO-Puerto Niefla (900m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CO-Puerto Niefla (900m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.159111151471734" lon="-4.813444437459111">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CO-Sierra de Córdoba (667m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CO-Sierra de Córdoba (667m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.403442036360502" lon="-4.298646384850144">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>CO-Subida Fuencaliente</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>CO-Subida Fuencaliente</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.141268569976091" lon="-3.463375316932797">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Ascensión Sierra Nevada (1480m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Ascensión Sierra Nevada (1480m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.960430014878511" lon="-3.342726035043597">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Capileira (1832m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Capileira (1832m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.91661168821156" lon="-3.471772810444236">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Carretera Curvas</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Carretera Curvas</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.009377479553223" lon="-3.986599445343018">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Carretera curvas 2</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Carretera curvas 2</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.903903549537063" lon="-3.264056174084544">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Carretera curvas 3</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Carretera curvas 3</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.893351152539253" lon="-3.54481958784163">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Carretera la cabra</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Carretera la cabra</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.728576011955738" lon="-3.41503101401031">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Conjuros (574m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Conjuros (574m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.095863968133926" lon="-3.543176986277103">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Cumbres Verdes (1195m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Cumbres Verdes (1195m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.926399990916252" lon="-3.427565982565284">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Cáñar (1048m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Cáñar (1048m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.13858200237155" lon="-3.493223022669554">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-El Purche (1495m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-El Purche (1495m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.244050987064838" lon="-3.685204982757568">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Ermita de los Tres Juanes (858m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Ermita de los Tres Juanes (858m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.813206998631358" lon="-3.306347988545895">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Haza de Lino (1302m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Haza de Lino (1302m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.263748962432146" lon="-3.537897979840636">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-La Alfaguara (1438m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-La Alfaguara (1438m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.956247026100755" lon="-3.601584015414119">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Las Albuñuelas (873m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Las Albuñuelas (873m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.2297010011971" lon="-3.241335013881326">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Lugros (1242m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Lugros (1242m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.841827007010579" lon="-3.721274994313717">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Mirador de la Cabra Montés (1002m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Mirador de la Cabra Montés (1002m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.34028403647244" lon="-3.788309013471007">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Moclín (1038m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Moclín (1038m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.824720967561007" lon="-3.401090987026691">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Puerto Camacho-Sierra de Lújar (1873m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Puerto Camacho-Sierra de Lújar (1873m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.11403333581984" lon="-3.029733365401626">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Puerto de la Ragua (2000m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Puerto de la Ragua (2000m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.330628000199795" lon="-3.831274984404445">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Puerto Lope (Velillos) (905m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Puerto Lope (Velillos) (905m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.055529998615384" lon="-3.36628002114594">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Sierra Nevada-Pico Veleta (3367m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Sierra Nevada-Pico Veleta (3367m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.999714989215136" lon="-3.265170967206359">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>GR-Trevélez (1535m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>GR-Trevélez (1535m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.884866679087281" lon="-6.65973337367177">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Alajar (842m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Alajar (842m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.961733341217041" lon="-6.323616625741124">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Alto de Valdenueces (629m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Alto de Valdenueces (629m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.896422976627946" lon="-6.558547960594296">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Aracena (697m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Aracena (697m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.010033303871751" lon="-6.431333301588893">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Callo de Herradura (700m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Callo de Herradura (700m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.871611034497619" lon="-6.787705002352595">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Cerro de San Cristobal (891m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Cerro de San Cristobal (891m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.010933352634311" lon="-6.925099985674024">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-La Contienda (619m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-La Contienda (619m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.959816651418805" lon="-6.817016685381532">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-La Corte (707m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-La Corte (707m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.61115001514554" lon="-6.562500027939677">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-La Picota (359m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-La Picota (359m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.882550004869699" lon="-6.629116628319025">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Linares (603m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Linares (603m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.896816674619913" lon="-6.558333300054073">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Pantano Aracena (696m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Pantano Aracena (696m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.996233338490129" lon="-6.638933345675468">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Puerto Alto (686m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Puerto Alto (686m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.893833303824067" lon="-6.739500006660819">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Puerto de Aguafría (679m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Puerto de Aguafría (679m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.88631297647953" lon="-6.661233985796571">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Puerto de Alájar (842m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Puerto de Alájar (842m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.880825009196997" lon="-6.64647102355957">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Puerto de Linares (703m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Puerto de Linares (703m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.926899995654821" lon="-6.6242999676615">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Puerto de Palancar (739m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Puerto de Palancar (739m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.608366636559367" lon="-6.54023333452642">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Puerto El Berrocal (300m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Puerto El Berrocal (300m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.902983324602246" lon="-6.829749969765544">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Puerto Las Veredas (720m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Puerto Las Veredas (720m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.884983355179429" lon="-6.776366634294391">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-San Cristobal (888m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-San Cristobal (888m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.86163330078125" lon="-6.723083294928074">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Santa Ana la Real (659m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Santa Ana la Real (659m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.803305564448237" lon="-6.548666702583432">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Sierra de Huelva (381m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Sierra de Huelva (381m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.030599979683757" lon="-6.607516631484032">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>H-Sierra del Viento (804m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>H-Sierra del Viento (804m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.786293989047408" lon="-3.483188040554523">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Albánchez (1161m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Albánchez (1161m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.312680022791028" lon="-2.581493994221091">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Alto de Las Acebeas (1345m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Alto de Las Acebeas (1345m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.195369001477957" lon="-2.484633978456259">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Alto de Marchena (1354m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Alto de Marchena (1354m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.752201016992331" lon="-3.645017025992274">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Alto de Pegalajar (942m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Alto de Pegalajar (942m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.33116396330297" lon="-2.571924040094018">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Alto del Tambor (1315m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Alto del Tambor (1315m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.162068789824843" lon="-4.018567940220237">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Carretera a Virgen de la Cabeza</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Carretera a Virgen de la Cabeza</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.829300276935101" lon="-3.443030677735806">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Carretera Curvas 1</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Carretera Curvas 1</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.683086944743991" lon="-3.482733489945531">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Carretera Curvas 2</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Carretera Curvas 2</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.698211669921875" lon="-2.943477630615234">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Carretera Curvas 7</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Carretera Curvas 7</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.843118850141764" lon="-3.238308895379305">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Carretera Paisajística 1</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Carretera Paisajística 1</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.851267568767071" lon="-3.121998924762011">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Carretera Paisajística 2</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Carretera Paisajística 2</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.892518183216453" lon="-3.050943436101079">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Carretera Paisajística 3</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Carretera Paisajística 3</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.184968065470457" lon="-2.898467062041163">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Carretera Paisajística 4</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Carretera Paisajística 4</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.27551338262856" lon="-3.986308258026838">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Carretera Paisajística 5</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Carretera Paisajística 5</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.563714059069753" lon="-3.891115738078952">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Carretera Paisajística 6</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Carretera Paisajística 6</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.108162423595786" lon="-2.806917149573565">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Carretera Parque Cazorla</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Carretera Parque Cazorla</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.768209027126431" lon="-3.802046030759811">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Castillo de Santa Catalina (810m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Castillo de Santa Catalina (810m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.390048006549478" lon="-3.494363967329264">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Collado de los Jardines (871m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Collado de los Jardines (871m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.076889039948583" lon="-2.922670980915427">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Collado de Traviesa (1386m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Collado de Traviesa (1386m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.163354992866516" lon="-2.873746985569596">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Collado del Agua de Los Perros (1222m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Collado del Agua de Los Perros (1222m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.254091022536159" lon="-2.657147962599993">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-El Yelmo (1955m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-El Yelmo (1955m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.173687281087041" lon="-2.796624843031168">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Embalse El Tranco</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Embalse El Tranco</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.633602619171143" lon="-3.731038570404053">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Embalse Quiebrajano</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Embalse Quiebrajano</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.219345016404986" lon="-2.652346976101398">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-La Cumbre (1528m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-La Cumbre (1528m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.632053978741169" lon="-3.77460996620357">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-La Pandera (1830m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-La Pandera (1830m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.940916633233428" lon="-2.939216690137982">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Mirador de las Palomas (1290m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Mirador de las Palomas (1290m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.712390916422009" lon="-3.288620598614216">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Puerto con vistas</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Puerto con vistas</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.786383340135217" lon="-3.038833346217871">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Puerto de Tíscar (1189m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Puerto de Tíscar (1189m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.044433305040002" lon="-2.485200008377433">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Puerto del Pinar (1600m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Puerto del Pinar (1600m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.178934184834361" lon="-4.035930633544922">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>J-Santuario Virgen de la Cabeza</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>J-Santuario Virgen de la Cabeza</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.787679996341467" lon="-4.249098021537066">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Alto de Moclinejo (601m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Alto de Moclinejo (601m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.076593553647399" lon="-4.237026069313288">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Carretera Curvas</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Carretera Curvas</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.98911246843636" lon="-4.180219396948814">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Carretera Curvas 2</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Carretera Curvas 2</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.963527882471681" lon="-4.201305918395519">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Carretera Paisajística</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Carretera Paisajística</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.962025091052055" lon="-4.692089566960931">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Carretera Paisajística 2</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Carretera Paisajística 2</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.859281063079834" lon="-4.158926010131836">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Embalse Viñuelas</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Embalse Viñuelas</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.672835014760494" lon="-5.203278036788106">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Encinas Borrachas (1026m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Encinas Borrachas (1026m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.578839011490345" lon="-4.944774024188519">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Los Altos de Istán (346m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Los Altos de Istán (346m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.585098030045629" lon="-5.206849984824657">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Puerto de El Colmenar (755m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Puerto de El Colmenar (755m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.746287979185581" lon="-4.9279760196805">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Puerto de las Abejas (822m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Puerto de las Abejas (822m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.841586027294397" lon="-4.95934696868062">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Puerto del Aire (930m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Puerto del Aire (930m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.558577017858624" lon="-5.288850981742144">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Puerto del Espino (827m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Puerto del Espino (827m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.620080238208175" lon="-5.066149514168501">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Subida Ronda</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Subida Ronda</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="36.665652310475707" lon="-5.228720884770155">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>MA-Subida Ronda 2</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>MA-Subida Ronda 2</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.8730833157897" lon="-5.616966700181365">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>SE-Castillo de Constantina (592m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>SE-Castillo de Constantina (592m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.674066675826907" lon="-6.422016648575664">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>SE-Collado de la Sanguijuela (488m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>SE-Collado de la Sanguijuela (488m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.773883324116468" lon="-6.07843330129981">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>SE-La mea del perro (514m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>SE-La mea del perro (514m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.016983302310109" lon="-5.173016684129834">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>SE-Peñon de Algamita (776m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>SE-Peñon de Algamita (776m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="38.053366653621197" lon="-5.674916664138436">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>SE-Puerto de Chiriva (735m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>SE-Puerto de Chiriva (735m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.006949996575713" lon="-5.179516682401299">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>SE-Puerto de Zamorano (778m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>SE-Puerto de Zamorano (778m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="37.933006715029478" lon="-5.71438143029809">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>SE-Sierra Norte(400m)</name>
+    <type>POI Andalucía.2018.11.20</type>
+    <extensions>
+      <osmand:address>SE-Sierra Norte(400m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <osmand:group color="#ffff0000" background="circle" icon="mountain" name="POI Andalucía.2018.11.20" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

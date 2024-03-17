@@ -1,0 +1,2406 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-POI Austria.2018.11.20</name>
+    <time>2024-03-17T17:49:50Z</time>
+  </metadata>
+  <wpt lat="47.123654996976256" lon="12.831006981432438">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-@Edelweissspitze (2571m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-@Edelweissspitze (2571m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.236972041428089" lon="12.158234277740121">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Alpenstrasse Mautstelle Hochkrimml/GerlosPass  (1628m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Alpenstrasse Mautstelle Hochkrimml/GerlosPass  (1628m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.500660009682178" lon="15.645259972661734">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Alpler Schanz Sattel (1099m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Alpler Schanz Sattel (1099m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.12992231361568" lon="10.210603689774871">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Arlberg Pass (1800m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Arlberg Pass (1800m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.92722218669951" lon="15.988611141219735">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Auf dem Hals (662m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Auf dem Hals (662m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.457777773961425" lon="15.594166656956077">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Auf der Schanz (1171m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Auf der Schanz (1171m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.373777801170945" lon="15.063916649669409">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Berglucken (962m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Berglucken (962m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.918042888864875" lon="10.095461150631309">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Bielerhöhe/Silvretta Hochalpenstrasse (2035m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Bielerhöhe/Silvretta Hochalpenstrasse (2035m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.484444404020905" lon="14.962222203612328">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Bildstockhöhe (856m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Bildstockhöhe (856m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.610555561259389" lon="14.518055599182844">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Buchauer Sattel (861m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Buchauer Sattel (861m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.334053004160523" lon="11.114837871864438">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Bucher Höhe (1259m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Bucher Höhe (1259m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.63783329166472" lon="15.844305530190468">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Bärensattel (860m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Bärensattel (860m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.422940153628588" lon="9.809152521193027">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Bödele LosenPass (1140m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Bödele LosenPass (1140m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.391666686162353" lon="13.048888854682446">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Dientner Sattel (1357m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Dientner Sattel (1357m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.421944467350841" lon="15.448333360254765">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Eibeggsattel (1001m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Eibeggsattel (1001m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.93558000959456" lon="13.759290017187595">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Eisentalhohe (2049m)/Nockalm toll road</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Eisentalhohe (2049m)/Nockalm toll road</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.656944449990988" lon="14.660833356902003">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Erbsattel (671m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Erbsattel (671m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.271772027015686" lon="9.907257249578834">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Faschinajoch (1486m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Faschinajoch (1486m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.567499987781048" lon="15.866111135110259">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Feistritzsattel (1298m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Feistritzsattel (1298m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.118044067174196" lon="12.504384163767099">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Felbertauern (Tunnel) (1632m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Felbertauern (Tunnel) (1632m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.363411374390125" lon="10.833023115992546">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-FernPass (1210m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-FernPass (1210m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.397222211584449" lon="13.001388860866427">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Filzensattel (1291m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Filzensattel (1291m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.913376012817025" lon="10.493332240730524">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Finstermunz Pass (1252m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Finstermunz Pass (1252m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.940555591136217" lon="14.037222191691399">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Flattnitzer Höhe (1427m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Flattnitzer Höhe (1427m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.157978052273393" lon="10.164816034957767">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-FlexenPass (1773m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-FlexenPass (1773m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.266550855711102" lon="9.832874564453959">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Furkajoch (1760m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Furkajoch (1760m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.118055550381541" lon="12.829166650772095">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Fuscher Törl (2404m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Fuscher Törl (2404m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.107499968260527" lon="14.916666643694043">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Gaberlsattel (1547m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Gaberlsattel (1547m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.454222505912185" lon="10.623669577762485">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Gaicht-Pass (1056m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Gaicht-Pass (1056m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.718138856813312" lon="12.967194467782974">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Gailbergsattel (981m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Gailbergsattel (981m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.065555583685637" lon="15.377222215756774">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Gaisbergsattel (527m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Gaisbergsattel (527m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.243007598444819" lon="12.110655242577195">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Gerlos-Pass (1531m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Gerlos-Pass (1531m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.682416694238782" lon="15.097500002011657">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Globensattel (1080m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Globensattel (1080m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.233055597171187" lon="15.54444445297122">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Gollersattel (790m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Gollersattel (790m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.028099959716201" lon="14.144880026578903">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Grattinger Sattel (1170m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Grattinger Sattel (1170m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.023250022903085" lon="15.373027743771672">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Greifgrube (502m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Greifgrube (502m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.972333338111639" lon="14.973083306103945">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Grestner Höhe (624m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Grestner Höhe (624m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.456331308931112" lon="12.643247656524181">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-GriessenPass (1000m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-GriessenPass (1000m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.981303291395307" lon="13.085060371086001">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Grosse Oscheniksee (1670m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Grosse Oscheniksee (1670m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.108611097559333" lon="16.21722218580544">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Großer Sattel (543m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Großer Sattel (543m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.081181881949306" lon="12.842616001144052">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Grossglockner Hochalpenstrasse/Hochtor (2505m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Grossglockner Hochalpenstrasse/Hochtor (2505m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.79527778737247" lon="15.960277793928981">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Grünbacher Sattel (678m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Grünbacher Sattel (678m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.339999964460731" lon="15.745833339169621">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Gschaid (807m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Gschaid (807m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.938888873904943" lon="15.42749997228384">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Gscheid (841m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Gscheid (841m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.963055577129126" lon="15.470833322033286">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Gscheid (868m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Gscheid (868m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.878019971773028" lon="14.370190026238561">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Gunzenberg Sattel (1021m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Gunzenberg Sattel (1021m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.287170588970184" lon="10.654785549268126">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Hahntennjoch (1894m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Hahntennjoch (1894m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.231312915682793" lon="10.927743734791875">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Haimingjoch/Sattele (1690m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Haimingjoch/Sattele (1690m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.912739994004369" lon="15.030600009486079">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Hebalm Sattel (1420m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Hebalm Sattel (1420m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.138194438070059" lon="16.049611112102866">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Hengstlhöhe (517m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Hengstlhöhe (517m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.701666681095958" lon="14.461388904601336">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Hengstpass (985m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Hengstpass (985m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.068611122667789" lon="14.871944412589073">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-HirscheggerSattel (1543m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-HirscheggerSattel (1543m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.228389978408813" lon="14.356990037485957">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Hochegger Sattel (1340m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Hochegger Sattel (1340m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.864889971911907" lon="13.998620007187128">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Hochrindl Sattel (1561m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Hochrindl Sattel (1561m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.569722197949886" lon="13.301666686311364">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Hochsattel (1023m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Hochsattel (1023m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.269647968932986" lon="10.130908219143748">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-HochtannenbergPass (1675m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-HochtannenbergPass (1675m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.081121113151312" lon="12.842592196539044">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Hochtor Pass (2506m)/Grossglockner toll road</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Hochtor Pass (2506m)/Grossglockner toll road</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.260555556043983" lon="15.411666641011834">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Hohenwarther Höhe (475m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Hohenwarther Höhe (475m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.304988754913211" lon="10.895191356539726">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Holzleitnersattel (1120m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Holzleitnersattel (1120m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.374166697263718" lon="9.828611109405756">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Hottersattel (1249m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Hottersattel (1249m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.85619299300015" lon="12.858968088403344">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Iselsberg-Pass (1204m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Iselsberg-Pass (1204m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.418779963627458" lon="15.658909985795617">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Jagerkreuz Sattel (1060m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Jagerkreuz Sattel (1060m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.844730010256171" lon="15.314670000225306">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Josefsberg Pass (1012m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Josefsberg Pass (1012m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.718055540695786" lon="12.541111148893833">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-KartitscherSattel (1525m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-KartitscherSattel (1525m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.059260020032525" lon="13.615550016984344">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Katschberg Sattel (1641m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Katschberg Sattel (1641m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.387499958276749" lon="11.876666704192758">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Kerschbaumersattel (1111m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Kerschbaumersattel (1111m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.589999973773956" lon="14.458333365619183">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-KerschbaumerSattel (769m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-KerschbaumerSattel (769m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.475473145022988" lon="12.429998628795147">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Kitzbüheler Horn (1989m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Kitzbüheler Horn (1989m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.062138892710209" lon="15.845916699618101">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Klammhöhe (618m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Klammhöhe (618m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.488055530935526" lon="14.268611082807183">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Kleiner Loibl Pass (770m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Kleiner Loibl Pass (770m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.104722229763865" lon="16.221111137419939">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Kleiner Sattel (498m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Kleiner Sattel (498m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.936666639521718" lon="14.674166701734066">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Klippitztörl (1644m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Klippitztörl (1644m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.810277789831161" lon="15.80027773976326">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Klostertaler Gscheid (764m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Klostertaler Gscheid (764m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.66833333671093" lon="15.010277749970555">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Koglereck (1347m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Koglereck (1347m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.708500003442168" lon="13.254888877272606">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Kreuzbergsattel (1074m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Kreuzbergsattel (1074m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.096666634082794" lon="16.175833353772759">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Kreuzsattel (589m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Kreuzsattel (589m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.380450023338199" lon="15.79266001470387">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Kreuzwirt Sattel (1038m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Kreuzwirt Sattel (1038m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.816388867795467" lon="15.439444435760379">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Krumbachsattel (951m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Krumbachsattel (951m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.21620000898838" lon="11.030899984762073">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Kuhtai Sattel (2017m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Kuhtai Sattel (2017m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.485722260549664" lon="14.541055541485548">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Kurniksatte (991m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Kurniksatte (991m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.213624166324735" lon="11.023564813658595">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Kühtai (2020m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Kühtai (2020m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.774722259491682" lon="15.485833324491978">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Lahnsattel (1015m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Lahnsattel (1015m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.626388892531395" lon="13.41499999165535">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Lienbachsattel (1304m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Lienbachsattel (1304m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.433888930827379" lon="9.843888888135552">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Lorenapass (1050m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Lorenapass (1050m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.508222222328186" lon="14.710083324462175">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Luschasattel (1285m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Luschasattel (1285m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.064999971538782" lon="15.558611126616597">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Meiselhöhe (521m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Meiselhöhe (521m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.100000008940697" lon="12.836944470182061">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Mittertörl (2373m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Mittertörl (2373m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.013055557385087" lon="15.532499989494681">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Moarigrabensattel (698m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Moarigrabensattel (698m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.674030013382435" lon="13.516429988667369">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Moschbacher Bodel (1116m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Moschbacher Bodel (1116m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.574710184708238" lon="9.798909081146121">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Möggers Rucksteig (781m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Möggers Rucksteig (781m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.371413493528962" lon="10.693077854812145">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-NamlosPass (1373m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-NamlosPass (1373m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.110555591061711" lon="14.369444455951452">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Neumarkter Sattel (894m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Neumarkter Sattel (894m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.936527775600553" lon="14.663138883188367">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Neustifter Sattel (706m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Neustifter Sattel (706m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.681138897314668" lon="15.377249959856272">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Niederalpl Pass(1221m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Niederalpl Pass(1221m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.895079407840967" lon="10.484895268455148">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Norbertshöhe (1405m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Norbertshöhe (1405m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.044999971985817" lon="14.718888849020004">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Obdacher Sattel (955m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Obdacher Sattel (955m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.059027781710029" lon="15.436111120507121">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Obersattel (466m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Obersattel (466m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.248611068353057" lon="13.556388868018985">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Obertauern (1739m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Obertauern (1739m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.88472224958241" lon="15.651388904079795">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Ochsattel (864m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Ochsattel (864m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.660240022465587" lon="14.010509988293052">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Ossiacher  Tauern (1009m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Ossiacher  Tauern (1009m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.965277763083577" lon="14.978055534884334">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Packsattel (1169m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Packsattel (1169m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.591388914734125" lon="13.505555558949709">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Pass Gschütt (957m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Pass Gschütt (957m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.30861091054976" lon="12.408455712720752">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Pass Thurn (1273m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Pass Thurn (1273m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.844694470986724" lon="15.314777791500092">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Passhöhe Josefsberg (1012m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Passhöhe Josefsberg (1012m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.110277814790606" lon="14.457777813076973">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Perchauer Sattel (995m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Perchauer Sattel (995m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.490944437682629" lon="14.526416631415486">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Petschniksattel (1169m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Petschniksattel (1169m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.569999974220991" lon="15.813888860866427">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Pfaffensattel (1372m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Pfaffensattel (1372m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.118233665823936" lon="10.6668352894485">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Pillerhöhe (1600m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Pillerhöhe (1600m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.529930034652352" lon="15.3335000295192">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Pogusch Sattel (1059m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Pogusch Sattel (1059m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.200119998306036" lon="14.190499959513545">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Pollauer Sattel (1092m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Pollauer Sattel (1092m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.523909984156489" lon="14.947729976847768">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Prabichl Sattel (1226m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Prabichl Sattel (1226m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.675870032981038" lon="15.722989970818162">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Preiner Gscheid Pass (1070m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Preiner Gscheid Pass (1070m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.939399978145957" lon="14.27241001278162">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Prekova Sattel (1200m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Prekova Sattel (1200m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.577194413170218" lon="15.422000018879771">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Pretalsattel (1068m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Pretalsattel (1068m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.620000038295984" lon="14.299444416537881">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Pyhrnpass (954m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Pyhrnpass (954m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.214166643097997" lon="14.574333289638162">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Pölshals (815m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Pölshals (815m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.621944472193718" lon="13.695277757942677">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Pötschenpass (993m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Pötschenpass (993m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.583333319053054" lon="13.832222213968635">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Radlingpass (853m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Radlingpass (853m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.2480199765414" lon="13.559130001813173">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Radstadter Tauern (1738m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Radstadter Tauern (1738m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.662222199141979" lon="14.775277767330408">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Radstatthöhe (637m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Radstatthöhe (637m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.63361107558012" lon="15.975000020116568">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Ramssattel (824m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Ramssattel (824m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.250222178176045" lon="16.094416659325361">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Riederberghöhe (384m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Riederberghöhe (384m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.870555575937033" lon="15.799166634678841">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Rohrer Sattel (864m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Rohrer Sattel (864m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.280833307653666" lon="15.221666665747762">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Sattel (592m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Sattel (592m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.231388855725527" lon="10.927777765318751">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Sattele (1690m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Sattele (1690m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.479166690260172" lon="14.467444410547614">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Schaidasattel (1068m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Schaidasattel (1068m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.889999974519014" lon="13.793888920918107">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Schiestelscharte (2027m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Schiestelscharte (2027m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.452222248539329" lon="14.670833302661777">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Schoberpass (849m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Schoberpass (849m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.204299969598651" lon="15.485009970143437">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Schocklkreuz Sattel (1125m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Schocklkreuz Sattel (1125m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.893709996715188" lon="15.304429996758699">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Schusseleck Sattel (1151m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Schusseleck Sattel (1151m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.148069972172379" lon="13.92886002548039">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Schwarzenbichl  Sattel (1243m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Schwarzenbichl  Sattel (1243m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.808611132204533" lon="13.291944433003664">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Schöffbaumhöhe (767m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Schöffbaumhöhe (767m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.625833339989185" lon="15.282500004395843">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Seebergsattel (1246m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Seebergsattel (1246m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.331191170960665" lon="11.198972146958113">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Seefelder Sattel (1229m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Seefelder Sattel (1229m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.775944400578737" lon="14.16641665622592">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Simonhöhe (1227m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Simonhöhe (1227m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.666150018572807" lon="15.005390010774136">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Soboth Pass (1347m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Soboth Pass (1347m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.288055550307035" lon="14.550277814269066">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Sommertörl (1644m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Sommertörl (1644m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.887693693861365" lon="12.199812959879637">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Staller Sattel/Passo Stalle (2052m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Staller Sattel/Passo Stalle (2052m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.49777571298182" lon="12.176845790818334">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Steinbacher Sattel (714m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Steinbacher Sattel (714m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.390119973570108" lon="15.531600024551153">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Strassegg Pass (1166m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Strassegg Pass (1166m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.27166666649282" lon="14.079999988898635">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Sölkpass (1790m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Sölkpass (1790m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.064359989017248" lon="14.253630023449659">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Talbacher Sattel (1110m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Talbacher Sattel (1110m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.308341516181827" lon="12.408895259723067">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Thurn Pass (1273m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Thurn Pass (1273m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.433888930827379" lon="14.482777761295438">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Triebener Tauernpass (1274m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Triebener Tauernpass (1274m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.914777802303433" lon="13.875166643410921">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Turracher Höhe (1783m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Turracher Höhe (1783m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.787149999290705" lon="14.198320023715496">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Wegscheide Sattel (1132m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Wegscheide Sattel (1132m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.572640776634216" lon="9.816774437204003">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Weienried (841m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Weienried (841m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.064166642725468" lon="15.408888878300786">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Wetterlucke (543m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Wetterlucke (543m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.98166667111218" lon="14.692500019446015">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Wieserhöhe (534m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Wieserhöhe (534m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.636111121624708" lon="13.546944474801421">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Windische Höhe (1110m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Windische Höhe (1110m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.976944450289011" lon="10.141111090779305">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Zeinisjoch (1842m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Zeinisjoch (1842m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.791490005329251" lon="15.215219976380467">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT-Zellerrain Pass (1125m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT-Zellerrain Pass (1125m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="48.564583361148834" lon="14.3174166418612">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;CZE-Vyšebrodský pr?smyk (748m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;CZE-Vyšebrodský pr?smyk (748m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.604516064748168" lon="11.635885555297136">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;DE-AchenPass (941m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;DE-AchenPass (941m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.534481408074498" lon="10.886240908876061">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;DE-Ammersattel (1118m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;DE-Ammersattel (1118m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.555833300575614" lon="12.796388883143663">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;DE-Hirschbichl (1183m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;DE-Hirschbichl (1183m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.600259399041533" lon="12.14831555262208">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;DE-Marblinger Höhe (701m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;DE-Marblinger Höhe (701m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.397805843502283" lon="11.267451792955399">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;DE-ScharnitzPass (958m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;DE-ScharnitzPass (958m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.67060955055058" lon="12.756547769531608">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;DE-SteinPass (615m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;DE-SteinPass (615m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.611892223358154" lon="12.019808990880847">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;DE-Ursprung-Pass (849m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;DE-Ursprung-Pass (849m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="47.006407929584384" lon="11.50591928511858">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;IT-Brenner-Pass/Passo del Brennero (1370m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;IT-Brenner-Pass/Passo del Brennero (1370m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.560069993138313" lon="13.275629980489612">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;IT-Nassfeld Pass (1552m)/Passo di Pramollo</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;IT-Nassfeld Pass (1552m)/Passo di Pramollo</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.603750018402934" lon="12.945305546745658">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;IT-Plöckenpass (1357m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;IT-Plöckenpass (1357m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.847772533074021" lon="10.505429841578007">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;IT-ReschenPass/Passo Resia (1455m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;IT-ReschenPass/Passo Resia (1455m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.905236011371017" lon="11.097486242651939">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;IT-Timmelsjoch/Passo Rombo (2509m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;IT-Timmelsjoch/Passo Rombo (2509m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.439000023528934" lon="14.266619961708784">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;SLO-Loibl-Ljubelj Pass (1368m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;SLO-Loibl-Ljubelj Pass (1368m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.439166655763984" lon="14.26666664890945">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;SLO-Loiblpass (1368m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;SLO-Loiblpass (1368m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.425277758389711" lon="14.585277792066336">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;SLO-Paulitschsattel/Pavlicpass (1339m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;SLO-Paulitschsattel/Pavlicpass (1339m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.645277738571167" lon="15.206111110746861">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;SLO-Radlpass (670m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;SLO-Radlpass (670m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.419166680425406" lon="14.527222216129303">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;SLO-Seebergsattel (1215m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;SLO-Seebergsattel (1215m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="46.517861075699329" lon="13.751499960198998">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>AT&gt;SLO-Wurzenpass (1073m)</name>
+    <type>POI Austria.2018.11.20</type>
+    <extensions>
+      <osmand:address>AT&gt;SLO-Wurzenpass (1073m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <osmand:group color="#ffff0000" background="circle" icon="mountain" name="POI Austria.2018.11.20" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

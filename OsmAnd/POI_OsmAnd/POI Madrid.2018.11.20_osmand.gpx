@@ -1,0 +1,572 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-POI Madrid.2018.11.20</name>
+    <time>2024-03-17T17:49:50Z</time>
+  </metadata>
+  <wpt lat="40.77267698943615" lon="-3.569226013496518">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Alto Caíza (916m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Alto Caíza (916m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.893986010923982" lon="-3.503609038889408">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Alto de Cancho Cabeza (1067m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Alto de Cancho Cabeza (1067m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.775472018867731" lon="-3.575448989868164">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Alto de Vellón (911m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Alto de Vellón (911m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.720022041350603" lon="-3.601895989850163">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Atalaya del Molar (Monteoliva) (868m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Atalaya del Molar (Monteoliva) (868m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="41.060617994517088" lon="-3.563519027084112">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Campadales (1290m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Campadales (1290m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.681985970586538" lon="-3.775161998346448">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Carril Bici de la M607 (952m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Carril Bici de la M607 (952m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.716632986441255" lon="-3.75359795987606">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Cerro de San Pedro (1058m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Cerro de San Pedro (1058m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.431954972445965" lon="-3.760350001975894">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Cerro Garabitas (663m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Cerro Garabitas (663m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.687212003394961" lon="-4.164591003209352">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Collado de la Mina (1710m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Collado de la Mina (1710m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.513398991897702" lon="-4.211196983233094">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Cruz Blanca-Almojón (1067m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Cruz Blanca-Almojón (1067m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.57265100069344" lon="-4.203400975093246">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Cruz Verde - Robledondo (1411m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Cruz Verde - Robledondo (1411m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.745598999783397" lon="-3.978509986773133">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Embalse de Majada del Espino (1389m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Embalse de Majada del Espino (1389m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.488640023395419" lon="-4.165749968960881">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Fresnedillas-Las Canteras (957m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Fresnedillas-Las Canteras (957m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.855305958539248" lon="-3.728162990882993">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Fuente del Collado (Bustarviejo) (1283m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Fuente del Collado (Bustarviejo) (1283m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.55748101323843" lon="-3.964397963136435">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Galapagar (890m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Galapagar (890m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="41.028656037524343" lon="-3.675140999257565">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Gáscones-Buitrago (estación ffcc) (1149m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Gáscones-Buitrago (estación ffcc) (1149m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.621812958270311" lon="-3.893072996288538">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Hoyo del Manzanares (1001m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Hoyo del Manzanares (1001m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.451911026611924" lon="-4.262437988072634">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-La Almenara (957m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-La Almenara (957m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.951845031231642" lon="-3.509580977261066">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-La Fraguela (1153m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-La Fraguela (1153m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.674235979095101" lon="-4.162238035351038">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-La Jarosa (1409m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-La Jarosa (1409m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="41.040044026449323" lon="-3.480183966457844">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-La Puebla (1638m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-La Puebla (1638m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.845803981646895" lon="-3.599488958716393">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-La Trampa (1000m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-La Trampa (1000m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.414378037676215" lon="-4.272609008476138">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-La Verduguera (1040m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-La Verduguera (1040m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.784993022680283" lon="-3.980012023821473">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Navacerrada-Bola del Mundo (2257m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Navacerrada-Bola del Mundo (2257m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.257335035130382" lon="-3.446842012926936">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Pico del Águila (727m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Pico del Águila (727m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="41.034871973097324" lon="-3.61619702540338">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Piñuécar (1119m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Piñuécar (1119m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.903198979794979" lon="-3.46640101633966">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Presa del Atazar (1050m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Presa del Atazar (1050m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.870041847229004" lon="-3.765799999237061">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Puerto de Canencia (1524m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Puerto de Canencia (1524m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="41.10335111618042" lon="-3.489339351654053">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Puerto de el Cardoso (1353m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Puerto de el Cardoso (1353m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.559227466583252" lon="-4.196812296286225">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Puerto de la Cruz Verde (1411m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Puerto de la Cruz Verde (1411m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.792189976200461" lon="-4.059833977371454">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Puerto de la Fuenfría (1796m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Puerto de la Fuenfría (1796m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="41.067709922790527" lon="-3.474082946777344">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Puerto de la Hiruela (1482m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Puerto de la Hiruela (1482m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.566306989639997" lon="-4.206218970939517">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Puerto de la Paradilla (1347m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Puerto de la Paradilla (1347m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.823349952697754" lon="-3.960163593292236">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Puerto de Los Cotos (1830m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Puerto de Los Cotos (1830m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.710188057273626" lon="-4.140146439895034">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Puerto de los Leones (1511m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Puerto de los Leones (1511m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.828345566987991" lon="-3.830131776630878">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Puerto de Morcuera (1796m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Puerto de Morcuera (1796m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.788846015930176" lon="-4.003229141235352">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Puerto de Navacerrada (1860m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Puerto de Navacerrada (1860m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.986745599657297" lon="-3.814114714041352">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Puerto de Navafría (1778m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Puerto de Navafría (1778m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="40.594501029700041" lon="-4.257974959909916">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Santa María de la Alameda (1460m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Santa María de la Alameda (1460m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="41.131930975243449" lon="-3.581027984619141">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>M-Somosierra (1447m)</name>
+    <type>POI Madrid.2018.11.20</type>
+    <extensions>
+      <osmand:address>M-Somosierra (1447m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <osmand:group color="#ffff0000" background="circle" icon="mountain" name="POI Madrid.2018.11.20" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

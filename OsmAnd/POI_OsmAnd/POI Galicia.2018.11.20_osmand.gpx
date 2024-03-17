@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>Catalunya</name>
-    <time>2024-03-16T20:03:20Z</time>
+    <name>favorites-POI Galicia.2018.11.20</name>
+    <time>2024-03-17T17:49:50Z</time>
   </metadata>
-  <wpt lat="42.493209969252348" lon="-0.807429989799857">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Alto de Santa Bárbara (864m)</name>
+  <wpt lat="42.703431369736791" lon="-8.983552493155003">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-@Enxa (539m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Alto de Santa Bárbara (864m)</osmand:address>
+      <osmand:address>C-@Enxa (539m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -17,11 +18,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.48337397351861" lon="0.627844026312232">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Ardanué (Pueblo) (1360m)</name>
+  <wpt lat="43.512241858989" lon="-7.822088180109859">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-@Mirador do Caxado (740m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Ardanué (Pueblo) (1360m)</osmand:address>
+      <osmand:address>C-@Mirador do Caxado (740m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -30,11 +32,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.760818991810083" lon="-0.233591990545392">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Balneario de Panticosa (1643m)</name>
+  <wpt lat="42.897905688732862" lon="-8.564954632893205">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-@Mirador Monte Pedroso (460m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Balneario de Panticosa (1643m)</osmand:address>
+      <osmand:address>C-@Mirador Monte Pedroso (460m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -43,11 +46,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.661556974053383" lon="0.585444001480937">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Baños de Benasque (1680m)</name>
+  <wpt lat="42.56004810333252" lon="-9.015591144561768">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-@Mirador Pedra da Rá (180m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Baños de Benasque (1680m)</osmand:address>
+      <osmand:address>C-@Mirador Pedra da Rá (180m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -56,11 +60,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.352798003703356" lon="0.689014988020062">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Betesa (Pueblo) (1150m)</name>
+  <wpt lat="42.635973393917084" lon="-8.977498076856136">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-@Os Forcados (590m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Betesa (Pueblo) (1150m)</osmand:address>
+      <osmand:address>C-@Os Forcados (590m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -69,11 +74,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.393142031505704" lon="0.728610008955002">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Buira (Pueblo) (1168m)</name>
+  <wpt lat="43.418368985876441" lon="-8.123065978288651">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-A Trapa (321m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Buira (Pueblo) (1168m)</osmand:address>
+      <osmand:address>C-A Trapa (321m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -82,11 +88,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.560644978657365" lon="0.568964006379247">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Cerler-Ampriú (1912m)</name>
+  <wpt lat="43.434077007696033" lon="-8.088347967714071">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Alto da Serra (434m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Cerler-Ampriú (1912m)</osmand:address>
+      <osmand:address>C-Alto da Serra (434m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -95,11 +102,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.41133201867342" lon="0.711013963446021">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Cirés (Pueblo) (1078m)</name>
+  <wpt lat="42.660293988883495" lon="-8.917772993445396">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Alto das Escobias (223m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Cirés (Pueblo) (1078m)</osmand:address>
+      <osmand:address>C-Alto das Escobias (223m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -108,11 +116,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.464489964768291" lon="0.619980040937662">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Coll d'Espina (1408m)</name>
+  <wpt lat="42.849898338317871" lon="-9.053442478179932">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Alto das Paxareiras (538m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Coll d'Espina (1408m)</osmand:address>
+      <osmand:address>C-Alto das Paxareiras (538m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -121,11 +130,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.485689977183938" lon="0.541689964011312">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Coll de Fadas (1471m)</name>
+  <wpt lat="42.85807597450912" lon="-8.468149015679955">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Alto de Arins (351m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Coll de Fadas (1471m)</osmand:address>
+      <osmand:address>C-Alto de Arins (351m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -134,11 +144,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.836490035057068" lon="0.552680063992739">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Coll de Foix (341m)</name>
+  <wpt lat="43.515901565551758" lon="-7.817673683166504">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Alto do Caxado (680m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Coll de Foix (341m)</osmand:address>
+      <osmand:address>C-Alto do Caxado (680m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -147,11 +158,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.423390056937933" lon="0.648180032148957">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Coll del Plano (1367m)</name>
+  <wpt lat="42.86643398925662" lon="-8.958578025922179">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Alto do Petón o Valadares (401m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Coll del Plano (1367m)</osmand:address>
+      <osmand:address>C-Alto do Petón o Valadares (401m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -160,11 +172,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.740099932998419" lon="-0.784329883754253">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collada de Terit o de los Arrieros (1071m)</name>
+  <wpt lat="42.812441037967801" lon="-8.755445033311844">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Augasantas - O Codeso (450m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collada de Terit o de los Arrieros (1071m)</osmand:address>
+      <osmand:address>C-Augasantas - O Codeso (450m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -173,11 +186,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.487809928134084" lon="-0.891929883509874">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collada de Xavierre (1017m)</name>
+  <wpt lat="42.991169029846787" lon="-8.692345982417464">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Campo do Pozo (476m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collada de Xavierre (1017m)</osmand:address>
+      <osmand:address>C-Campo do Pozo (476m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -186,11 +200,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.595700025558472" lon="0.128690041601658">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collada Lascal (1198m)</name>
+  <wpt lat="42.858444023877382" lon="-8.848444009199739">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Campo Rubín (356m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collada Lascal (1198m)</osmand:address>
+      <osmand:address>C-Campo Rubín (356m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -199,11 +214,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.866700030863285" lon="-0.826719934120774">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collado Arguibiela (1297m)</name>
+  <wpt lat="42.766488008201122" lon="-8.575249034911394">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Cruz das Cabanelas (270m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collado Arguibiela (1297m)</osmand:address>
+      <osmand:address>C-Cruz das Cabanelas (270m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -212,11 +228,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.666710000485182" lon="-0.59997009113431">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collado de Array (1182m)</name>
+  <wpt lat="42.802297007292509" lon="-8.803857984021306">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Culou (494m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collado de Array (1182m)</osmand:address>
+      <osmand:address>C-Culou (494m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -225,11 +242,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.978990016505122" lon="0.582890035584569">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collado de La Irene (681m)</name>
+  <wpt lat="42.745824018493295" lon="-8.775508040562272">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Encrucixada de Treito-Pico Muralla (657m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collado de La Irene (681m)</osmand:address>
+      <osmand:address>C-Encrucixada de Treito-Pico Muralla (657m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -238,11 +256,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.69023003987968" lon="-0.63400992192328">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collado de la Loma de Aìsa (1227m)</name>
+  <wpt lat="42.74398704059422" lon="-8.765029991045594">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Encrucixada do Treito (474m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collado de la Loma de Aìsa (1227m)</osmand:address>
+      <osmand:address>C-Encrucixada do Treito (474m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -251,11 +270,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.650199998170137" lon="-0.573129896074533">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collado de la Sierra (1145m)</name>
+  <wpt lat="42.743531987071037" lon="-8.745001014322042">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Espiñeira (420m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collado de la Sierra (1145m)</osmand:address>
+      <osmand:address>C-Espiñeira (420m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -264,11 +284,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.447289964184165" lon="0.34269000403583">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collado de la Trapa (1052m)</name>
+  <wpt lat="42.942202035337687" lon="-8.606422003358603">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Espiñeira - Mercuto (530m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collado de la Trapa (1052m)</osmand:address>
+      <osmand:address>C-Espiñeira - Mercuto (530m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -277,11 +298,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.974290031939745" lon="0.485379919409752">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collado de Saganta (781m)</name>
+  <wpt lat="43.396014031022787" lon="-8.033415991812944">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Fragas do Eume (437m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collado de Saganta (781m)</osmand:address>
+      <osmand:address>C-Fragas do Eume (437m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -290,11 +312,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.300199968740344" lon="-0.012519964948297">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collado de Sampietro (1264m)</name>
+  <wpt lat="42.726385798305273" lon="-8.920107604935765">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Iroite (670m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collado de Sampietro (1264m)</osmand:address>
+      <osmand:address>C-Iroite (670m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -303,11 +326,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.207699967548251" lon="0.045279962942004">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collado de San Caprasio (805m)</name>
+  <wpt lat="42.771472977474332" lon="-8.617751989513636">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Lampai (320m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collado de San Caprasio (805m)</osmand:address>
+      <osmand:address>C-Lampai (320m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -316,11 +340,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.546899998560548" lon="-0.895629990845919">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collado de San Peláez (755m)</name>
+  <wpt lat="42.625815868377686" lon="-8.959887027740479">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Mirador A Curota (480m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collado de San Peláez (755m)</osmand:address>
+      <osmand:address>C-Mirador A Curota (480m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -329,11 +354,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.55017003044486" lon="0.051920022815466">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Collata de las Fuebas (1268m)</name>
+  <wpt lat="42.917166631668806" lon="-9.116233326494694">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Mirador de Ezaro (269m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Collata de las Fuebas (1268m)</osmand:address>
+      <osmand:address>C-Mirador de Ezaro (269m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -342,11 +368,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.407199991866946" lon="-0.089619979262352">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Cuello Serrablo (1231m)</name>
+  <wpt lat="43.722346164286137" lon="-7.945038126781583">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Mirador Garita de Herbeira (600m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Cuello Serrablo (1231m)</osmand:address>
+      <osmand:address>C-Mirador Garita de Herbeira (600m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -355,11 +382,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.496285960078239" lon="0.633681016042829">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Denuy (Pueblo) (1295m)</name>
+  <wpt lat="42.66554499976337" lon="-8.864816967397928">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Monte Ferreiros o Trevonzos (130m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Denuy (Pueblo) (1295m)</osmand:address>
+      <osmand:address>C-Monte Ferreiros o Trevonzos (130m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -368,11 +396,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.328199967741966" lon="0.072779981419444">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-El Collado (864m)</name>
+  <wpt lat="42.603830974549055" lon="-9.044881034642458">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Monte Taumé (227m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-El Collado (864m)</osmand:address>
+      <osmand:address>C-Monte Taumé (227m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -381,11 +410,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.779564028605819" lon="-0.357251968234777">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Formigal (1605m)</name>
+  <wpt lat="42.834791969507933" lon="-8.542015962302685">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Montouto (322m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Formigal (1605m)</osmand:address>
+      <osmand:address>C-Montouto (322m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -394,11 +424,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.787693971768022" lon="-0.711458036676049">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Gabardito (1388m)</name>
+  <wpt lat="43.4301189891994" lon="-8.061568960547447">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-O Poboado (405m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Gabardito (1388m)</osmand:address>
+      <osmand:address>C-O Poboado (405m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -407,11 +438,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.690145969390869" lon="-0.305923037230968">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Hoz de Jaca (1272m)</name>
+  <wpt lat="42.783968970179558" lon="-8.618689002469182">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Pena da Agrela (400m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Hoz de Jaca (1272m)</osmand:address>
+      <osmand:address>C-Pena da Agrela (400m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -420,11 +452,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.232300015166402" lon="0.61628001742065">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-La Collada (1021m)</name>
+  <wpt lat="42.827343977987766" lon="-8.835629001259804">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Pesquería do Tambre (247m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-La Collada (1021m)</osmand:address>
+      <osmand:address>C-Pesquería do Tambre (247m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -433,11 +466,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.663689976558089" lon="-0.161729995161295">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-La Collada (412m)</name>
+  <wpt lat="42.806517966091633" lon="-8.446907009929419">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Pico Sacro (530m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-La Collada (412m)</osmand:address>
+      <osmand:address>C-Pico Sacro (530m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -446,11 +480,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.477690037339926" lon="0.661989971995354">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-La Collada Ardanuy (1335m)</name>
+  <wpt lat="42.662549978122115" lon="-8.880057027563453">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Polígono de Espiñeira (156m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-La Collada Ardanuy (1335m)</osmand:address>
+      <osmand:address>C-Polígono de Espiñeira (156m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -459,11 +494,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.253800015896559" lon="0.289480090141296">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-La Collada Payerno (961m)</name>
+  <wpt lat="42.752221003174782" lon="-8.791558966040611">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Portela de Aldarís (418m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-La Collada Payerno (961m)</osmand:address>
+      <osmand:address>C-Portela de Aldarís (418m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -472,11 +508,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.50520003028214" lon="-0.634130034595728">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-La Colladona (1131m)</name>
+  <wpt lat="42.699888925999403" lon="-8.882888853549957">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Portiña da Devesa (274m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-La Colladona (1131m)</osmand:address>
+      <osmand:address>C-Portiña da Devesa (274m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -485,11 +522,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.650989968329668" lon="-0.210930006578565">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-La Portellada (506m)</name>
+  <wpt lat="42.700719991698861" lon="-8.882171027362347">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Portiña da Devesa - Alto de Belles (274m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-La Portellada (506m)</osmand:address>
+      <osmand:address>C-Portiña da Devesa - Alto de Belles (274m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -498,11 +536,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.471124995499849" lon="0.597331970930099">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Las Páules (Pueblo) (1451m)</name>
+  <wpt lat="42.771787969395518" lon="-8.914656015112996">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-San Lois (363m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Las Páules (Pueblo) (1451m)</osmand:address>
+      <osmand:address>C-San Lois (363m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -511,11 +550,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.914290022104979" lon="0.512480037286878">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Lo Collet (608m)</name>
+  <wpt lat="42.816379023715854" lon="-8.701693983748555">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Santa Cecía (497m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Lo Collet (608m)</osmand:address>
+      <osmand:address>C-Santa Cecía (497m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -524,11 +564,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.520708981901407" lon="-0.481087965890765">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Navasa (1068m)</name>
+  <wpt lat="43.170720040798187" lon="-8.349879020825028">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Santuario de Sª Marina de Veira (457m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Navasa (1068m)</osmand:address>
+      <osmand:address>C-Santuario de Sª Marina de Veira (457m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -537,11 +578,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.472296031191945" lon="0.619733026251197">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Neril (Pueblo) (1490m)</name>
+  <wpt lat="42.654073024168611" lon="-8.862715037539601">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Sao Martiño (69m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Neril (Pueblo) (1490m)</osmand:address>
+      <osmand:address>C-Sao Martiño (69m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -550,11 +592,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.824880009517074" lon="-0.518650040030479">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto de Alcubierre (610m)</name>
+  <wpt lat="43.702534949406981" lon="-7.723242323845625">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Serra de Sollerios (263m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto de Alcubierre (610m)</osmand:address>
+      <osmand:address>C-Serra de Sollerios (263m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -563,11 +606,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.423688033595681" lon="0.648142984136939">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto de Bonansa (1366m)</name>
+  <wpt lat="43.586916653439403" lon="-7.795888865366578">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Sierra de la Faladoira (540m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto de Bonansa (1366m)</osmand:address>
+      <osmand:address>C-Sierra de la Faladoira (540m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -576,11 +620,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.614299971610308" lon="-0.20591989159584">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto de Cotefablo (tunel) (1423m)</name>
+  <wpt lat="42.82866396009922" lon="-8.952957959845662">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Tremuzo (515m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto de Cotefablo (tunel) (1423m)</osmand:address>
+      <osmand:address>C-Tremuzo (515m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -589,11 +634,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.273000022396445" lon="0.069780014455318">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto de Eripol (863m)</name>
+  <wpt lat="42.650616997852921" lon="-8.870868030935526">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>C-Vista Alegre (75m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto de Eripol (863m)</osmand:address>
+      <osmand:address>C-Vista Alegre (75m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -602,11 +648,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.412700029090047" lon="0.339579982683063">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto de Foradada (1003m)</name>
+  <wpt lat="43.244398981332779" lon="-7.167942998930812">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-A Barranca (860m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto de Foradada (1003m)</osmand:address>
+      <osmand:address>LU-A Barranca (860m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -615,11 +662,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.767099970951676" lon="-0.863520009443164">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto de Matamachos (1144m)</name>
+  <wpt lat="42.579065971076488" lon="-7.244371036067605">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-A Carballal Golada (975m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto de Matamachos (1144m)</osmand:address>
+      <osmand:address>LU-A Carballal Golada (975m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -628,11 +676,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.353599984198809" lon="-0.394520005211234">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto de Monrepós (1284m)</name>
+  <wpt lat="42.626517014577985" lon="-7.273985976353288">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-A Casela (844m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto de Monrepós (1284m)</osmand:address>
+      <osmand:address>LU-A Casela (844m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -641,11 +690,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.522909985855222" lon="-0.561330020427704">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto de Oroel (1069m)</name>
+  <wpt lat="42.426751032471657" lon="-7.318438980728388">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-A Moa (1000m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto de Oroel (1069m)</osmand:address>
+      <osmand:address>LU-A Moa (1000m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -654,11 +704,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.219769991934299" lon="-0.064570074900985">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto de Sierra de Rufás (867m)</name>
+  <wpt lat="42.832807973027229" lon="-6.950548030436039">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-A Sete Carballos Fiosa (1421m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto de Sierra de Rufás (867m)</osmand:address>
+      <osmand:address>LU-A Sete Carballos Fiosa (1421m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -667,11 +718,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.332199979573488" lon="-0.846429979428649">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto de Sierra Mayor (947m)</name>
+  <wpt lat="43.569197980687022" lon="-7.718753982335329">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-A Veiga (570m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto de Sierra Mayor (947m)</osmand:address>
+      <osmand:address>LU-A Veiga (570m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -680,11 +732,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.795858783647418" lon="-0.525528565049171">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto de Somport (1631m)</name>
+  <wpt lat="42.696765996515751" lon="-7.276432989165187">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Aira Padrón (1132m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto de Somport (1631m)</osmand:address>
+      <osmand:address>LU-Aira Padrón (1132m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -693,11 +746,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.224699975922704" lon="0.17478003166616">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto del Pino (875m)</name>
+  <wpt lat="42.819113032892346" lon="-6.921540023759007">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Albergue de Ancares (1355m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto del Pino (875m)</osmand:address>
+      <osmand:address>LU-Albergue de Ancares (1355m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -706,11 +760,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.805099999532104" lon="-0.41842008009553">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto del Portale (1795m)</name>
+  <wpt lat="43.463146034628153" lon="-7.532895002514124">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Alto da Cruz (900m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto del Portale (1795m)</osmand:address>
+      <osmand:address>LU-Alto da Cruz (900m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -719,11 +774,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.401399966329336" lon="-0.0301200337708">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Puerto del Serrablo-Fartué (1287m)</name>
+  <wpt lat="42.667300002649426" lon="-7.218025038018823">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Alto da Pedra (1143m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Puerto del Serrablo-Fartué (1287m)</osmand:address>
+      <osmand:address>LU-Alto da Pedra (1143m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -732,11 +788,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.507939990609884" lon="-0.665298979729414">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-San Juan de la Peña (1212m)</name>
+  <wpt lat="42.566270995885134" lon="-7.091081030666828">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Alto da Seara Golada (1073m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-San Juan de la Peña (1212m)</osmand:address>
+      <osmand:address>LU-Alto da Seara Golada (1073m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -745,11 +802,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.581978011876345" lon="0.295293023809791">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>HU-Serveto (1320m)</name>
+  <wpt lat="42.803402999415994" lon="-7.142468970268965">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Alto da Trapa (997m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>HU-Serveto (1320m)</osmand:address>
+      <osmand:address>LU-Alto da Trapa (997m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -758,11 +816,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.02705599181354" lon="-0.795607985928655">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Alcotas (1200m)</name>
+  <wpt lat="43.384016929194331" lon="-7.424557227641344">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Alto Da Xesta (540m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Alcotas (1200m)</osmand:address>
+      <osmand:address>LU-Alto Da Xesta (540m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -771,11 +830,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.01949998177588" lon="-0.964140063151717">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Colladico de Yerna (985m)</name>
+  <wpt lat="42.909429967403412" lon="-7.149380017071962">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Alto de O Lago (1000m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Colladico de Yerna (985m)</osmand:address>
+      <osmand:address>LU-Alto de O Lago (1000m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -784,11 +844,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.721389967948198" lon="-0.6460399646312">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado (1141m)</name>
+  <wpt lat="43.496842039749026" lon="-7.554864976555109">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Alto de Onsolar (1038m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado (1141m)</osmand:address>
+      <osmand:address>LU-Alto de Onsolar (1038m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -797,11 +858,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.210490003228188" lon="-1.334060104563832">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado Arnal (1216m)</name>
+  <wpt lat="42.953146705403924" lon="-6.897971536964178">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Alto de Sierra Morela (950m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado Arnal (1216m)</osmand:address>
+      <osmand:address>LU-Alto de Sierra Morela (950m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -810,11 +872,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.092999968677759" lon="-1.083749989047647">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado Calvo (994m)</name>
+  <wpt lat="42.835478447377682" lon="-7.222511954605579">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Alto de Vilaesteba (950m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado Calvo (994m)</osmand:address>
+      <osmand:address>LU-Alto de Vilaesteba (950m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -823,11 +886,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.153989881277084" lon="-1.102249938994646">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado Chorrillo (1057m)</name>
+  <wpt lat="42.944254009053111" lon="-7.010836964473128">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Alto de Vilaverde (760m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado Chorrillo (1057m)</osmand:address>
+      <osmand:address>LU-Alto de Vilaverde (760m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -836,11 +900,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.016289940103889" lon="-1.142760012298822">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de Calderón (1304m)</name>
+  <wpt lat="42.709444463253021" lon="-7.041027741506696">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Alto do Cebreiro (1300m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de Calderón (1304m)</osmand:address>
+      <osmand:address>LU-Alto do Cebreiro (1300m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -849,11 +914,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.675090011209249" lon="-0.548739982768893">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de Casa Mazuelos (948m)</name>
+  <wpt lat="43.197676995769143" lon="-7.245963010936975">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Alto do Couso (788m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de Casa Mazuelos (948m)</osmand:address>
+      <osmand:address>LU-Alto do Couso (788m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -862,11 +928,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.320989973843098" lon="-1.691659921780229">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de la Casa Carnero (1595m)</name>
+  <wpt lat="42.711454946547747" lon="-7.124105896800756">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Alto do Poio (1335m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de la Casa Carnero (1595m)</osmand:address>
+      <osmand:address>LU-Alto do Poio (1335m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -875,11 +942,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.62516001984477" lon="-1.453759968280792">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de la Casa del Lobo (1254m)</name>
+  <wpt lat="42.744447961449623" lon="-7.094724979251623">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-As Fontes (1143m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de la Casa del Lobo (1254m)</osmand:address>
+      <osmand:address>LU-As Fontes (1143m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -888,11 +956,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.483729988336563" lon="-1.685290010645986">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de la Desesperada (1658m)</name>
+  <wpt lat="43.43809001147747" lon="-7.388404989615083">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Atalaia (503m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de la Desesperada (1658m)</osmand:address>
+      <osmand:address>LU-Atalaia (503m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -901,11 +970,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.387390069663525" lon="-0.646649915724993">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de la Gitana (1905m)</name>
+  <wpt lat="42.907100971788168" lon="-6.96898696012795">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Campa de Laviadas (795m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de la Gitana (1905m)</osmand:address>
+      <osmand:address>LU-Campa de Laviadas (795m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -914,11 +984,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.941890012472868" lon="-0.304640019312501">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de la Hoya (590m)</name>
+  <wpt lat="42.681245980784297" lon="-7.157170996069908">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Chao do Golado (1261m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de la Hoya (590m)</osmand:address>
+      <osmand:address>LU-Chao do Golado (1261m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -927,11 +998,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.487290117889643" lon="-1.575260013341904">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de la Mata (1706m)</name>
+  <wpt lat="43.5177350230515" lon="-7.539094006642699">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Chao do Lago (832m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de la Mata (1706m)</osmand:address>
+      <osmand:address>LU-Chao do Lago (832m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -940,11 +1012,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.813889969140291" lon="-1.009049881249666">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de la Pedrera (1193m)</name>
+  <wpt lat="42.907110024243593" lon="-6.995301023125648">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Chao do Vallo (818m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de la Pedrera (1193m)</osmand:address>
+      <osmand:address>LU-Chao do Vallo (818m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -953,11 +1026,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.275090001523495" lon="-1.312149977311492">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de la Plata (1304m)</name>
+  <wpt lat="43.634589985013008" lon="-7.662864960730076">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Cristo da Paleira (435m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de la Plata (1304m)</osmand:address>
+      <osmand:address>LU-Cristo da Paleira (435m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -966,11 +1040,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.386590017005801" lon="-0.446350006386638">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de la Torre (1589m)</name>
+  <wpt lat="43.618368990719318" lon="-7.705792961642146">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Cristo da Portapena (498m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de la Torre (1589m)</osmand:address>
+      <osmand:address>LU-Cristo da Portapena (498m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -979,11 +1054,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.798789970576763" lon="-0.915050022304058">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de las Parras (1246m)</name>
+  <wpt lat="43.384950002655387" lon="-7.365287030115724">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Cristo do Fiouco (671m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de las Parras (1246m)</osmand:address>
+      <osmand:address>LU-Cristo do Fiouco (671m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -992,11 +1068,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.239690039306879" lon="-1.326350010931492">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de Los Burros (1382m)</name>
+  <wpt lat="43.272465029731393" lon="-7.125541968271136">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Cruz de Barreiros (880m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de Los Burros (1382m)</osmand:address>
+      <osmand:address>LU-Cruz de Barreiros (880m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1005,11 +1082,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.616000024601817" lon="-1.468150019645691">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de los Calonchos (1419m)</name>
+  <wpt lat="43.208408011123538" lon="-7.247512992471457">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Cruz de Meira (784m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de los Calonchos (1419m)</osmand:address>
+      <osmand:address>LU-Cruz de Meira (784m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1018,11 +1096,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.649090018123388" lon="-0.822049956768751">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de Rabadanes (1365m)</name>
+  <wpt lat="43.163066022098064" lon="-7.107947012409568">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Cruz do Pito (824m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de Rabadanes (1365m)</osmand:address>
+      <osmand:address>LU-Cruz do Pito (824m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1031,11 +1110,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.908500030636787" lon="-1.372860101982951">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de Santa Bárbara (1088m)</name>
+  <wpt lat="43.069085022434592" lon="-7.029798002913594">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Estoupelo (870m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de Santa Bárbara (1088m)</osmand:address>
+      <osmand:address>LU-Estoupelo (870m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1044,11 +1124,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.456719975918531" lon="-1.722339950501919">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado de Soduna (1584m)</name>
+  <wpt lat="42.621580995619297" lon="-7.897710967808962">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Faro (1180m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado de Soduna (1584m)</osmand:address>
+      <osmand:address>LU-Faro (1180m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1057,11 +1138,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.430529965087771" lon="-0.931809972971678">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado del Aire (1559m)</name>
+  <wpt lat="43.125813994556665" lon="-7.066112011671066">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Fonsagrada (960m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado del Aire (1559m)</osmand:address>
+      <osmand:address>LU-Fonsagrada (960m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1070,11 +1152,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.759699959307909" lon="-0.541740003973246">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado del Herrero (1203m)</name>
+  <wpt lat="43.587446976453066" lon="-7.697252975776792">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Foxo - Os Callós (545m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado del Herrero (1203m)</osmand:address>
+      <osmand:address>LU-Foxo - Os Callós (545m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1083,11 +1166,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.704389959573746" lon="-0.705749960616231">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado del Pino (1266m)</name>
+  <wpt lat="43.494441965594888" lon="-7.684514997527003">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Gañidoira (710m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado del Pino (1266m)</osmand:address>
+      <osmand:address>LU-Gañidoira (710m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1096,11 +1180,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.737490011379123" lon="-0.539040025323629">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado Frío (1261m)</name>
+  <wpt lat="43.106494965031743" lon="-7.137133972719312">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Hospital (1101m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado Frío (1261m)</osmand:address>
+      <osmand:address>LU-Hospital (1101m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1109,11 +1194,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.363389998674393" lon="-0.641859993338585">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Collado Romero (1827m)</name>
+  <wpt lat="43.29948803409934" lon="-7.08803404122591">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-La - Coto Frades Vaga (950m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Collado Romero (1827m)</osmand:address>
+      <osmand:address>LU-La - Coto Frades Vaga (950m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1122,11 +1208,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="39.911448005586863" lon="-1.107473038136959">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-El Colladico (1239m)</name>
+  <wpt lat="43.022197997197509" lon="-7.041470976546407">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Louxas (0m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-El Colladico (1239m)</osmand:address>
+      <osmand:address>LU-Louxas (0m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1135,11 +1222,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.782190030440688" lon="-0.221939971670508">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-El Collado (771m)</name>
+  <wpt lat="43.555519971996546" lon="-7.715388983488083">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Montalén (595m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-El Collado (771m)</osmand:address>
+      <osmand:address>LU-Montalén (595m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1148,11 +1236,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.845689987763762" lon="-0.550040015950799">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-El Collado Muela (969m)</name>
+  <wpt lat="43.648549038916826" lon="-7.36854700371623">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Monte Castrelo (320m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-El Collado Muela (969m)</osmand:address>
+      <osmand:address>LU-Monte Castrelo (320m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1161,11 +1250,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.878890119493008" lon="0.064570074900985">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-El Portillo (635m)</name>
+  <wpt lat="43.71075801551342" lon="-7.656697975471616">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Monte Merán (300m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-El Portillo (635m)</osmand:address>
+      <osmand:address>LU-Monte Merán (300m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1174,11 +1264,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.614849021658301" lon="-0.371623495593667">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Mas del Mojón (1202m)</name>
+  <wpt lat="42.546397000551224" lon="-7.213310971856117">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-O Boi (998m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Mas del Mojón (1202m)</osmand:address>
+      <osmand:address>LU-O Boi (998m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1187,11 +1278,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.00776001252234" lon="-0.769280008971691">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Paso del Ganado (1136m)</name>
+  <wpt lat="43.474977007135749" lon="-7.547503989189863">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-O Cadramón (1122m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Paso del Ganado (1136m)</osmand:address>
+      <osmand:address>LU-O Cadramón (1122m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1200,11 +1292,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.725749982520938" lon="-0.634620040655136">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Portillo de las Erias (1156m)</name>
+  <wpt lat="42.614223025739193" lon="-7.09699597209692">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-O Couto (1310m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Portillo de las Erias (1156m)</osmand:address>
+      <osmand:address>LU-O Couto (1310m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1213,11 +1306,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.687609976157546" lon="-0.677950037643313">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Aldehuela (1118m)</name>
+  <wpt lat="43.702257005497813" lon="-7.659186981618404">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-O Fulgueiro (315m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Aldehuela (1118m)</osmand:address>
+      <osmand:address>LU-O Fulgueiro (315m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1226,11 +1320,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.707390010356903" lon="-1.245549973100424">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Argente (1338m)</name>
+  <wpt lat="42.725955974310637" lon="-6.990286968648434">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-O Penas do Cumeal Portelo (1280m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Argente (1338m)</osmand:address>
+      <osmand:address>LU-O Penas do Cumeal Portelo (1280m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1239,11 +1334,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.461409986019135" lon="-1.603109976276755">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Bronchales (1500m)</name>
+  <wpt lat="43.41460601426661" lon="-7.235541036352515">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-O Picato (653m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Bronchales (1500m)</osmand:address>
+      <osmand:address>LU-O Picato (653m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1252,11 +1348,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.4373599588871" lon="-0.92309002764523">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Cabisgordo (1568m)</name>
+  <wpt lat="43.460040036588907" lon="-7.593455007299781">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-O Xistral (1021m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Cabisgordo (1568m)</osmand:address>
+      <osmand:address>LU-O Xistral (1021m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1265,11 +1362,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.661189965903759" lon="-0.722249988466501">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Camarillas (1319m)</name>
+  <wpt lat="42.489155977964401" lon="-7.733688019216061">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Oleiros - Lama de Mogos (680m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Camarillas (1319m)</osmand:address>
+      <osmand:address>LU-Oleiros - Lama de Mogos (680m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1278,11 +1376,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.506339920684695" lon="-0.387260019779205">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Cantavieja (1424m)</name>
+  <wpt lat="43.198740994557738" lon="-7.168414983898401">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Ouviaña (744m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Cantavieja (1424m)</osmand:address>
+      <osmand:address>LU-Ouviaña (744m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1291,11 +1390,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.542489979416132" lon="-0.492950035259128">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Cuarto Pelado (1659m)</name>
+  <wpt lat="43.51956102065742" lon="-7.733652982860804">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Parque Eólico de Muras (660m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Cuarto Pelado (1659m)</osmand:address>
+      <osmand:address>LU-Parque Eólico de Muras (660m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1304,11 +1404,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.33049002289772" lon="-1.34985001757741">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Donarque (1232m)</name>
+  <wpt lat="43.136870982125401" lon="-6.957760993391275">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Pedras Apañadas (1156m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Donarque (1232m)</osmand:address>
+      <osmand:address>LU-Pedras Apañadas (1156m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1317,11 +1418,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.996900023892522" lon="-1.117150029167533">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Fonfría (1476m)</name>
+  <wpt lat="42.570845000445843" lon="-7.928996002301574">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Pena Bico (1001m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Fonfría (1476m)</osmand:address>
+      <osmand:address>LU-Pena Bico (1001m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1330,11 +1432,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.415389984846115" lon="-1.325860004872084">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Gea (1104m)</name>
+  <wpt lat="43.499765982851386" lon="-7.550619039684534">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Pena da Cadela (1090m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Gea (1104m)</osmand:address>
+      <osmand:address>LU-Pena da Cadela (1090m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1343,11 +1446,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.392960011959076" lon="-0.703820111230016">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Gúdar (1532m)</name>
+  <wpt lat="43.487562015652657" lon="-7.401938997209072">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Penedo Grande (500m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Gúdar (1532m)</osmand:address>
+      <osmand:address>LU-Penedo Grande (500m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1356,11 +1460,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.171889998018742" lon="-1.016849996522069">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de la Cruz (1512m)</name>
+  <wpt lat="43.53569702245295" lon="-7.515437006950378">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Penido Novo (760m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de la Cruz (1512m)</osmand:address>
+      <osmand:address>LU-Penido Novo (760m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1369,11 +1474,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.50118999555707" lon="-0.311649888753891">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de las Cabrillas (1333m)</name>
+  <wpt lat="42.740320041775703" lon="-7.00095503591001">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Pintinidoira (1279m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de las Cabrillas (1333m)</osmand:address>
+      <osmand:address>LU-Pintinidoira (1279m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1382,11 +1488,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.795690007507801" lon="-0.668839998543262">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Las Traviesas (1183m)</name>
+  <wpt lat="42.868545055389404" lon="-6.818239688873291">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Puerto de Ancares (1684m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Las Traviesas (1183m)</osmand:address>
+      <osmand:address>LU-Puerto de Ancares (1684m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1395,11 +1502,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.408320017158985" lon="-0.334440032020211">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Mosqueruela (1516m)</name>
+  <wpt lat="43.268158156424761" lon="-7.268955996260047">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Puerto de Marco de Álvarez (550m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Mosqueruela (1516m)</osmand:address>
+      <osmand:address>LU-Puerto de Marco de Álvarez (550m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1408,11 +1516,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.436290008947253" lon="-1.590570062398911">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Noguera (1393m)</name>
+  <wpt lat="42.722057132050395" lon="-7.013335525989532">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Puerto Piedrafita do Cebreiro (1100m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Noguera (1393m)</osmand:address>
+      <osmand:address>LU-Puerto Piedrafita do Cebreiro (1100m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1421,11 +1530,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.510200038552284" lon="-1.662960033863783">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Orihuela (1663m)</name>
+  <wpt lat="42.763871010392904" lon="-7.772311996668577">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Repetidor San Cristovo (885m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Orihuela (1663m)</osmand:address>
+      <osmand:address>LU-Repetidor San Cristovo (885m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1434,11 +1544,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.547189963981509" lon="-1.509760050103068">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Pozondón (1445m)</name>
+  <wpt lat="43.086116965860128" lon="-6.915747039020061">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Robledo (496m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Pozondón (1445m)</osmand:address>
+      <osmand:address>LU-Robledo (496m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1447,11 +1558,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.006789999082685" lon="-1.058850036934018">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Rudilla (1345m)</name>
+  <wpt lat="43.663328010588884" lon="-7.577243987470865">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-San Roque (350m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Rudilla (1345m)</osmand:address>
+      <osmand:address>LU-San Roque (350m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1460,11 +1572,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.776989981532097" lon="-0.860250061377883">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de San Just (1401m)</name>
+  <wpt lat="43.12696298584342" lon="-6.998856039717793">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Serra Liñares (1017m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de San Just (1401m)</osmand:address>
+      <osmand:address>LU-Serra Liñares (1017m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1473,11 +1586,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.344889964908361" lon="-0.709549896419048">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de San Rafael (1558m)</name>
+  <wpt lat="43.029189007356763" lon="-7.021040003746748">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Signada (907m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de San Rafael (1558m)</osmand:address>
+      <osmand:address>LU-Signada (907m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1486,11 +1600,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.639689965173602" lon="-1.317650014534593">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Singra (994m)</name>
+  <wpt lat="42.737324014306068" lon="-7.115377988666296">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LU-Vilasol (1173m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Singra (994m)</osmand:address>
+      <osmand:address>LU-Vilasol (1173m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1499,11 +1614,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.488289995118976" lon="-0.700050015002489">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Sollavientos (1509m)</name>
+  <wpt lat="42.259630551561713" lon="-7.298414362594485">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-@Estacion Cabeza de Manzaneda (1763m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Sollavientos (1509m)</osmand:address>
+      <osmand:address>OU-@Estacion Cabeza de Manzaneda (1763m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1512,11 +1628,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.276590026915073" lon="-1.503470102325082">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Terriente (1499m)</name>
+  <wpt lat="42.336731990799308" lon="-7.065932974219322">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-A Fraga - Aceveda (1029m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Terriente (1499m)</osmand:address>
+      <osmand:address>OU-A Fraga - Aceveda (1029m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1525,11 +1642,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.016090031713247" lon="-0.971959959715605">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Torrijas (1317m)</name>
+  <wpt lat="42.362115997821093" lon="-7.064362959936261">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-A Pedralta (1100m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Torrijas (1317m)</osmand:address>
+      <osmand:address>OU-A Pedralta (1100m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1538,11 +1656,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.302219958975911" lon="-1.452909959480166">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Valdecuenca (1441m)</name>
+  <wpt lat="42.12249138392508" lon="-7.551114829257131">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto A Alberguería (930m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Valdecuenca (1441m)</osmand:address>
+      <osmand:address>OU-Alto A Alberguería (930m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1551,11 +1670,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.419889977201819" lon="-0.621849959716201">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Valdelinares (1836m)</name>
+  <wpt lat="42.368511306121945" lon="-7.42527773603797">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto Alenza (800m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Valdelinares (1836m)</osmand:address>
+      <osmand:address>OU-Alto Alenza (800m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1564,11 +1684,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.660090008750558" lon="-0.538250030949712">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Villarluengo (1105m)</name>
+  <wpt lat="42.337767155840993" lon="-7.178715420886874">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto da Ermida (563m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Villarluengo (1105m)</osmand:address>
+      <osmand:address>OU-Alto da Ermida (563m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1577,11 +1698,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.505090011283755" lon="-0.618139961734414">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto de Villarroya (1705m)</name>
+  <wpt lat="42.029410433024168" lon="-7.181023210287094">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto da Herosa (908m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto de Villarroya (1705m)</osmand:address>
+      <osmand:address>OU-Alto da Herosa (908m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1590,11 +1712,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.883290031924844" lon="-0.319439945742488">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto del Caballo (739m)</name>
+  <wpt lat="42.426689174026251" lon="-7.31816397048533">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto da Moa (1123m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto del Caballo (739m)</osmand:address>
+      <osmand:address>OU-Alto da Moa (1123m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1603,11 +1726,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.940900025889277" lon="-1.370160039514303">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto del Carrascal (1108m)</name>
+  <wpt lat="42.354331891983747" lon="-6.999352583661675">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto da Portela-A Moeda (1102m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto del Carrascal (1108m)</osmand:address>
+      <osmand:address>OU-Alto da Portela-A Moeda (1102m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1616,11 +1740,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.273759961128235" lon="-0.983920013532043">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto del Escandón (1225m)</name>
+  <wpt lat="42.159933177754283" lon="-7.760118674486876">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto de Allariz (746m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto del Escandón (1225m)</osmand:address>
+      <osmand:address>OU-Alto de Allariz (746m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1629,11 +1754,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.714789889752865" lon="-0.903360033407807">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto del Esquinazo (1378m)</name>
+  <wpt lat="42.131279641762376" lon="-7.012100033462048">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto de Cepedelo (1420m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto del Esquinazo (1378m)</osmand:address>
+      <osmand:address>OU-Alto de Cepedelo (1420m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1642,11 +1768,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.367200076580048" lon="-1.733659962192178">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto del Portillo (1778m)</name>
+  <wpt lat="42.236493229866028" lon="-7.111301366239786">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto De Covelo (1052m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto del Portillo (1778m)</osmand:address>
+      <osmand:address>OU-Alto De Covelo (1052m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1655,11 +1782,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.326190022751689" lon="-0.533449966460466">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto Linares (1665m)</name>
+  <wpt lat="42.31451123021543" lon="-6.735190451145172">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto de Fonte da Cova (1850m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto Linares (1665m)</osmand:address>
+      <osmand:address>OU-Alto de Fonte da Cova (1850m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1668,11 +1796,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.752090029418468" lon="-0.59645002707839">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto Majalinos (1454m)</name>
+  <wpt lat="41.959817502647638" lon="-7.329689338803291">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto de Fumaces (879m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto Majalinos (1454m)</osmand:address>
+      <osmand:address>OU-Alto de Fumaces (879m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1681,11 +1810,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.82868997938931" lon="-1.040150010958314">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puerto Mínguez (1256m)</name>
+  <wpt lat="42.214444046840072" lon="-7.828575689345598">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto de Taboadela (580m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puerto Mínguez (1256m)</osmand:address>
+      <osmand:address>OU-Alto de Taboadela (580m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1694,11 +1824,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="40.262335008010268" lon="-0.464602019637823">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>TE-Puertomingalvo (1446m)</name>
+  <wpt lat="42.360521927475929" lon="-7.26245054975152">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto de Trives (758m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>TE-Puertomingalvo (1446m)</osmand:address>
+      <osmand:address>OU-Alto de Trives (758m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1707,11 +1838,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.824963996186852" lon="-0.517945038154721">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto de Alcubierre (623m)</name>
+  <wpt lat="42.055013626813889" lon="-7.109146798029542">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto do Canizo (1067m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto de Alcubierre (623m)</osmand:address>
+      <osmand:address>OU-Alto do Canizo (1067m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1720,11 +1852,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.571846026927233" lon="-1.624928992241621">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto de Illueca (710m)</name>
+  <wpt lat="42.411132026463747" lon="-7.280201995745301">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto do Cerengo (1165m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto de Illueca (710m)</osmand:address>
+      <osmand:address>OU-Alto do Cerengo (1165m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1733,11 +1866,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.508056977763772" lon="-1.577944988384843">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto de la Campeja (638m)</name>
+  <wpt lat="42.175379265099764" lon="-7.859187489375472">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto do Corvillon (631m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto de la Campeja (638m)</osmand:address>
+      <osmand:address>OU-Alto do Corvillon (631m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1746,11 +1880,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.65223702788353" lon="-1.723161963745952">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto de la Crucija (1003m)</name>
+  <wpt lat="42.31285915710032" lon="-7.67669920809567">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto do Couso (701m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto de la Crucija (1003m)</osmand:address>
+      <osmand:address>OU-Alto do Couso (701m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1759,11 +1894,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.486226981505752" lon="-1.439426997676492">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto de la Perdiz (561m)</name>
+  <wpt lat="42.113790968433022" lon="-7.89449667558074">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto do Forriolo (856m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto de la Perdiz (561m)</osmand:address>
+      <osmand:address>OU-Alto do Forriolo (856m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1772,11 +1908,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.461967011913657" lon="-1.231154976412654">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto de Mamillas (875m)</name>
+  <wpt lat="42.048247922211885" lon="-7.353969868272543">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto do Foxo (1190m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto de Mamillas (875m)</osmand:address>
+      <osmand:address>OU-Alto do Foxo (1190m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1785,11 +1922,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.409385967999697" lon="-1.084765959531069">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto de Mezalocha (558m)</name>
+  <wpt lat="42.298831036314368" lon="-7.595069110393524">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto do Rodicio (950m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto de Mezalocha (558m)</osmand:address>
+      <osmand:address>OU-Alto do Rodicio (950m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1798,11 +1936,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.394649995490909" lon="0.2974200155586">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto de Montnegre (408m)</name>
+  <wpt lat="42.064156103879213" lon="-7.966629238799214">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Alto do Vieiro (850m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto de Montnegre (408m)</osmand:address>
+      <osmand:address>OU-Alto do Vieiro (850m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1811,11 +1950,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.453057024627924" lon="-1.464660968631506">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto de Morata (525m)</name>
+  <wpt lat="42.009828547015786" lon="-7.548593804240227">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-As Estivadas (849m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto de Morata (525m)</osmand:address>
+      <osmand:address>OU-As Estivadas (849m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1824,11 +1964,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.174383973702788" lon="-1.469745012000203">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto de Murero (902m)</name>
+  <wpt lat="42.273254496976733" lon="-7.291869856417179">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Cabeza de Manzaneda (1781m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto de Murero (902m)</osmand:address>
+      <osmand:address>OU-Cabeza de Manzaneda (1781m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1837,11 +1978,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.322191040962934" lon="-1.084795966744423">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto de Tosos (754m)</name>
+  <wpt lat="42.081766985356808" lon="-7.376896971836686">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Cabeza do Foxo - Portocamba (1102m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto de Tosos (754m)</osmand:address>
+      <osmand:address>OU-Cabeza do Foxo - Portocamba (1102m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1850,11 +1992,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.345155024901032" lon="-1.071174032986164">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto de Villanueva de Huerva (697m)</name>
+  <wpt lat="42.15189702808857" lon="-6.909462958574295">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Embalse de San Sebastián-Central de Porto (1262m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto de Villanueva de Huerva (697m)</osmand:address>
+      <osmand:address>OU-Embalse de San Sebastián-Central de Porto (1262m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1863,11 +2006,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.159962574020028" lon="0.083004981279373">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto del Portalet (295m)</name>
+  <wpt lat="42.49632066115737" lon="-8.232819875702262">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-O Paraño (800m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto del Portalet (295m)</osmand:address>
+      <osmand:address>OU-O Paraño (800m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1876,11 +2020,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.934821996837854" lon="-0.936092035844922">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Alto Esteban (707m)</name>
+  <wpt lat="42.415767973288894" lon="-7.375567015260458">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Pena do Xastre (1001m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Alto Esteban (707m)</osmand:address>
+      <osmand:address>OU-Pena do Xastre (1001m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1889,11 +2034,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.546504037454724" lon="-0.966796958819032">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Bagües (957m)</name>
+  <wpt lat="41.844145813956857" lon="-7.343593072146177">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Pico de Mairos (930m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Bagües (957m)</osmand:address>
+      <osmand:address>OU-Pico de Mairos (930m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1902,11 +2048,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.716208970174193" lon="-1.8103869818151">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Beratón (1385m)</name>
+  <wpt lat="42.044065939262509" lon="-6.999959517270327">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Portela da Canda (1262m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Beratón (1385m)</osmand:address>
+      <osmand:address>OU-Portela da Canda (1262m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1915,11 +2062,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.495701657608151" lon="-0.912620862945914">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collada Aragües (968m)</name>
+  <wpt lat="41.809486476704478" lon="-8.131293319165707">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Portela do Home (822m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collada Aragües (968m)</osmand:address>
+      <osmand:address>OU-Portela do Home (822m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1928,11 +2076,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.620892900973558" lon="-0.479743760079145">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collada Cabalerico (341m)</name>
+  <wpt lat="42.039450025185943" lon="-6.809670031070709">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Portela do Padornelo (1245m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collada Cabalerico (341m)</osmand:address>
+      <osmand:address>OU-Portela do Padornelo (1245m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1941,11 +2090,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.233498208224773" lon="-0.838833544403315">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collada de los Terreros Blancos (726m)</name>
+  <wpt lat="42.076714122667909" lon="-8.025805056095123">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Porto de Outeiro de Augas (840m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collada de los Terreros Blancos (726m)</osmand:address>
+      <osmand:address>OU-Porto de Outeiro de Augas (840m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1954,11 +2104,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.738402070477605" lon="-1.686144713312387">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collado de Añón (1009m)</name>
+  <wpt lat="42.07096891477704" lon="-8.184277256950736">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>OU-Porto dos Cabaleiros (1044m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collado de Añón (1009m)</osmand:address>
+      <osmand:address>OU-Porto dos Cabaleiros (1044m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1967,11 +2118,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="42.385499998927116" lon="-1.062230877578259">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collado de Itorre (812m)</name>
+  <wpt lat="42.228977680206299" lon="-8.316607475280762">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>PO-@Alto de Fontefría (790m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collado de Itorre (812m)</osmand:address>
+      <osmand:address>PO-@Alto de Fontefría (790m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1980,11 +2132,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.337996041402221" lon="-0.976555924862623">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collado de la Cova y de Martín (769m)</name>
+  <wpt lat="42.166557312011719" lon="-8.352313041687012">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>PO-@Alto do Paradanta (936m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collado de la Cova y de Martín (769m)</osmand:address>
+      <osmand:address>PO-@Alto do Paradanta (936m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -1993,11 +2146,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.535813650116324" lon="-1.733145145699382">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collado de la Cruz de Piedra (1253m)</name>
+  <wpt lat="42.632165746763349" lon="-8.698658142238855">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>PO-@Mirador Alto de Xiabre (641m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collado de la Cruz de Piedra (1253m)</osmand:address>
+      <osmand:address>PO-@Mirador Alto de Xiabre (641m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -2006,11 +2160,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.72740668989718" lon="-1.749262120574713">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collado de las Estacas (1515m)</name>
+  <wpt lat="42.353432178497314" lon="-8.675808906555176">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>PO-@Mirador de Cotorredondo (527m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collado de las Estacas (1515m)</osmand:address>
+      <osmand:address>PO-@Mirador de Cotorredondo (527m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -2019,11 +2174,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.510041980072856" lon="-1.573665020987391">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collado de Las Navas (724m)</name>
+  <wpt lat="42.315616887062788" lon="-8.704312490299344">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>PO-@Mirador Faro Domaio (600m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collado de Las Navas (724m)</osmand:address>
+      <osmand:address>PO-@Mirador Faro Domaio (600m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -2032,11 +2188,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.723808255046606" lon="-1.734844744205475">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collado de las Neveras (1458m)</name>
+  <wpt lat="42.077513001859188" lon="-8.772154022008181">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>PO-A Portavedra (390m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collado de las Neveras (1458m)</osmand:address>
+      <osmand:address>PO-A Portavedra (390m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -2045,11 +2202,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.541111683472991" lon="-1.739048017188907">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collado de Monteleón (1357m)</name>
+  <wpt lat="42.130640018731356" lon="-8.359100958332419">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>PO-Alto de San Fins (669m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collado de Monteleón (1357m)</osmand:address>
+      <osmand:address>PO-Alto de San Fins (669m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -2058,11 +2216,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.218799762427807" lon="-1.903445720672607">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collado del Arco (905m)</name>
+  <wpt lat="42.070649983361363" lon="-8.830407410860062">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>PO-Alto do Monte da Groba (635m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collado del Arco (905m)</osmand:address>
+      <osmand:address>PO-Alto do Monte da Groba (635m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -2071,11 +2230,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.708513544872403" lon="-1.703244466334581">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collado del Campo (1288m)</name>
+  <wpt lat="42.204974004998803" lon="-8.227032003924251">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>PO-Borraxeiros - A Picona (572m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collado del Campo (1288m)</osmand:address>
+      <osmand:address>PO-Borraxeiros - A Picona (572m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -2084,11 +2244,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.236395807936788" lon="-1.931659206748009">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collado del Guijo (882m)</name>
+  <wpt lat="42.264670003205538" lon="-8.296586964279413">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>PO-Moncelos (800m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collado del Guijo (882m)</osmand:address>
+      <osmand:address>PO-Moncelos (800m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -2097,11 +2258,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.282498957589269" lon="-2.119162129238248">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Collado Judes (785m)</name>
+  <wpt lat="42.084576012566686" lon="-8.68019700050354">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>PO-Monte Aloia (630m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Collado Judes (785m)</osmand:address>
+      <osmand:address>PO-Monte Aloia (630m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -2110,11 +2272,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.394023029133677" lon="-1.491977004334331">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Colonia de Pietas (861m)</name>
+  <wpt lat="41.88846898265183" lon="-8.870966015383601">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>PO-Monte Santa Tecla (320m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-Colonia de Pietas (861m)</osmand:address>
+      <osmand:address>PO-Monte Santa Tecla (320m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -2123,466 +2286,12 @@
       <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
     </extensions>
   </wpt>
-  <wpt lat="41.882703993469477" lon="-1.61169296130538">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-El Buste (764m)</name>
+  <wpt lat="41.953050959855318" lon="-8.809951962903142">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>PO-Niño do Corvo (308m)</name>
+    <type>POI Galicia.2018.11.20</type>
     <extensions>
-      <osmand:address>Z-El Buste (764m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.292099170386791" lon="-1.060950793325901">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-El Collado (768m)</name>
-    <extensions>
-      <osmand:address>Z-El Collado (768m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.31248764693737" lon="0.134709840640426">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Embalse de Mequinenza (160m)</name>
-    <extensions>
-      <osmand:address>Z-Embalse de Mequinenza (160m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.380489021539688" lon="-0.956546980887651">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Jaulín (733m)</name>
-    <extensions>
-      <osmand:address>Z-Jaulín (733m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="42.149912361055613" lon="-0.841026920825243">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-La Collada (519m)</name>
-    <extensions>
-      <osmand:address>Z-La Collada (519m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.589437965303659" lon="-1.094052018597722">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-La Muela (573m)</name>
-    <extensions>
-      <osmand:address>Z-La Muela (573m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.829899847507477" lon="-0.624736938625574">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Las Colladas (408m)</name>
-    <extensions>
-      <osmand:address>Z-Las Colladas (408m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.324683986604214" lon="0.315471030771732">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Los Auts (353m)</name>
-    <extensions>
-      <osmand:address>Z-Los Auts (353m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.79500749334693" lon="-1.751354662701488">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Los Collados (929m)</name>
-    <extensions>
-      <osmand:address>Z-Los Collados (929m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.368847982957959" lon="-1.494098966941237">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Pico de La Vícora (1415m)</name>
-    <extensions>
-      <osmand:address>Z-Pico de La Vícora (1415m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.330183017998934" lon="-1.344927996397018">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Pico de Valdemadera (1275m)</name>
-    <extensions>
-      <osmand:address>Z-Pico de Valdemadera (1275m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.396936997771263" lon="-1.520257964730263">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Pueblo de Aluenda (797m)</name>
-    <extensions>
-      <osmand:address>Z-Pueblo de Aluenda (797m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.392570864409208" lon="-1.553019471466541">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto Cavero (745m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto Cavero (745m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.067702881991863" lon="-1.477479748427868">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de Balconchán (1196m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de Balconchán (1196m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.164001813158393" lon="-1.861258260905743">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de Campillo (1006m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de Campillo (1006m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.322001190856099" lon="-1.341450763866305">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de Codos-Aguarón (1049m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de Codos-Aguarón (1049m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="42.547110049054027" lon="-1.122128125280142">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de Cuatro Caminos (849m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de Cuatro Caminos (849m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.112602977082133" lon="-1.601433008909225">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de Cubel (1193m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de Cubel (1193m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.410815753042698" lon="-1.524905059486628">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de el Frasno (795m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de el Frasno (795m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.662552133202553" lon="-1.545308874920011">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de La Chabola (897m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de La Chabola (897m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.852313224226236" lon="-1.679346570745111">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de las Lanzas Agudas (688m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de las Lanzas Agudas (688m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.242101537063718" lon="-1.31445080973208">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de Mainar (989m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de Mainar (989m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.434800988063216" lon="-1.484895972535014">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de Morata (680m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de Morata (680m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.312200399115682" lon="-1.432646624743938">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de Orera (1115m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de Orera (1115m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.257820120081306" lon="-1.247493401169777">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de Paniza (928m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de Paniza (928m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.047195382416248" lon="-1.461060186848044">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de Santed (1154m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de Santed (1154m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="42.462950544431806" lon="-1.216521263122559">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de Sos (846m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de Sos (846m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.099189836531878" lon="-1.552430894225836">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de Used (1207m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de Used (1207m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.180395809933543" lon="-1.45805292762816">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Puerto de Villafeliche (855m)</name>
-    <extensions>
-      <osmand:address>Z-Puerto de Villafeliche (855m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.168272979557514" lon="-1.105181006714702">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Santuario de la Virgen de Herrera (1342m)</name>
-    <extensions>
-      <osmand:address>Z-Santuario de la Virgen de Herrera (1342m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="42.128761969506741" lon="-0.920112021267414">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Santuario de Monlora (620m)</name>
-    <extensions>
-      <osmand:address>Z-Santuario de Monlora (620m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.792562995105982" lon="-1.820566970854998">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Santuario del Moncayo (1565m)</name>
-    <extensions>
-      <osmand:address>Z-Santuario del Moncayo (1565m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="42.331147966906428" lon="-0.846125967800617">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Sierra Mayor (949m)</name>
-    <extensions>
-      <osmand:address>Z-Sierra Mayor (949m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="42.537194425240159" lon="-1.044916631653905">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Undues Pintano (907m)</name>
-    <extensions>
-      <osmand:address>Z-Undues Pintano (907m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.398401986807585" lon="-0.902857035398483">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Valmadrid (688m)</name>
-    <extensions>
-      <osmand:address>Z-Valmadrid (688m)</osmand:address>
-      <osmand:icon>mountain</osmand:icon>
-      <osmand:background>circle</osmand:background>
-      <osmand:color>#ffff0000</osmand:color>
-      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
-      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
-      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
-    </extensions>
-  </wpt>
-  <wpt lat="41.474395003169775" lon="-1.637008991092443">
-    <time>2024-03-16T20:03:20Z</time>
-    <name>Z-Viver de la Sierra (908m)</name>
-    <extensions>
-      <osmand:address>Z-Viver de la Sierra (908m)</osmand:address>
+      <osmand:address>PO-Niño do Corvo (308m)</osmand:address>
       <osmand:icon>mountain</osmand:icon>
       <osmand:background>circle</osmand:background>
       <osmand:color>#ffff0000</osmand:color>
@@ -2593,7 +2302,7 @@
   </wpt>
   <extensions>
     <osmand:points_groups>
-      <osmand:group color="#ffff0000" background="circle" icon="mountain" name="Aragó" />
+      <osmand:group color="#ffff0000" background="circle" icon="mountain" name="POI Galicia.2018.11.20" />
     </osmand:points_groups>
   </extensions>
 </gpx>

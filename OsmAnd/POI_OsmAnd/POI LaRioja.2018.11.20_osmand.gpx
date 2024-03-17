@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-POI LaRioja.2018.11.20</name>
+    <time>2024-03-17T17:49:50Z</time>
+  </metadata>
+  <wpt lat="42.167474962770939" lon="-2.487674010917544">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Ajamil de Cameros (1042m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Ajamil de Cameros (1042m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.145269038155675" lon="-2.618307983502746">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Aldeanueva de Cameros (1111m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Aldeanueva de Cameros (1111m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.615473018959165" lon="-2.854237016290426">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Bilibio (560m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Bilibio (560m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.320778965950012" lon="-2.957468032836914">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Bonicaparra (1264m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Bonicaparra (1264m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.328473972156644" lon="-2.660494018346071">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Castroviejo (969m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Castroviejo (969m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.297436958178878" lon="-2.421563006937504">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Cañón del Leza (812m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Cañón del Leza (812m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.628126004710793" lon="-2.99806603230536">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Cellorigo (770m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Cellorigo (770m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.392756966874003" lon="-2.881705015897751">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Cerro San Pedro (810m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Cerro San Pedro (810m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.351840035989881" lon="-2.420017970725894">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Clavijo (Ermita de Santiago) (965m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Clavijo (Ermita de Santiago) (965m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.141912002116442" lon="-3.077802993357182">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Collado de Canales (1234m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Collado de Canales (1234m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.215899983420968" lon="-3.101621009409428">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Cruz de la Demanda (1855m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Cruz de la Demanda (1855m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.154129967093468" lon="-3.07848896831274">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Ermita de la Soledad (1410m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Ermita de la Soledad (1410m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.614354034885764" lon="-3.037765994668007">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Foncea (680m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Foncea (680m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.172389021143317" lon="-2.617760980501771">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Gallinero (1050m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Gallinero (1050m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.212786022573709" lon="-2.419438026845455">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Hornillos (1153m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Hornillos (1153m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.135626999661326" lon="-3.072909973561764">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-La Mojonera (1306m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-La Mojonera (1306m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.237033024430275" lon="-2.568398024886847">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-La Rasa (1390m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-La Rasa (1390m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.631528386846185" lon="-2.975668832659721">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-La Ventilla (675m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-La Ventilla (675m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.096344036981463" lon="-2.790227020159364">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Las Viniegras (1583m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Las Viniegras (1583m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.047301018610597" lon="-2.6785400044173">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Lomos de Orios (1403m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Lomos de Orios (1403m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.288548033684492" lon="-2.474584998562932">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Luezas (1135m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Luezas (1135m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.328510014340281" lon="-2.613269034773111">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Moncalvillo (1475m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Moncalvillo (1475m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.270480003207922" lon="-2.619553031399846">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Nestares (865m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Nestares (865m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.319463007152081" lon="-2.925067031756043">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Pazuengos (1175m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Pazuengos (1175m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.16171701438725" lon="-2.755529964342713">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Peña Hincada (1422m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Peña Hincada (1422m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.200451968237758" lon="-2.598138023167849">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Pinillos (1025m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Pinillos (1025m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.055570017546415" lon="-2.537712967023253">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Piqueras (1710m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Piqueras (1710m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.245834022760391" lon="-2.592236995697021">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Ribabellosa (1072m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Ribabellosa (1072m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.61698947288096" lon="-2.730708885937929">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Rivas de Tereso (960m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Rivas de Tereso (960m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.263589994981885" lon="-2.272624969482422">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-San Vicente de Robres (938m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-San Vicente de Robres (938m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.130375988781452" lon="-2.568784011527896">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Sancho Leza (1410m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Sancho Leza (1410m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.246246999129653" lon="-2.35905596986413">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Santa Marina (1253m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Santa Marina (1253m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.32973201200366" lon="-2.872434966266155">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Suso (825m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Suso (825m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.300968002527952" lon="-2.428171969950199">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Trevijano (1006m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Trevijano (1006m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.448709020391107" lon="-2.830616980791092">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Valdecorrales (685m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Valdecorrales (685m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.255934970453382" lon="-2.975277984514832">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Valdezcaray (1570m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Valdezcaray (1570m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="42.233080118894577" lon="-2.810771400108933">
+    <time>2024-03-17T17:49:50Z</time>
+    <name>LO-Valle Najerilla(700m)</name>
+    <type>POI LaRioja.2018.11.20</type>
+    <extensions>
+      <osmand:address>LO-Valle Najerilla(700m)</osmand:address>
+      <osmand:icon>mountain</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#ffff0000</osmand:color>
+      <osmand:amenity_subtype>user_defined_other_postcode</osmand:amenity_subtype>
+      <osmand:amenity_type>user_defined_other</osmand:amenity_type>
+      <osmand:amenity_origin>Amenity:: :</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <osmand:group color="#ffff0000" background="circle" icon="mountain" name="POI LaRioja.2018.11.20" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>
