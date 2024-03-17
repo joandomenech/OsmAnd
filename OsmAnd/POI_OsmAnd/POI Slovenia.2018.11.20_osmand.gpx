@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="OsmAnd 4.6.6" creator="OsmAnd Maps 4.6.6 (4.6.6.1)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-POI Slovenia.2018.11.20</name>
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
   </metadata>
   <wpt lat="46.24055553227663" lon="14.010888850316405">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Bohinjsko sedlo (1277m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -19,7 +19,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.814500041306019" lon="13.922055596485734">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Goški preval (233m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -33,7 +33,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.438111122697592" lon="13.931111069396138">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Kosma?ev preval (847m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -47,7 +47,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.202861107885838" lon="13.599527757614851">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Livški preval (693m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -61,7 +61,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.439138911664486" lon="14.266777792945504">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Loiblpass (1369m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -75,7 +75,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.51683334633708" lon="13.602194460108876">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Na Prevalu (89m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -89,7 +89,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.166138900443912" lon="15.070194443687797">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Ojstrški preval (529m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -103,7 +103,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.193944439291954" lon="13.629194414243102">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Passo Zacotà (1122m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -117,7 +117,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.425083298236132" lon="14.585138903930783">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Pavli?evo sedlo (1339m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -131,7 +131,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.493777772411704" lon="15.56808334775269">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Petkovo sedlo (881m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -145,7 +145,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.794666698202491" lon="14.234138913452625">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Postojnska vrata (610m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -159,7 +159,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.16177779622376" lon="14.207138875499368">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Predole (698m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -173,7 +173,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.434806222096086" lon="13.743713675066829">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Prelaz Vršic/Vršic-Pass (1611m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -187,7 +187,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.983750028535724" lon="13.665250008925796">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Preval (336m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -201,7 +201,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.117611117660999" lon="13.664194475859404">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Preval (339m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -215,7 +215,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.075166668742895" lon="14.435777748003602">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Preval (379m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -229,7 +229,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.376694403588772" lon="15.33405558206141">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Preval (549m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -243,7 +243,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.163333309814334" lon="13.728694478049874">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Preval Poljance (253m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -257,7 +257,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.186305591836572" lon="15.06186107173562">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Preval Vrhe (724m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -271,7 +271,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.433083321899176" lon="13.743222244083881">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Preval Vrši? (1611m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -285,7 +285,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.645277738571167" lon="15.206111110746861">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Radlpass (674m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -299,7 +299,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.179888909682631" lon="13.662472246214747">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Sedlo Solarji (955m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -313,7 +313,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.419277740642428" lon="14.526888867840171">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Seebergsattel (1215m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -327,7 +327,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.502972217276692" lon="15.211277799680829">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Veliki sedlo Pungart (1371m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -341,7 +341,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.974361123517156" lon="13.689166679978371">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Vratca (403m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -355,7 +355,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.517555555328727" lon="13.751694420352578">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Wurzenpass (1073m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -369,7 +369,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.584527775645256" lon="14.884777776896954">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Štalcerski preval (588m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -383,7 +383,7 @@
     </extensions>
   </wpt>
   <wpt lat="45.863388916477561" lon="13.718416672199965">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO-Železna vrata (445m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>
@@ -397,7 +397,7 @@
     </extensions>
   </wpt>
   <wpt lat="46.418472239747643" lon="13.578166645020247">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SLO&gt;I-Predel (1156m)</name>
     <type>POI Slovenia.2018.11.20</type>
     <extensions>

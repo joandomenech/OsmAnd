@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="OsmAnd 4.6.6" creator="OsmAnd Maps 4.6.6 (4.6.6.1)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-POI Extremadura.2018.11.20</name>
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
   </metadata>
   <wpt lat="38.550591962412" lon="-6.760675963014364">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BA-Alto del Regío (551m)</name>
     <type>POI Extremadura.2018.11.20</type>
     <extensions>
@@ -19,7 +19,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.514716997742653" lon="-6.568022025749087">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BA-Castillo de Feria (670m)</name>
     <type>POI Extremadura.2018.11.20</type>
     <extensions>
@@ -33,7 +33,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.51853302679956" lon="-6.634591016918421">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BA-El Doncel (694m)</name>
     <type>POI Extremadura.2018.11.20</type>
     <extensions>
@@ -47,7 +47,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.14461106993258" lon="-5.183583330363035">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BA-Embalse García Sola (415m)</name>
     <type>POI Extremadura.2018.11.20</type>
     <extensions>
@@ -61,7 +61,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.512019030749798" lon="-6.801832029595971">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BA-Las Crucitas (613m)</name>
     <type>POI Extremadura.2018.11.20</type>
     <extensions>
@@ -75,7 +75,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.49253898486495" lon="-6.710465010255575">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BA-Peña Utrera (708m)</name>
     <type>POI Extremadura.2018.11.20</type>
     <extensions>
@@ -89,7 +89,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.917894000187516" lon="-4.931966979056597">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BA-Puerto de Azorejo (747m)</name>
     <type>POI Extremadura.2018.11.20</type>
     <extensions>
@@ -103,7 +103,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.583844983950257" lon="-6.089393980801105">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BA-Puerto Llano-Alto de Hornachos (627m)</name>
     <type>POI Extremadura.2018.11.20</type>
     <extensions>
@@ -117,7 +117,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.054449008777738" lon="-6.338342037051916">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BA-Tentudía (1108m)</name>
     <type>POI Extremadura.2018.11.20</type>
     <extensions>
@@ -131,7 +131,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.399644998833537" lon="-6.39758700504899">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CC-Esperabán (1295m)</name>
     <type>POI Extremadura.2018.11.20</type>
     <extensions>
@@ -145,7 +145,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.107916630804539" lon="-5.791472224518657">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CC-Puerto del Piornal (860m)</name>
     <type>POI Extremadura.2018.11.20</type>
     <extensions>
@@ -159,7 +159,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.246389023959637" lon="-6.777710001915693">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CC-San Martín (Santa Clara) (1027m)</name>
     <type>POI Extremadura.2018.11.20</type>
     <extensions>
@@ -173,7 +173,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.207431027665734" lon="-6.786120990291238">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CC-Villamiel (868m)</name>
     <type>POI Extremadura.2018.11.20</type>
     <extensions>

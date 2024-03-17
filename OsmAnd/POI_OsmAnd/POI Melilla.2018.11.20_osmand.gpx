@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="OsmAnd 4.6.6" creator="OsmAnd Maps 4.6.6 (4.6.6.1)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-POI Melilla.2018.11.20</name>
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
   </metadata>
   <wpt lat="35.31519703567028" lon="-2.946853023022413">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ML- Rostrogordo (92m)</name>
     <type>POI Melilla.2018.11.20</type>
     <extensions>
@@ -19,7 +19,7 @@
     </extensions>
   </wpt>
   <wpt lat="35.314260022714734" lon="-2.960779974237084">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ML- Tres Estrella (135m)</name>
     <type>POI Melilla.2018.11.20</type>
     <extensions>

@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="OsmAnd 4.6.6" creator="OsmAnd Maps 4.6.6 (4.6.6.1)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-POI Galicia.2018.11.20</name>
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
   </metadata>
   <wpt lat="42.703431369736791" lon="-8.983552493155003">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-@Enxa (539m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -19,7 +19,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.512241858989" lon="-7.822088180109859">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-@Mirador do Caxado (740m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -33,7 +33,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.897905688732862" lon="-8.564954632893205">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-@Mirador Monte Pedroso (460m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -47,7 +47,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.56004810333252" lon="-9.015591144561768">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-@Mirador Pedra da Rá (180m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -61,7 +61,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.635973393917084" lon="-8.977498076856136">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-@Os Forcados (590m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -75,7 +75,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.418368985876441" lon="-8.123065978288651">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-A Trapa (321m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -89,7 +89,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.434077007696033" lon="-8.088347967714071">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Alto da Serra (434m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -103,7 +103,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.660293988883495" lon="-8.917772993445396">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Alto das Escobias (223m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -117,7 +117,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.849898338317871" lon="-9.053442478179932">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Alto das Paxareiras (538m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -131,7 +131,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.85807597450912" lon="-8.468149015679955">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Alto de Arins (351m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -145,7 +145,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.515901565551758" lon="-7.817673683166504">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Alto do Caxado (680m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -159,7 +159,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.86643398925662" lon="-8.958578025922179">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Alto do Petón o Valadares (401m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -173,7 +173,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.812441037967801" lon="-8.755445033311844">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Augasantas - O Codeso (450m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -187,7 +187,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.991169029846787" lon="-8.692345982417464">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Campo do Pozo (476m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -201,7 +201,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.858444023877382" lon="-8.848444009199739">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Campo Rubín (356m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -215,7 +215,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.766488008201122" lon="-8.575249034911394">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Cruz das Cabanelas (270m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -229,7 +229,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.802297007292509" lon="-8.803857984021306">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Culou (494m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -243,7 +243,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.745824018493295" lon="-8.775508040562272">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Encrucixada de Treito-Pico Muralla (657m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -257,7 +257,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.74398704059422" lon="-8.765029991045594">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Encrucixada do Treito (474m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -271,7 +271,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.743531987071037" lon="-8.745001014322042">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Espiñeira (420m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -285,7 +285,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.942202035337687" lon="-8.606422003358603">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Espiñeira - Mercuto (530m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -299,7 +299,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.396014031022787" lon="-8.033415991812944">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Fragas do Eume (437m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -313,7 +313,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.726385798305273" lon="-8.920107604935765">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Iroite (670m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -327,7 +327,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.771472977474332" lon="-8.617751989513636">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Lampai (320m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -341,7 +341,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.625815868377686" lon="-8.959887027740479">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Mirador A Curota (480m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -355,7 +355,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.917166631668806" lon="-9.116233326494694">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Mirador de Ezaro (269m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -369,7 +369,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.722346164286137" lon="-7.945038126781583">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Mirador Garita de Herbeira (600m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -383,7 +383,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.66554499976337" lon="-8.864816967397928">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Monte Ferreiros o Trevonzos (130m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -397,7 +397,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.603830974549055" lon="-9.044881034642458">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Monte Taumé (227m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -411,7 +411,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.834791969507933" lon="-8.542015962302685">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Montouto (322m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -425,7 +425,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.4301189891994" lon="-8.061568960547447">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-O Poboado (405m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -439,7 +439,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.783968970179558" lon="-8.618689002469182">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Pena da Agrela (400m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -453,7 +453,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.827343977987766" lon="-8.835629001259804">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Pesquería do Tambre (247m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -467,7 +467,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.806517966091633" lon="-8.446907009929419">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Pico Sacro (530m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -481,7 +481,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.662549978122115" lon="-8.880057027563453">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Polígono de Espiñeira (156m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -495,7 +495,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.752221003174782" lon="-8.791558966040611">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Portela de Aldarís (418m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -509,7 +509,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.699888925999403" lon="-8.882888853549957">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Portiña da Devesa (274m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -523,7 +523,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.700719991698861" lon="-8.882171027362347">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Portiña da Devesa - Alto de Belles (274m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -537,7 +537,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.771787969395518" lon="-8.914656015112996">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-San Lois (363m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -551,7 +551,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.816379023715854" lon="-8.701693983748555">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Santa Cecía (497m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -565,7 +565,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.170720040798187" lon="-8.349879020825028">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Santuario de Sª Marina de Veira (457m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -579,7 +579,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.654073024168611" lon="-8.862715037539601">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Sao Martiño (69m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -593,7 +593,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.702534949406981" lon="-7.723242323845625">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Serra de Sollerios (263m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -607,7 +607,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.586916653439403" lon="-7.795888865366578">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Sierra de la Faladoira (540m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -621,7 +621,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.82866396009922" lon="-8.952957959845662">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Tremuzo (515m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -635,7 +635,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.650616997852921" lon="-8.870868030935526">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>C-Vista Alegre (75m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -649,7 +649,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.244398981332779" lon="-7.167942998930812">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-A Barranca (860m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -663,7 +663,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.579065971076488" lon="-7.244371036067605">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-A Carballal Golada (975m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -677,7 +677,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.626517014577985" lon="-7.273985976353288">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-A Casela (844m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -691,7 +691,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.426751032471657" lon="-7.318438980728388">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-A Moa (1000m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -705,7 +705,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.832807973027229" lon="-6.950548030436039">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-A Sete Carballos Fiosa (1421m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -719,7 +719,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.569197980687022" lon="-7.718753982335329">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-A Veiga (570m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -733,7 +733,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.696765996515751" lon="-7.276432989165187">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Aira Padrón (1132m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -747,7 +747,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.819113032892346" lon="-6.921540023759007">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Albergue de Ancares (1355m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -761,7 +761,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.463146034628153" lon="-7.532895002514124">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Alto da Cruz (900m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -775,7 +775,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.667300002649426" lon="-7.218025038018823">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Alto da Pedra (1143m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -789,7 +789,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.566270995885134" lon="-7.091081030666828">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Alto da Seara Golada (1073m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -803,7 +803,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.803402999415994" lon="-7.142468970268965">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Alto da Trapa (997m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -817,7 +817,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.384016929194331" lon="-7.424557227641344">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Alto Da Xesta (540m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -831,7 +831,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.909429967403412" lon="-7.149380017071962">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Alto de O Lago (1000m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -845,7 +845,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.496842039749026" lon="-7.554864976555109">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Alto de Onsolar (1038m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -859,7 +859,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.953146705403924" lon="-6.897971536964178">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Alto de Sierra Morela (950m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -873,7 +873,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.835478447377682" lon="-7.222511954605579">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Alto de Vilaesteba (950m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -887,7 +887,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.944254009053111" lon="-7.010836964473128">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Alto de Vilaverde (760m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -901,7 +901,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.709444463253021" lon="-7.041027741506696">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Alto do Cebreiro (1300m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -915,7 +915,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.197676995769143" lon="-7.245963010936975">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Alto do Couso (788m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -929,7 +929,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.711454946547747" lon="-7.124105896800756">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Alto do Poio (1335m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -943,7 +943,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.744447961449623" lon="-7.094724979251623">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-As Fontes (1143m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -957,7 +957,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.43809001147747" lon="-7.388404989615083">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Atalaia (503m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -971,7 +971,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.907100971788168" lon="-6.96898696012795">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Campa de Laviadas (795m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -985,7 +985,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.681245980784297" lon="-7.157170996069908">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Chao do Golado (1261m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -999,7 +999,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.5177350230515" lon="-7.539094006642699">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Chao do Lago (832m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1013,7 +1013,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.907110024243593" lon="-6.995301023125648">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Chao do Vallo (818m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1027,7 +1027,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.634589985013008" lon="-7.662864960730076">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Cristo da Paleira (435m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1041,7 +1041,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.618368990719318" lon="-7.705792961642146">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Cristo da Portapena (498m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1055,7 +1055,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.384950002655387" lon="-7.365287030115724">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Cristo do Fiouco (671m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1069,7 +1069,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.272465029731393" lon="-7.125541968271136">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Cruz de Barreiros (880m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1083,7 +1083,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.208408011123538" lon="-7.247512992471457">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Cruz de Meira (784m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1097,7 +1097,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.163066022098064" lon="-7.107947012409568">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Cruz do Pito (824m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1111,7 +1111,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.069085022434592" lon="-7.029798002913594">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Estoupelo (870m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1125,7 +1125,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.621580995619297" lon="-7.897710967808962">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Faro (1180m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1139,7 +1139,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.125813994556665" lon="-7.066112011671066">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Fonsagrada (960m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1153,7 +1153,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.587446976453066" lon="-7.697252975776792">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Foxo - Os Callós (545m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1167,7 +1167,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.494441965594888" lon="-7.684514997527003">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Gañidoira (710m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1181,7 +1181,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.106494965031743" lon="-7.137133972719312">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Hospital (1101m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1195,7 +1195,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.29948803409934" lon="-7.08803404122591">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-La - Coto Frades Vaga (950m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1209,7 +1209,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.022197997197509" lon="-7.041470976546407">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Louxas (0m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1223,7 +1223,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.555519971996546" lon="-7.715388983488083">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Montalén (595m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1237,7 +1237,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.648549038916826" lon="-7.36854700371623">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Monte Castrelo (320m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1251,7 +1251,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.71075801551342" lon="-7.656697975471616">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Monte Merán (300m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1265,7 +1265,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.546397000551224" lon="-7.213310971856117">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-O Boi (998m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1279,7 +1279,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.474977007135749" lon="-7.547503989189863">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-O Cadramón (1122m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1293,7 +1293,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.614223025739193" lon="-7.09699597209692">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-O Couto (1310m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1307,7 +1307,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.702257005497813" lon="-7.659186981618404">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-O Fulgueiro (315m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1321,7 +1321,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.725955974310637" lon="-6.990286968648434">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-O Penas do Cumeal Portelo (1280m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1335,7 +1335,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.41460601426661" lon="-7.235541036352515">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-O Picato (653m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1349,7 +1349,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.460040036588907" lon="-7.593455007299781">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-O Xistral (1021m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1363,7 +1363,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.489155977964401" lon="-7.733688019216061">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Oleiros - Lama de Mogos (680m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1377,7 +1377,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.198740994557738" lon="-7.168414983898401">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Ouviaña (744m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1391,7 +1391,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.51956102065742" lon="-7.733652982860804">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Parque Eólico de Muras (660m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1405,7 +1405,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.136870982125401" lon="-6.957760993391275">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Pedras Apañadas (1156m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1419,7 +1419,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.570845000445843" lon="-7.928996002301574">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Pena Bico (1001m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1433,7 +1433,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.499765982851386" lon="-7.550619039684534">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Pena da Cadela (1090m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1447,7 +1447,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.487562015652657" lon="-7.401938997209072">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Penedo Grande (500m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1461,7 +1461,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.53569702245295" lon="-7.515437006950378">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Penido Novo (760m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1475,7 +1475,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.740320041775703" lon="-7.00095503591001">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Pintinidoira (1279m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1489,7 +1489,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.868545055389404" lon="-6.818239688873291">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Puerto de Ancares (1684m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1503,7 +1503,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.268158156424761" lon="-7.268955996260047">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Puerto de Marco de Álvarez (550m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1517,7 +1517,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.722057132050395" lon="-7.013335525989532">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Puerto Piedrafita do Cebreiro (1100m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1531,7 +1531,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.763871010392904" lon="-7.772311996668577">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Repetidor San Cristovo (885m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1545,7 +1545,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.086116965860128" lon="-6.915747039020061">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Robledo (496m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1559,7 +1559,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.663328010588884" lon="-7.577243987470865">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-San Roque (350m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1573,7 +1573,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.12696298584342" lon="-6.998856039717793">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Serra Liñares (1017m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1587,7 +1587,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.029189007356763" lon="-7.021040003746748">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Signada (907m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1601,7 +1601,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.737324014306068" lon="-7.115377988666296">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LU-Vilasol (1173m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1615,7 +1615,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.259630551561713" lon="-7.298414362594485">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-@Estacion Cabeza de Manzaneda (1763m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1629,7 +1629,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.336731990799308" lon="-7.065932974219322">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-A Fraga - Aceveda (1029m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1643,7 +1643,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.362115997821093" lon="-7.064362959936261">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-A Pedralta (1100m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1657,7 +1657,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.12249138392508" lon="-7.551114829257131">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto A Alberguería (930m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1671,7 +1671,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.368511306121945" lon="-7.42527773603797">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto Alenza (800m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1685,7 +1685,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.337767155840993" lon="-7.178715420886874">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto da Ermida (563m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1699,7 +1699,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.029410433024168" lon="-7.181023210287094">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto da Herosa (908m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1713,7 +1713,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.426689174026251" lon="-7.31816397048533">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto da Moa (1123m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1727,7 +1727,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.354331891983747" lon="-6.999352583661675">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto da Portela-A Moeda (1102m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1741,7 +1741,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.159933177754283" lon="-7.760118674486876">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto de Allariz (746m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1755,7 +1755,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.131279641762376" lon="-7.012100033462048">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto de Cepedelo (1420m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1769,7 +1769,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.236493229866028" lon="-7.111301366239786">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto De Covelo (1052m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1783,7 +1783,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.31451123021543" lon="-6.735190451145172">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto de Fonte da Cova (1850m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1797,7 +1797,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.959817502647638" lon="-7.329689338803291">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto de Fumaces (879m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1811,7 +1811,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.214444046840072" lon="-7.828575689345598">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto de Taboadela (580m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1825,7 +1825,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.360521927475929" lon="-7.26245054975152">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto de Trives (758m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1839,7 +1839,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.055013626813889" lon="-7.109146798029542">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto do Canizo (1067m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1853,7 +1853,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.411132026463747" lon="-7.280201995745301">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto do Cerengo (1165m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1867,7 +1867,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.175379265099764" lon="-7.859187489375472">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto do Corvillon (631m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1881,7 +1881,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.31285915710032" lon="-7.67669920809567">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto do Couso (701m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1895,7 +1895,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.113790968433022" lon="-7.89449667558074">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto do Forriolo (856m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1909,7 +1909,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.048247922211885" lon="-7.353969868272543">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto do Foxo (1190m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1923,7 +1923,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.298831036314368" lon="-7.595069110393524">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto do Rodicio (950m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1937,7 +1937,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.064156103879213" lon="-7.966629238799214">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Alto do Vieiro (850m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1951,7 +1951,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.009828547015786" lon="-7.548593804240227">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-As Estivadas (849m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1965,7 +1965,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.273254496976733" lon="-7.291869856417179">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Cabeza de Manzaneda (1781m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1979,7 +1979,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.081766985356808" lon="-7.376896971836686">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Cabeza do Foxo - Portocamba (1102m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -1993,7 +1993,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.15189702808857" lon="-6.909462958574295">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Embalse de San Sebastián-Central de Porto (1262m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2007,7 +2007,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.49632066115737" lon="-8.232819875702262">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-O Paraño (800m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2021,7 +2021,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.415767973288894" lon="-7.375567015260458">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Pena do Xastre (1001m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2035,7 +2035,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.844145813956857" lon="-7.343593072146177">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Pico de Mairos (930m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2049,7 +2049,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.044065939262509" lon="-6.999959517270327">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Portela da Canda (1262m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2063,7 +2063,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.809486476704478" lon="-8.131293319165707">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Portela do Home (822m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2077,7 +2077,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.039450025185943" lon="-6.809670031070709">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Portela do Padornelo (1245m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2091,7 +2091,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.076714122667909" lon="-8.025805056095123">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Porto de Outeiro de Augas (840m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2105,7 +2105,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.07096891477704" lon="-8.184277256950736">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>OU-Porto dos Cabaleiros (1044m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2119,7 +2119,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.228977680206299" lon="-8.316607475280762">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>PO-@Alto de Fontefría (790m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2133,7 +2133,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.166557312011719" lon="-8.352313041687012">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>PO-@Alto do Paradanta (936m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2147,7 +2147,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.632165746763349" lon="-8.698658142238855">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>PO-@Mirador Alto de Xiabre (641m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2161,7 +2161,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.353432178497314" lon="-8.675808906555176">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>PO-@Mirador de Cotorredondo (527m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2175,7 +2175,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.315616887062788" lon="-8.704312490299344">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>PO-@Mirador Faro Domaio (600m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2189,7 +2189,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.077513001859188" lon="-8.772154022008181">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>PO-A Portavedra (390m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2203,7 +2203,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.130640018731356" lon="-8.359100958332419">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>PO-Alto de San Fins (669m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2217,7 +2217,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.070649983361363" lon="-8.830407410860062">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>PO-Alto do Monte da Groba (635m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2231,7 +2231,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.204974004998803" lon="-8.227032003924251">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>PO-Borraxeiros - A Picona (572m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2245,7 +2245,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.264670003205538" lon="-8.296586964279413">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>PO-Moncelos (800m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2259,7 +2259,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.084576012566686" lon="-8.68019700050354">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>PO-Monte Aloia (630m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2273,7 +2273,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.88846898265183" lon="-8.870966015383601">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>PO-Monte Santa Tecla (320m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>
@@ -2287,7 +2287,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.953050959855318" lon="-8.809951962903142">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>PO-Niño do Corvo (308m)</name>
     <type>POI Galicia.2018.11.20</type>
     <extensions>

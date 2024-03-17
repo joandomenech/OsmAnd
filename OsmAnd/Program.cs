@@ -16,16 +16,18 @@ class Program
             // Load the origen GPX file
             var origenDoc = XDocument.Load(file);
 
+            var fileName = Path.GetFileNameWithoutExtension(file);
+
             // Create the metadata of the desti GPX file
             var metadata = new XElement("metadata",
-                new XElement("name", "favorites-"+Path.GetFileNameWithoutExtension(file)),
+                new XElement("name", "favorites-"+fileName),
                 new XElement("time", DateTime.Now.ToString("yyyy-MM-ddTHH:mm:ssZ"))
             );
 
             // Create the root of the desti GPX file
             var gpx = new XElement("gpx",
-                new XAttribute("version", "OsmAnd 4.6.3"),
-                new XAttribute("creator", "OsmAnd Maps 4.6.3 (4.6.3.2)"),
+                new XAttribute("version", "OsmAnd 4.6.6"),
+                new XAttribute("creator", "OsmAnd Maps 4.6.6 (4.6.6.1)"),
                 new XAttribute("xmls", "http://www.topografix.com/GPX/1/1"),
                 new XAttribute(XNamespace.Xmlns + "osmand", osmandNs),
                 new XAttribute(XNamespace.Xmlns + "gpxtpx","http://www.garmin.com/xmlschemas/TrackPointExtension/v1"),
@@ -44,7 +46,7 @@ class Program
                     new XAttribute("lon", wpt.Attribute("lon").Value),
                     new XElement("time", DateTime.Now.ToString("yyyy-MM-ddTHH:mm:ssZ")),
                     new XElement("name", wpt.Element(gpxNs + "name").Value),
-                    new XElement("type", Path.GetFileNameWithoutExtension(file)),
+                    new XElement("type", fileName),
                     new XElement("extensions",
                         new XElement(osmandNs+"address", wpt.Element(gpxNs + "name").Value),
                         new XElement(osmandNs+"icon", "mountain"),
@@ -63,12 +65,12 @@ class Program
                         new XAttribute("color", "#ffff0000"),
                         new XAttribute("background", "circle"),
                         new XAttribute("icon", "mountain"),
-                        new XAttribute("name", Path.GetFileNameWithoutExtension(file)))));
+                        new XAttribute("name", fileName))));
             gpx.Add(lastElement);
 
             // Write the desti GPX file
             var destiDoc = new XDocument(new XDeclaration("1.0", "utf-8", "yes"),gpx);
-            destiDoc.Save("POI_OsmAnd/" + Path.GetFileNameWithoutExtension(file)+"_osmand.gpx");
+            destiDoc.Save("POI_OsmAnd/" + fileName +"_osmand.gpx");
         }
     }
 }

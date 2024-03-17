@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="OsmAnd 4.6.6" creator="OsmAnd Maps 4.6.6 (4.6.6.1)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-POI Alemania.2018.11.20</name>
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
   </metadata>
   <wpt lat="47.525830026715994" lon="10.434910040348768">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE &gt; AT Oberjoch Passhohe (1178m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -19,7 +19,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.603330025449395" lon="11.63555002771318">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Achen Passhohe (941m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -33,7 +33,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.479999983683228" lon="8.27603998593986">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Alexanderschanze Passhohe (971m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -47,7 +47,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.901032343506813" lon="7.866754839196801">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Am Giesshübel (1064m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -61,7 +61,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.237889967858791" lon="8.176419977098703">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Büchereck Passhohe (651m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -75,7 +75,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.785960966721177" lon="7.721104938536882">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Eberten-Hütte (924m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -89,7 +89,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.698575938120484" lon="7.899125916883349">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Eckhag (877m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -103,7 +103,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.74363269098103" lon="7.905273037031293">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Ehrsberg (860m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -117,7 +117,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.56185301579535" lon="11.101073697209358">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Ettaler Sattel (869m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -131,7 +131,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.856476325541735" lon="8.027643961831927">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Feldberg-Pass (1233m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -145,7 +145,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.235400039702654" lon="8.29425998032093">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Fohrenbühl Passhohe (786m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -159,7 +159,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.413299983367324" lon="8.245000038295984">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Freiersberg Passhohe (740m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -173,7 +173,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.719393400475383" lon="8.014543885365129">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Freiwaldkapelle (1015m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -187,7 +187,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.138399962335825" lon="7.956600040197372">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Gscheid Passhohe (454m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -201,7 +201,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.803308321163058" lon="7.792517077177763">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Haldenhof (929m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -215,7 +215,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.701873630285263" lon="12.933466862887144">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Hallthurm-Pass (706m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -229,7 +229,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.795539889484644" lon="7.836615862324834">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Hau (825m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -243,7 +243,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.218560041859746" lon="8.08739997446537">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Heidburg Passhohe (520m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -257,7 +257,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.626147242262959" lon="12.904376210644841">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Hochschwarzeck (1039m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -271,7 +271,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.829479891806841" lon="7.859107190743089">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Hohtannhütte Belchen (1180m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -285,7 +285,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.065253356471658" lon="8.01621456630528">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Kandel (1200m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -299,7 +299,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.621840704232454" lon="11.349371569231153">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Kesselberg-Pass (859m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -313,7 +313,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.800347581505775" lon="7.778015965595841">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Kreuzweg (1079m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -327,7 +327,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.785000005736947" lon="8.402219982817769">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Käppele Passhohe (538m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -341,7 +341,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.769744079560041" lon="7.746113855391741">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Lipple (893m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -355,7 +355,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.419820014387369" lon="8.157879961654544">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Löcherbergwasen Passhohe (656m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -369,7 +369,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.690749587491155" lon="12.496615312993526">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Maserer-Pass (793m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -383,7 +383,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.875799965113401" lon="7.910479959100485">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Notschrei Passhohe (1120m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -397,7 +397,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.771876603364944" lon="8.019745778292418">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Passhöhe Rotes Kreuz (1090m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -411,7 +411,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.803008500486612" lon="8.004068937152624">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Passhöhe Wacht (973m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -425,7 +425,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.437745025381446" lon="10.175342950969934">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Riedberg Passhohe (1420m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -439,7 +439,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.707430018112063" lon="8.320110021159053">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Rote Lache Passhohe (690m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -453,7 +453,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.561409972608089" lon="8.221040032804012">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Ruhestein Passhohe (915m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -467,7 +467,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.744891820475459" lon="7.975376173853874">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Sankt-Antoni-Pass (1051m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -481,7 +481,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.908505564555526" lon="7.892191903665662">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Schauinsland (1200m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -495,7 +495,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.635929174721241" lon="12.857668809592724">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Schwarzbachwacht-Sattel (868m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -509,7 +509,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.714230004698038" lon="8.424929995089769">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Schwarzmiss Passhohe (933m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -523,7 +523,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.59922643750906" lon="8.1548170465976">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Schönbüch-Pass (635m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -537,7 +537,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.662810357287526" lon="12.542841341346502">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Seegatterl (791m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -551,7 +551,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.595969984307885" lon="8.217549975961447">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Seibelseckle Passhohe (956m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -565,7 +565,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.672370001673698" lon="11.886500017717481">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Spitzing Sattel (1129m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -579,7 +579,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.680670013651252" lon="12.034140033647418">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Sudelfeld Passhohe (1123m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -593,7 +593,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.12589081004262" lon="8.293476272374392">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Wasserscheide Rhein-Donau (875m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -607,7 +607,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.762325676158071" lon="7.975967936217785">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Weissenbachsattel/Hochkopfhaus (1079m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -621,7 +621,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.844907371327281" lon="7.866935469210148">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Wiedener Eck (1035m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -635,7 +635,7 @@
     </extensions>
   </wpt>
   <wpt lat="48.144950000569224" lon="8.173220017924905">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Wilhelmshöhe Passhohe (975m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>
@@ -649,7 +649,7 @@
     </extensions>
   </wpt>
   <wpt lat="47.8271300252527" lon="8.088119979947805">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>DE-Äulemer Kreuz Passhohe (1138m)</name>
     <type>POI Alemania.2018.11.20</type>
     <extensions>

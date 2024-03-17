@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="OsmAnd 4.6.6" creator="OsmAnd Maps 4.6.6 (4.6.6.1)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-POI CFNavarra.2018.11.20</name>
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
   </metadata>
   <wpt lat="42.952440027147532" lon="-1.964609976857901">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-@San Miguel de Aralar (1341m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -19,7 +19,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.919573998078704" lon="-1.42427796497941">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Aintzioa (958m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -33,7 +33,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.099480988457799" lon="-1.904122978448868">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Aizan (920m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -47,7 +47,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.601825017482042" lon="-2.372553013265133">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto Aguilar de Codés (831m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -61,7 +61,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.265006812289357" lon="-1.759802950546145">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Agiña (545m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -75,7 +75,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.207579962909222" lon="-1.885559996590018">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Arano (247m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -89,7 +89,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.2169200014323" lon="-1.551400003954768">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Eskisaroi (512m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -103,7 +103,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.785960007458925" lon="-1.844239979982376">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Etxauri (840m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -117,7 +117,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.085719663649797" lon="-1.880525154992938">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Ezkurra (693m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -131,7 +131,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.804909981787205" lon="-1.901280004531145">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Guembe (920m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -145,7 +145,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.690673023462296" lon="-1.200693966820836">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Iso (672m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -159,7 +159,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.885705744847655" lon="-1.128859631717205">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Jauretia (975m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -173,7 +173,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.227269975468516" lon="-1.703610001131892">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de La Piedad (265m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -187,7 +187,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.529175961390138" lon="-1.8887884542346">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de la Portilla (362m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -201,7 +201,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.158184736967087" lon="-1.582055054605007">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Larrazu (575m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -215,7 +215,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.282479979097843" lon="-1.632249997928739">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Lizuniaga (201m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -229,7 +229,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.624622033908963" lon="-1.247857008129358">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Liédena (549m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -243,7 +243,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.872060006484389" lon="-1.647749980911613">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Maquirriain (572m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -257,7 +257,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.100140979513526" lon="-1.523894034326077">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Meaka (523m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -271,7 +271,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.088318640366197" lon="-1.777744079008698">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Saldias (566m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -285,7 +285,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.734880018979311" lon="-1.670480025932193">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Alto de Subiza (642m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -299,7 +299,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.230080511420965" lon="-1.501763798296452">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Altzolako Lepoa (564m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -313,7 +313,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.164288941770792" lon="-1.581252152100205">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Ameztiko Lepoa (538m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -327,7 +327,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.645786004140973" lon="-1.19148401543498">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Arangoiti (1356m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -341,7 +341,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.26728886924684" lon="-1.433351710438728">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Aratxamendiko Lepoa (541m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -355,7 +355,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.846142994239926" lon="-0.916885994374752">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Ardibide (1457m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -369,7 +369,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.74280896410346" lon="-1.86134903691709">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Arguiñariz (694m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -383,7 +383,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.272856967523694" lon="-1.795416986569762">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Aritxulegi (439m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -397,7 +397,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.042638776823878" lon="-1.24753849580884">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Arnozteguy Lepoa (1239m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -411,7 +411,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.188437959179282" lon="-1.548300040885806">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Arrateketa (685m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -425,7 +425,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.796438308432698" lon="-1.558932736515999">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Belate Portillo (567m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -439,7 +439,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.247183030471206" lon="-1.814911030232906">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Bianditz (711m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -453,7 +453,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.049600031226873" lon="-1.211539981886744">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Col d'Orgambide (993m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -467,7 +467,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.922676056623459" lon="-1.439099684357643">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Collado de Alegi (825m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -481,7 +481,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.270995682105422" lon="-1.79244015365839">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Collado de Arritxulegi (483m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -495,7 +495,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.309701634570956" lon="-1.684299102053046">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Collado de Ibardin (314m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -509,7 +509,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.963826339691877" lon="-1.563381096348166">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Collado de Igoli (894m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -523,7 +523,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.968286350369453" lon="-0.768570397049189">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Collado de la Piedra de San Martin (1720m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -537,7 +537,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.463809689506888" lon="-1.10135936178267">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Collado de San Miguel (807m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -551,7 +551,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.234089240431786" lon="-1.572293741628528">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Collado de Ursumiatza (538m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -565,7 +565,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.260703459382057" lon="-1.618970967829227">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Collado de Zizarieta (442m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -579,7 +579,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.217045981436968" lon="-1.454030033200979">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Collado Inzulegui (705m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -593,7 +593,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.95464270748198" lon="-1.31582141853869">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Collado Lapizea-Garralda (932m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -607,7 +607,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.026217119768262" lon="-1.295418357476592">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Collado Lepoeder (1431m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -621,7 +621,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.23303060606122" lon="-1.498760562390089">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Collado Lizarmeaca (551m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -635,7 +635,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.274116264656186" lon="-1.758427396416664">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Collado San Anton (418m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -649,7 +649,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.65043318271637" lon="-2.077092183753848">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Cruz del Portillo (537m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -663,7 +663,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.886272026225924" lon="-1.704995026811957">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Depósito de Juslapeña-Ezcabarte (610m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -677,7 +677,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.550181932747364" lon="-2.284901523962617">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-El Portillo Balsero (507m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -691,7 +691,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.596198162063956" lon="-2.290226379409432">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-El Portillo Redonda (569m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -705,7 +705,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.699427753686905" lon="-1.967900460585952">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-El Portillo Sanmiguelzar (527m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -719,7 +719,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.560924263671041" lon="-2.25914753973484">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-El Portillo Solana (468m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -733,7 +733,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.801298974081874" lon="-1.368319960311055">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Embalse de Itoitz (dique secundario) (590m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -747,7 +747,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.88940099067986" lon="-1.505605978891253">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Errea (842m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -761,7 +761,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.227852182462811" lon="-1.46277068182826">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Eskosko Lepo (652m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -775,7 +775,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.788197975605726" lon="-2.21572601236403">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Eulate (985m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -789,7 +789,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.238412961363792" lon="-1.69041596353054">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Frain (499m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -803,7 +803,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.834223927929997" lon="-2.172443540766835">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Galtzadako Gaina (908m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -817,7 +817,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.859486984089017" lon="-1.657299986109138">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Garrués (612m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -831,7 +831,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.851621992886066" lon="-1.902677016332746">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Goñi (871m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -845,7 +845,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.269287953153253" lon="-1.746696000918746">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Gurutzetako Lepoa (450m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -859,7 +859,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.696499032899737" lon="-1.530931983143091">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Higa (1281m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -873,7 +873,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.02295102737844" lon="-1.276953024789691">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Ibañeta-Ortzanzurieta (1560m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -887,7 +887,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.874818993732333" lon="-1.541187996044755">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Ilurdotz (614m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -901,7 +901,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.101556012406945" lon="-1.812434010207653">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Iruñarri (1030m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -915,7 +915,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.090775962918997" lon="-1.926477011293173">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Leitza (466m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -929,7 +929,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.034553676843643" lon="-1.418185159564018">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Lepoa Aztakarri (961m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -943,7 +943,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.023796509951353" lon="-1.284083677455783">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Loilako Lepoa (1457m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -957,7 +957,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.272786559537053" lon="-1.416710112243891">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Meatseko Lepoa (716m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -971,7 +971,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.647920958697796" lon="-1.44750296138227">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Monte Antxurda-Parque Eólico Sierra de Izco (1023m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -985,7 +985,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.922846963629127" lon="-1.081001982092857">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Nª Sra Muskilda (1035m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -999,7 +999,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.556868009269238" lon="-2.308074971660972">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Nª Sra. de Poyo (595m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1013,7 +1013,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.956233089789748" lon="-1.01614298298955">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Olloki Lepoa (1335m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1027,7 +1027,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.009251812472939" lon="-1.226992774754763">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Orbaizeta (Fabrica Armas) (820m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1041,7 +1041,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.214255981147289" lon="-1.440032003447413">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Otsondo-Otanarte (Gorramakil/Gorramendi) (1064m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1055,7 +1055,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.778501622378826" lon="-2.010460328310728">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portal del Cerronuevo (832m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1069,7 +1069,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.735262485221028" lon="-1.737960046157241">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Adios (794m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1083,7 +1083,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.506710616871715" lon="-1.511273989453912">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Aguilar Alto (770m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1097,7 +1097,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.501657251268625" lon="-1.508412156254053">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Aguilar Bajo (756m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1111,7 +1111,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.80596911907196" lon="-1.03023556061089">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Anaut-Vindagoz (897m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1125,7 +1125,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.708695959299803" lon="-1.920209527015686">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Arradia (629m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1139,7 +1139,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.960434183478355" lon="-0.795973772183061">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Arrasarguia (1576m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1153,7 +1153,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.590506179258227" lon="-1.472218176349998">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Arteta (772m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1167,7 +1167,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.875437075272202" lon="-0.884644500911236">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Belabarze (1043m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1181,7 +1181,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.961280168965459" lon="-0.794079964980483">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Camalonga (1604m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1195,7 +1195,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.950971098616719" lon="-0.810555769130588">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Eraiz (1579m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1209,7 +1209,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.770781051367521" lon="-0.871465969830751">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Galindo (1042m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1223,7 +1223,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.524281600490212" lon="-2.090542037039995">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Garramón (457m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1237,7 +1237,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.512372341006994" lon="-2.064360827207565">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de San Julián (437m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1251,7 +1251,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.115990463644266" lon="-1.382884355261922">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Santa Margarita (432m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1265,7 +1265,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.742736460641026" lon="-1.96310156956315">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Villanueva (606m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1279,7 +1279,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.64531628228724" lon="-1.680397745221853">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo de Zugastia (621m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1293,7 +1293,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.52003968693316" lon="-1.512028863653541">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo del Gordo (790m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1307,7 +1307,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.740287519991398" lon="-1.765224449336529">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Portillo del Perdón (674m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1321,7 +1321,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.622920339927077" lon="-1.349790757521987">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto Aibar (709m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1335,7 +1335,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.060337919741869" lon="-1.453356463462114">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto d'Esnazu (745m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1349,7 +1349,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.050179723650217" lon="-1.538934269919991">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Artesiaga (984m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1363,7 +1363,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.848943723365664" lon="-1.881653610616922">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Arteta (833m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1377,7 +1377,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.018114250153303" lon="-1.915465788915753">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Azpirozko (617m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1391,7 +1391,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.050160948187113" lon="-1.610048348084092">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Belate (823m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1405,7 +1405,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.941611278802156" lon="-1.47054573521018">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Erro (803m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1419,7 +1419,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.060223506763577" lon="-1.767890900373459">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Gorostieta (829m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1433,7 +1433,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.722846874967217" lon="-1.891894033178687">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Guirguillano (733m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1447,7 +1447,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.049670606851578" lon="-1.914848461747169">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Huici (809m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1461,7 +1461,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.020015768706799" lon="-1.32427029311657">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Ibañeta (1056m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1475,7 +1475,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.175702830776572" lon="-1.402033232152462">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Izpegi (671m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1489,7 +1489,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.605624198913574" lon="-2.469350667670369">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de la Aldea (990m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1503,7 +1503,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.973950002342463" lon="-0.999050019308925">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Larrau (1585m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1517,7 +1517,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.718927077949047" lon="-1.043934607878327">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de las Coronas (952m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1531,7 +1531,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.920388635247946" lon="-0.989517783746123">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Laz (1107m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1545,7 +1545,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.556162839755416" lon="-1.528211971744895">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Lerga (752m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1559,7 +1559,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.861310886219144" lon="-2.009733952581882">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Lizarraga (1052m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1573,7 +1573,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.960043838247657" lon="-2.098470479249954">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Lizarrusti (622m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1587,7 +1587,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.656618524342775" lon="-1.399959968402982">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Loiti (726m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1601,7 +1601,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.609419021755457" lon="-2.436132598668337">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Marañón (905m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1615,7 +1615,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.908400921151042" lon="-1.701320568099618">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Marcaláin (647m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1629,7 +1629,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.979848766699433" lon="-1.38675176538527">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Meskiritz (923m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1643,7 +1643,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.038152866065502" lon="-1.223621657118201">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Orgambide (988m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1657,7 +1657,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.236338021233678" lon="-1.494141044095159">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Otsondo (574m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1671,7 +1671,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.896221932023764" lon="-1.164623787626624">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Remendia (1034m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1685,7 +1685,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.957025179639459" lon="-1.136574586853385">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Tapla (1364m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1699,7 +1699,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.835310641676188" lon="-1.864353194832802">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Ulzurrun (858m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1713,7 +1713,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.800390543416142" lon="-2.145415926352143">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Urbasa (929m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1727,7 +1727,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.036010032519698" lon="-1.470399973914027">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Urkiaga (911m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1741,7 +1741,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.942864121869206" lon="-1.874905005097389">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Zugargarate (798m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1755,7 +1755,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.866742024198174" lon="-0.826880615204573">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto de Zuriza (1290m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1769,7 +1769,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.651029387488961" lon="-1.643702611327171">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto del Carrascal (592m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1783,7 +1783,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.732975902035832" lon="-1.701774699613452">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Puerto del Perdón (1029m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1797,7 +1797,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.853588974103332" lon="-1.662835981696844">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-San Cristóbal (861m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1811,7 +1811,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.947181975468993" lon="-1.965030999854207">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-San Miguel de Aralar (1232m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1825,7 +1825,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.636557025834918" lon="-1.171296034008265">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-San Salvador de Leyre (767m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1839,7 +1839,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.928747991099954" lon="-1.798029961064458">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Trinidad de Erga (701m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1853,7 +1853,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.257121033966541" lon="-1.542814001441002">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Urbia (433m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1867,7 +1867,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.013380989432335" lon="-1.834810003638268">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Urkizu - Beruete (770m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1881,7 +1881,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.949490016326308" lon="-1.539638014510274">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Usetxi (760m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1895,7 +1895,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.912736041471362" lon="-1.680245026946068">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Usi (621m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1909,7 +1909,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.746549975126982" lon="-1.71855702996254">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Zariquiegi (665m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1923,7 +1923,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.227608101442456" lon="-1.459353547543287">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA-Zimitzetako Lepoa (705m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>
@@ -1937,7 +1937,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.292949981987476" lon="-1.505340021103621">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>NA&gt;FR-Dantxarinea (67m)</name>
     <type>POI CFNavarra.2018.11.20</type>
     <extensions>

@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="OsmAnd 4.6.6" creator="OsmAnd Maps 4.6.6 (4.6.6.1)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-POI CValenciana.2018.11.20</name>
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
   </metadata>
   <wpt lat="38.695215079933405" lon="-0.268385857343674">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Abdet (865m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -19,7 +19,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.780527766793966" lon="-0.528888870030642">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Agres (668m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -33,7 +33,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.648888887837529" lon="-0.265277763828635">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Aitana (1549m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -47,7 +47,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.793944427743554" lon="-0.26538890786469">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Alcalá de la Jovada (654m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -61,7 +61,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.644446562975645" lon="-0.030171247199178">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Alhama Springs (286m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -75,7 +75,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.759438144043088" lon="-0.355904242023826">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Almudaina (570m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -89,7 +89,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.707072706893086" lon="-0.380989518016577">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Alt de Gadea (590m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -103,7 +103,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.745777737349272" lon="0.209694430232048">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Alt de la Costa Nova (118m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -117,7 +117,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.761779293417931" lon="0.158723909407854">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Alto de Adsubia (174m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -131,7 +131,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.721713041886687" lon="-0.420140968635678">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Alto de la Venta (545m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -145,7 +145,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.744416683912277" lon="0.018722238019109">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Alto de Llíber (229m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -159,7 +159,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.64774601534009" lon="-0.342679023742676">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Alto del Safari (998m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -173,7 +173,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.504359982907772" lon="-0.621710987761617">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Balcón de Alicante (1001m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -187,7 +187,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.801374733448029" lon="0.175987277179956">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Balcón de Javea (175m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -201,7 +201,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.741166684776545" lon="-0.327472239732742">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Balones (771m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -215,7 +215,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.8306656293571" lon="-0.035990718752146">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Barranc de Ramón (417m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -229,7 +229,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.741909908130765" lon="-0.375897092744708">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Benillup (619m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -243,7 +243,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.756668427959085" lon="-0.028523784130812">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Beniquasi (400m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -257,7 +257,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.830412160605192" lon="-0.196725530549884">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Benirrama (308m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -271,7 +271,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.731918763369322" lon="0.141448890790343">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Benitatxell (169m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -285,7 +285,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.680648673325777" lon="-0.055002635344863">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Bernia (711m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -299,7 +299,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.649999992921948" lon="-0.121861137449741">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Callosa d'En Sarrià (225m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -313,7 +313,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.656480712816119" lon="-0.650025140494108">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Canalí (1014m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -327,7 +327,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.742083329707384" lon="-0.381861152127385">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Caraita(La Copona) (639m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -341,7 +341,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.737643184140325" lon="-0.20612558349967">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Casa Vitla (635m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -355,7 +355,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.817178560420871" lon="-0.156857846304774">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Caseta del Collado (560m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -369,7 +369,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.637583293020725" lon="0.011861147359014">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Castellet de Calp (200m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -383,7 +383,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.816666677594185" lon="0.075777769088745">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Cerro la Plana(La Marquesa) (152m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -397,7 +397,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.667083317413926" lon="0.044500026851892">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Colina del Sol (211m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -411,7 +411,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.771611098200083" lon="-0.156583338975906">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Coll de la Garga (766m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -425,7 +425,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.859305586665869" lon="-0.283749969676137">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Coll de la Safor (553m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -439,7 +439,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.724780902266502" lon="-0.058093126863241">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Coll de Rates (602m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -453,7 +453,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.813555566594005" lon="-0.212916685268283">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Coll del Xap (637m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -467,7 +467,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.718456421047449" lon="-0.151598872616887">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Collado Bixauca (777m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -481,7 +481,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.678898699581623" lon="-0.296911234036088">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Collado de Xarquera (1027m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -495,7 +495,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.696695156395435" lon="-0.131349619477987">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Collado del Castellet (611m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -509,7 +509,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.575078016147017" lon="-0.338601982221007">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Collado del Viento (514m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -523,7 +523,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.747083302587271" lon="-0.390222184360027">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Corona de Patot (607m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -537,7 +537,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.802281152456999" lon="0.179700125008821">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Cuesta de San Antonio (183m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -551,7 +551,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.509866893291473" lon="-0.411824025213718">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Cuevas de Canalobre (555m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -565,7 +565,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.721583373844624" lon="0.160527778789401">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Cumbre del Sol (422m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -579,7 +579,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.815944408997893" lon="-0.130111109465361">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Ebo (575m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -593,7 +593,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.644388727843761" lon="-0.021393550559878">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Bardal (380m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -607,7 +607,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.69577775709331" lon="0.021000020205975">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Binyent (245m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -621,7 +621,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.667305521667004" lon="-0.22027775645256">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Boiret (750m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -635,7 +635,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.711468428373337" lon="-0.206494051963091">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Castellet (854m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -649,7 +649,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.860566979274154" lon="-0.170400990173221">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Coll (182m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -663,7 +663,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.803777741268277" lon="-0.466222241520882">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Cotet (733m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -677,7 +677,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.639555554836988" lon="0.013333344832063">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Mascarat (128m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -691,7 +691,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.750951047986746" lon="-0.196925941854715">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Matissal (682m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -705,7 +705,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.643361106514931" lon="-0.052805570885539">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Paradiso (166m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -719,7 +719,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.76643200404942" lon="-0.100979972630739">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Penyó (616m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -733,7 +733,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.739323001354933" lon="-0.564423026517034">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Portell (909m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -747,7 +747,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.361820606514812" lon="-0.683775376528502">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Portitxol de Montfort (279m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -761,7 +761,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.691506003960967" lon="-0.446148002520204">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Revolcat (773m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -775,7 +775,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.768071001395583" lon="-0.004200004041195">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-El Romput (320m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -789,7 +789,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.790472224354744" lon="-0.340583296492696">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Ermita Santísimo Cristo (584m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -803,7 +803,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.73758333735168" lon="-0.273694451898336">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Fageca (785m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -817,7 +817,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.617702089250088" lon="-0.12498582713306">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Favara (258m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -831,7 +831,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.674250012263656" lon="-0.130111109465361">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Font d'Onàer (420m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -845,7 +845,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.732916628941894" lon="-0.363916670903563">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Font de Dalt (685m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -859,7 +859,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.662944417446852" lon="-0.287472205236554">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Font de l'Arbre (1195m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -873,7 +873,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.762745140120387" lon="-0.019887071102858">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Font de la Tiaxina (400m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -887,7 +887,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.65838885307312" lon="-0.24175001308322">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Font de Partegat (1030m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -901,7 +901,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.873138912022114" lon="-0.173444459214807">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Forna (181m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -915,7 +915,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.214666657149792" lon="-0.515833301469684">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Gran Alacant (136m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -929,7 +929,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.507833359763026" lon="-0.646722251549363">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Guixop (1195m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -943,7 +943,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.742278544232249" lon="-0.118271838873625">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-L'Ombria (539m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -957,7 +957,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.697638874873519" lon="0.149916708469391">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-La Arnella (189m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -971,7 +971,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.73666669242084" lon="0.205694418400526">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-La Granadella (127m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -985,7 +985,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.844583360478282" lon="-0.252250023186207">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-La Llacuna (695m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -999,7 +999,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.694472191855311" lon="0.079972241073847">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-La Pedramala (263m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1013,7 +1013,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.788562072440982" lon="0.015901643782854">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-La Solana (211m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1027,7 +1027,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.856419026851654" lon="-0.145826004445553">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-La Solana (255m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1041,7 +1041,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.698473041877151" lon="-0.013818992301822">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-La Ventolana (545m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1055,7 +1055,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.803898021578789" lon="0.157026993110776">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Les Planes del Montgó  (214m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1069,7 +1069,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.708620006218553" lon="-0.325297974050045">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Les Retures (732m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1083,7 +1083,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.67123537696898" lon="-0.256008552387357">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Llagària (998m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1097,7 +1097,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.751432001590729" lon="-0.392973879352212">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Lloma de Calibet (589m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1111,7 +1111,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.654637280851603" lon="-0.086575588211417">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Lloma del Notari (257m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1125,7 +1125,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.700583353638649" lon="0.107361115515232">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Lloma dels Frares (223m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1139,7 +1139,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.76838892698288" lon="-0.020555527880788">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Llosa de Camacho (307m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1153,7 +1153,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.510750010609627" lon="-0.603083297610283">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Maigmó (668m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1167,7 +1167,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.794976491481066" lon="-0.302679911255836">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Margarida (625m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1181,7 +1181,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.760611107572913" lon="-0.38616668432951">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Mas d'Agulló (585m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1195,7 +1195,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.728317143395543" lon="-0.36510681733489">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Millena (620m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1209,7 +1209,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.777657551690936" lon="0.044433725997806">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Mirabarques (297m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1223,7 +1223,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.82788049057126" lon="-0.175283364951611">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Miserat (Collado) (636m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1237,7 +1237,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.839083323255181" lon="-0.040611075237393">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Monte Pego I (271m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1251,7 +1251,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.841538215056062" lon="-0.058586318045855">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Monte Pego II (183m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1265,7 +1265,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.822977244853973" lon="-0.031469352543354">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Montsa (200m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1279,7 +1279,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.861365020275116" lon="-0.125914039090276">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Mostalla (146m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1293,7 +1293,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.659000815823674" lon="0.026510115712881">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Oltamar (240m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1307,7 +1307,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.765222243964672" lon="-0.062611140310764">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Orba (256m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1321,7 +1321,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.491527792066336" lon="-0.683027794584632">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Palomaret (932m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1335,7 +1335,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.793339924886823" lon="-0.005729449912906">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Penya del Gos Flac (235m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1349,7 +1349,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.83395804092288" lon="-0.061283027753234">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Penya Plana (304m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1363,7 +1363,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.802894959226251" lon="0.059909988194704">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Penya-Roja (190m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1377,7 +1377,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.726300038397312" lon="-0.221229018643498">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Penyeta de Pere Martí (669m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1391,7 +1391,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.635361082851887" lon="-0.244277743622661">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Peñón Divino (973m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1405,7 +1405,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.629611013457179" lon="-0.719004012644291">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Pico Reconco (1210m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1419,7 +1419,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.830417692661285" lon="-0.177314803004265">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Pico Xillibre (753m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1433,7 +1433,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.817338738590479" lon="-0.431917458772659">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Pla de Leix (583m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1447,7 +1447,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.728877976536751" lon="-0.299249030649662">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Pla de Llombell (701m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1461,7 +1461,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.797978973016143" lon="-0.179944038391113">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Pla del Figueralet (516m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1475,7 +1475,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.779312977567315" lon="-0.025019980967045">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Poquet (345m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1489,7 +1489,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.80738003179431" lon="-0.462468406185508">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Port d Albaida (604m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1503,7 +1503,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.634825479239225" lon="-0.407908754423261">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Port de Benifallim (990m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1517,7 +1517,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.613675842061639" lon="-0.738085750490427">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Port de Biar (790m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1531,7 +1531,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.738821009173989" lon="0.221186019480228">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Portitxol (158m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1545,7 +1545,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.835753193125129" lon="-0.380423991009593">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Puerto de Beniarrés (598m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1559,7 +1559,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.69741465896368" lon="-0.29907644726336">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Puerto de Confrides (966m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1573,7 +1573,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.604222228750587" lon="-0.486000012606382">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Puerto de la Carrasqueta (1022m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1587,7 +1587,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.815448116511106" lon="0.084184566512704">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Racó Fosc (170m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1601,7 +1601,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.532322011888027" lon="-0.095571968704462">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Rincón de Loix (218m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1615,7 +1615,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.823994975537062" lon="-0.077763022854924">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Sagra (196m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1629,7 +1629,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.707515019923449" lon="-0.440140021964908">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-San Rafael (583m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1643,7 +1643,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.554004989564419" lon="-0.062870979309082">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Serra Gelada (432m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1657,7 +1657,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.781159007921815" lon="-0.184430032968521">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tarrenyes(El Castell) (589m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1671,7 +1671,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.526992127299309" lon="-0.544359935447574">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tibi (723m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1685,7 +1685,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.634573016315699" lon="0.0167799834162">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Toix (265m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1699,7 +1699,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.76840602606535" lon="-0.267148017883301">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tollos (825m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1713,7 +1713,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.610834963619709" lon="-0.362548995763063">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Torremanzanas (860m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1727,7 +1727,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.747958960011601" lon="-0.112953018397093">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tossal de Mirabó (487m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1741,7 +1741,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.603087989613414" lon="-0.175009025260806">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tossal del Grau (606m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1755,7 +1755,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.84057697840035" lon="-0.062226997688413">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tossal del Moro (175m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1769,7 +1769,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.69649700820446" lon="0.15089001506567">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tossal del Portet (167m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1783,7 +1783,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.757784981280565" lon="-0.294595146551728">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tossal del Rei (920m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1797,7 +1797,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.723320020362735" lon="-0.085143959149718">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tossal dels Diners (928m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1811,7 +1811,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.74758998863399" lon="0.119003998115659">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tossal Gros (288m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1825,7 +1825,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.826603004708886" lon="-0.408553993329406">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tossal Negre (651m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1839,7 +1839,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.79339599981904" lon="-0.325083984062076">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tossalet de la Dona (578m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1853,7 +1853,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.764456976205111" lon="-0.055489959195256">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tossalet de les Heures (375m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1867,7 +1867,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.650064449757338" lon="-0.324806710705161">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tudons (1027m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1881,7 +1881,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.660418530926108" lon="-0.198578769341111">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Turrón Duro (678m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1895,7 +1895,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.698209933936596" lon="-0.102043803781271">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Tárbena (597m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1909,7 +1909,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.780744774267077" lon="0.054520172998309">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Urb Monte Pedreguer (204m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1923,7 +1923,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.644058983772993" lon="-0.008840980008245">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Urb Serra d'Altea (333m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1937,7 +1937,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.782859025523067" lon="-0.01471996307373">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Urb. Aldea de las Cuevas (320m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1951,7 +1951,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.760207016021013" lon="0.155954025685787">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Urb. El Rafelet (140m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1965,7 +1965,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.818512037396431" lon="0.154795981943607">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Urb. Les Arenetes (159m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1979,7 +1979,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.849267000332475" lon="-0.163249969482422">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Urb. Les Bassetes (225m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -1993,7 +1993,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.757865028455853" lon="-0.003861961886287">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Urb. Solana Park (342m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2007,7 +2007,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.715719981119037" lon="-0.406236983835697">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Venta de Falcó (535m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2021,7 +2021,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.796172002330422" lon="-0.296072959899902">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Venta del Tomaco (683m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2035,7 +2035,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.817174034193158" lon="0.093899024650455">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Villa Rosario (153m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2049,7 +2049,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.534151026979089" lon="-0.668105995282531">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>A-Xorret de Catí (1097m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2063,7 +2063,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.838397959247231" lon="-0.243930984288454">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Aigualit (321m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2077,7 +2077,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.891069000586867" lon="-0.221400009468198">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Aigües Vives (223m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2091,7 +2091,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.890261990949512" lon="-0.359502006322145">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Almedíjar (Pto. Espadán) (793m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2105,7 +2105,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.121304960921407" lon="-0.191274024546146">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alt de Costur (470m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2119,7 +2119,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.143059017136693" lon="-0.177111960947514">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alt de Les Useres (473m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2133,7 +2133,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.228333985432982" lon="0.08218296803534">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alt de Vilanova d'Alcolea (374m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2147,7 +2147,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.647530984133482" lon="-0.265516983345151">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alt dels Castellans (982m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2161,7 +2161,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.963010959327221" lon="-0.622915970161557">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alto de Benafer (769m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2175,7 +2175,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.986299993470311" lon="-0.419750036671758">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alto de Felinagre (735m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2189,7 +2189,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.932249039411545" lon="-0.45198398642242">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alto de Matet (641m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2203,7 +2203,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.828355684876442" lon="-0.622302079573274">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alto de Montmayor (952m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2217,7 +2217,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.815096016973257" lon="-0.508632995188236">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alto de Portapán (482m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2231,7 +2231,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.85981397330761" lon="-0.713253021240234">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alto de Sacañet (1011m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2245,7 +2245,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.921290036290884" lon="-0.694327019155025">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alto de Torás (835m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2259,7 +2259,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.964161962270737" lon="-0.394607009366155">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alto de Villamalur (637m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2273,7 +2273,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.075575979426503" lon="-0.571245979517698">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alto del Cabezo (Collado de Campo) (862m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2287,7 +2287,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.978533992543817" lon="-0.43524700216949">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Alto del Pinar (851m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2301,7 +2301,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.065001035109162" lon="-0.26787799783051">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Araia (361m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2315,7 +2315,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.456124022603035" lon="-0.131578026339412">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Ares del Maestre (pueblo) (1198m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2329,7 +2329,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.043911999091506" lon="-0.356154022738338">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Argelita (369m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2343,7 +2343,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.899102970957756" lon="-0.753164039924741">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Arteas de Arriba (950m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2357,7 +2357,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.905390990898013" lon="-0.35001796670258">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Aín (589m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2371,7 +2371,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.501203993335366" lon="0.00150203704834">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Balneario de L'Avellà (920m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2385,7 +2385,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.910921035334468" lon="-0.703854979947209">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Begís (770m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2399,7 +2399,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.623659994453192" lon="0.168613968417048">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Bel (952m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2413,7 +2413,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.27759401127696" lon="-0.207582022994757">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Benafigos (pueblo) (945m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2427,7 +2427,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.378327975049615" lon="-0.135440994054079">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Benassal (838m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2441,7 +2441,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.195396961644292" lon="-0.030941963195801">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Bustal Blanch (429m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2455,7 +2455,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.160608040168881" lon="0.075359009206295">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Cabanes (362m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2469,7 +2469,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.604178020730615" lon="-0.141791962087154">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Cap de la Serra (945m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2483,7 +2483,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.774703960865736" lon="-0.258608032017946">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Cassanya (154m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2497,7 +2497,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.862581007182598" lon="-0.190672958269715">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Castell de Vilavella (118m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2511,7 +2511,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.307512963190675" lon="0.255733039230108">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Castell de Xivert (378m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2525,7 +2525,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.862021012231708" lon="-0.442199958488345">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Castellnovo (396m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2539,7 +2539,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.126653034240007" lon="-0.375767005607486">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Castillo de Villamalefa (804m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2553,7 +2553,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.621542977169156" lon="-0.371131980791688">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Cerro de la Manzanera (1257m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2567,7 +2567,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.843867989256978" lon="-0.528115974739194">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Cerro de San Sebastián (473m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2581,7 +2581,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.456645963713527" lon="0.272899009287357">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Cervera (284m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2595,7 +2595,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.894493008032441" lon="-0.632873000577092">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Cingles de Benaval (661m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2609,7 +2609,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.422049993649125" lon="-0.225370014086366">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Colada del Mas de Vent (1055m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2623,7 +2623,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.187789965420961" lon="-0.036479970440269">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll d'Alba (368m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2637,7 +2637,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.454293582588434" lon="-0.142384395003319">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll d'Ares (1143m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2651,7 +2651,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.11868997476995" lon="0.020180018618703">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de Cabanes (295m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2665,7 +2665,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.979718020185828" lon="-0.360702965408564">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de Cascalls (618m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2679,7 +2679,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.939586976543069" lon="-0.411858977749944">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de Jinquer (827m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2693,7 +2693,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.082059968262911" lon="-0.109089966863394">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de l'Ullastre (255m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2707,7 +2707,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.276242848485708" lon="-0.032849181443453">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de la Bandereta (783m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2721,7 +2721,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.088016483932734" lon="-0.096956826746464">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de la Barcella (313m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2735,7 +2735,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.459060035645962" lon="0.298379994928837">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de la Bassa (205m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2749,7 +2749,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.153570007532835" lon="-0.062379883602262">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de la Bassa (293m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2763,7 +2763,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.222149984911084" lon="-0.135450046509504">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de la Bassa (496m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2777,7 +2777,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.274130022153258" lon="-0.110320011153817">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de la Mancha (552m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2791,7 +2791,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.801481040194631" lon="-0.590257979929447">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de les Carcasses (702m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2805,7 +2805,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.118712019175291" lon="-0.284914970397949">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de les Coronetes (710m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2819,7 +2819,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.671350006014109" lon="0.130409924313426">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de les Eres (1065m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2833,7 +2833,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.360319958999753" lon="0.044560125097632">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de les Forques (580m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2847,7 +2847,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.438193958252668" lon="0.119518982246518">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de les Mesquites (433m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2861,7 +2861,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.421680016443133" lon="0.345870014280081">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de los Navarros (136m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2875,7 +2875,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.827737854793668" lon="-0.314520355314016">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll de Marianet (431m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2889,7 +2889,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.077819982543588" lon="-0.322439996525645">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll del Mesón (777m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2903,7 +2903,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.27404997497797" lon="-0.239799963310361">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Coll del Vidre (1057m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2917,7 +2917,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.935901034623384" lon="-0.512408958747983">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collado Blanco (569m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2931,7 +2931,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.976579584181309" lon="-0.34527531825006">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collado de Ayódar (523m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2945,7 +2945,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.992490028962493" lon="-0.431819977238774">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collado de Ayódar (736m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2959,7 +2959,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.880830002948642" lon="-0.33822001889348">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collado de Barres (754m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2973,7 +2973,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.007765125483274" lon="-0.482682455331087">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collado de Cuatro Caminos (891m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -2987,7 +2987,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.966855822131038" lon="-0.537969153374434">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collado de la Cruz (705m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3001,7 +3001,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.01672001555562" lon="-0.191860003396869">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collado de La Pedriza (200m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3015,7 +3015,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.807449961081147" lon="-0.301320031285286">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collado de la Vella (378m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3029,7 +3029,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.90400998853147" lon="-0.77263000421226">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collado de Rosales (1241m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3043,7 +3043,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.866440035402775" lon="-0.41122991591692">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collado del Cañar (463m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3057,7 +3057,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.812329988926649" lon="-0.490590026602149">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collado del Tornero (453m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3071,7 +3071,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.875360978767276" lon="-0.521550010889769">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collado Royo (505m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3085,7 +3085,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.561120016500354" lon="-0.247950023040175">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collet Creu de Gelat (1231m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3099,7 +3099,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.598029978573322" lon="-0.051189959049225">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collet d'Embelleta (932m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3113,7 +3113,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.657550040632486" lon="-0.018719974905252">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collet de l'Àguila (1143m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3127,7 +3127,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.354020036756992" lon="-0.073529994115233">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collet de Marrulls (677m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3141,7 +3141,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.128600066527724" lon="-0.283730020746589">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collet del Ferrís (656m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3155,7 +3155,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.245303986594081" lon="-0.120764030143619">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collet dels Fusters (458m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3169,7 +3169,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.629782974720001" lon="-0.093727027997375">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Collet Querola (973m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3183,7 +3183,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.813283011317253" lon="-0.627421997487545">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Corral de la Rocha (835m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3197,7 +3197,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.881946975365281" lon="-0.575237022712827">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Corral de Ribera (675m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3211,7 +3211,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.040297973901033" lon="-0.589099014177918">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Corral del Militar (773m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3225,7 +3225,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.12268302962184" lon="0.045018028467894">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Costa de les Santes (261m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3239,7 +3239,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.090318992733955" lon="-0.008668983355165">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Costes de La Pobla (320m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3253,7 +3253,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.121107986196876" lon="-0.177884018048644">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Costur (depósito Fosancha)) (507m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3267,7 +3267,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.972483012825251" lon="-0.656734015792608">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Cuestas de Ragudo (999m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3281,7 +3281,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.336960013955832" lon="-0.164452018216252">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Culla (1051m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3295,7 +3295,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.074131023138762" lon="0.026951003819704">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Desierto de las Palmas (423m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3309,7 +3309,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.670092971995473" lon="0.10196702554822">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Boixar (1166m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3323,7 +3323,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.593132013455033" lon="-0.0853590387851">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Bosc (967m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3337,7 +3337,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.073770014569163" lon="0.129390014335513">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Bovalar (120m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3351,7 +3351,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.117662018164992" lon="-0.549187995493412">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Cantón (932m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3365,7 +3365,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.576329985633492" lon="-0.024899952113628">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Coll Noto (991m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3379,7 +3379,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.02971800044179" lon="-0.413017021492124">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Colladico (653m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3393,7 +3393,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.1360700186342" lon="-0.370616996660829">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Colladillo (880m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3407,7 +3407,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.897709982469678" lon="-0.21175998263061">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Collado (175m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3421,7 +3421,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.884249987080693" lon="-0.711730029433966">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Collado Carrascal (888m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3435,7 +3435,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.567650021985173" lon="-0.223149983212352">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Collado Cavalls (995m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3449,7 +3449,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.193001748993993" lon="-0.171460462734103">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Collado Trebusio (491m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3463,7 +3463,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.315599991008639" lon="0.140310041606426">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Collet Quericons (293m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3477,7 +3477,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.689978031441569" lon="0.084928963333368">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Coratxar (1215m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3491,7 +3491,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.954819995909929" lon="-0.698790969327092">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-El Socarrado (977m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3505,7 +3505,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.62111902050674" lon="-0.250583030283451">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Els Castellars (909m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3519,7 +3519,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.294454041868448" lon="0.180416023358703">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Els Murs (307m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3533,7 +3533,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.045521995052695" lon="-0.11806002818048">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Els Perxets (355m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3547,7 +3547,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.19070896320045" lon="-0.549015998840332">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Embotelladora de Cortes (1101m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3561,7 +3561,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.290590990334749" lon="0.128746032714844">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Entreviñas (309m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3575,7 +3575,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.510796997696161" lon="0.425505973398685">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Ermita de la Misericordia (161m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3589,7 +3589,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.868081966415048" lon="-0.458851028233767">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Ermita de San Cristóbal (571m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3603,7 +3603,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.411699013784528" lon="0.20049998536706">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Ermita de Sant Josep (632m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3617,7 +3617,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.853785037994385" lon="-0.523782027885318">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Ermita de Santa Bárbara (534m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3631,7 +3631,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.619978997856379" lon="-0.222773971036077">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Ermita Sant Cristòfol (1102m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3645,7 +3645,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.608869958668947" lon="0.125871039927006">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Ermita Sant Doménech (613m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3659,7 +3659,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.264168968424201" lon="0.269465027377009">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Ermita Sta. Llucia i St. Benet (350m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3673,7 +3673,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.002963971346617" lon="-0.318003036081791">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Fanzara (333m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3687,7 +3687,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.367539040744305" lon="-0.142522025853395">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Font d'En Segures (973m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3701,7 +3701,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.049628037959337" lon="-0.095014991238713">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Font de la Botalaria (270m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3715,7 +3715,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.504336981102824" lon="0.297617996111512">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Font de la Salut (292m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3729,7 +3729,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.104467980563641" lon="-0.056391013786197">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Font de la Serra (480m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3743,7 +3743,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.054129036143422" lon="-0.111193992197514">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Fortuño (300m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3757,7 +3757,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.681159012019634" lon="0.152821959927678">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Fredes (1178m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3771,7 +3771,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.402124030515552" lon="0.084113990888">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La  Valltorta (Tirig) (510m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3785,7 +3785,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.113624958321452" lon="-0.464430022984743">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Canaleta (851m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3799,7 +3799,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.91878803819418" lon="-0.639137970283628">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Chana (706m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3813,7 +3813,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.027383975684643" lon="-0.048108017072082">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Coma (Coll de la Garrofera) (219m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3827,7 +3827,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.072620017454028" lon="0.109606040641665">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Cuesta Oropesa (118m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3841,7 +3841,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.830686021596193" lon="-0.354351997375488">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Cuevica (375m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3855,7 +3855,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.021798023954034" lon="-0.212603034451604">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Llidona (236m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3869,7 +3869,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.444563031196594" lon="0.043343994766474">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Morellana (683m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3883,7 +3883,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.897489035502076" lon="-0.579056991264224">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Muela (Canteras Jérica) (630m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3897,7 +3897,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.913323959335685" lon="-0.388684021309018">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Nevera (715m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3911,7 +3911,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.043188976123929" lon="-0.130719970911741">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Rachina (311m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3925,7 +3925,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.892615964636207" lon="-0.804361961781979">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Salada (1583m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3939,7 +3939,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.441395007073879" lon="0.014333976432681">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Selleta (Pedrafita) (753m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3953,7 +3953,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.641865991055965" lon="-0.328087974339724">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Torreta (La Magdalena) (1119m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3967,7 +3967,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.086904037743807" lon="-0.594335021451116">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-La Viñaza (923m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3981,7 +3981,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.797854023054242" lon="-0.476016998291016">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Laguna la Rosà (434m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -3995,7 +3995,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.36237302236259" lon="0.376796973869205">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Las Atalayas (200m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4009,7 +4009,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.503195030614734" lon="-0.306372977793217">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Las Cabrillas (1329m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4023,7 +4023,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.108702015131712" lon="-0.481595993041992">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Las Quemadicas (879m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4037,7 +4037,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.059976000338793" lon="-0.237622009590268">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Les Foies (317m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4051,7 +4051,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.53545999340713" lon="0.149173988029361">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Les Saleres (628m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4065,7 +4065,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.18715176731348" lon="-0.530111873522401">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Loma de El Zorro (1098m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4079,7 +4079,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.85035901889205" lon="-0.539488960057497">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Loma de la Fábrica (550m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4093,7 +4093,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.954754030331969" lon="-0.550818024203181">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Lomas del Jalmero (662m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4107,7 +4107,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.455698976293206" lon="0.205221008509398">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Mare de Deu dels Àngels (416m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4121,7 +4121,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.604112977162004" lon="-0.243030013516545">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Mas d'En Coll (978m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4135,7 +4135,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.224794978275895" lon="-0.021628998219967">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Mas d'En Jordà (495m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4149,7 +4149,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.717663960531354" lon="-0.127415992319584">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Mas de Bernús (864m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4163,7 +4163,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.182545995339751" lon="-0.309849036857486">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Mas de la Costa (982m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4177,7 +4177,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.565492017194629" lon="-0.279077980667353">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Mas de la Serra (1103m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4191,7 +4191,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.432673972100019" lon="-0.234361030161381">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Mas de Llovet (1140m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4205,7 +4205,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.368421990424395" lon="0.125269973650575">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Mas de Pa-i-all (322m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4219,7 +4219,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.615534912794828" lon="-0.370434019714594">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Mas del Mojón (1202m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4233,7 +4233,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.204443968832493" lon="-0.404176963493228">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Masía Borraz (934m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4247,7 +4247,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.832564992830157" lon="-0.625533973798156">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Monmajor (Pico) (1016m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4261,7 +4261,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.760023979470134" lon="-0.264831008389592">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Montalmenara (170m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4275,7 +4275,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.086115971207619" lon="0.030426979064941">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Monte Bartolo (728m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4289,7 +4289,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.620955992490053" lon="-0.10003600269556">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Morella (980m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4303,7 +4303,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.904336966574192" lon="-0.178313003852963">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Muntanyeta de Sant Antoni (139m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4317,7 +4317,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.636720005422831" lon="-0.332036018371582">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Olocau (1090m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4331,7 +4331,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.627015018835664" lon="-0.052872039377689">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Palos (1131m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4345,7 +4345,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.162116028368473" lon="-0.476231994107366">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Pellejero (S. Bartolomé) (970m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4359,7 +4359,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.017525013536215" lon="-0.056520011276007">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Penyeta Roja (145m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4373,7 +4373,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.010163020342588" lon="-0.660037994384766">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Pina de Montalgrao (1047m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4387,7 +4387,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.970246972516179" lon="-0.432886993512511">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Pinares de Villamalur (891m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4401,7 +4401,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.120155969634652" lon="-0.499277031049132">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Pino de la Salve (850m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4415,7 +4415,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.797459989786148" lon="-0.535639990121126">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Port de Chirivilla (711m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4429,7 +4429,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.543920015916228" lon="-0.258969962596893">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Port de Morella (1124m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4443,7 +4443,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.565923266112804" lon="-0.019545340910554">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Port de Querol (1004m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4457,7 +4457,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.494483886286616" lon="-0.17763121984899">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Port de Sant Pere (1271m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4471,7 +4471,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.671020010486245" lon="-0.058100000023842">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Port de Torre Miró (1247m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4485,7 +4485,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.274255331605673" lon="-0.240662544965744">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Port de Vistabella (1056m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4499,7 +4499,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.141066052019596" lon="-0.350027270615101">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Port del Remolcador (1988m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4513,7 +4513,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.866187153384089" lon="-0.313682919368148">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Port d´Eslida (655m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4527,7 +4527,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.084540005773306" lon="-0.551333008334041">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Presa de Arenós (604m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4541,7 +4541,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.991667261347175" lon="-0.582511425018311">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Puerto de Arenillas (903m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4555,7 +4555,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.277496026828885" lon="-0.207539023831487">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Puerto de Benafigos (912m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4569,7 +4569,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.858949966728687" lon="-0.748129952698946">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Puerto de la Bellida (1251m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4583,7 +4583,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.030440017580986" lon="-0.681359963491559">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Puerto de Torrecilla (974m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4597,7 +4597,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.990650117397308" lon="-0.667980015277863">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Puerto del Ragudo (1010m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4611,7 +4611,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.141067476943135" lon="-0.350008830428123">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Puerto del Revolcador (973m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4625,7 +4625,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.870584970340133" lon="-0.325040984898806">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Puntal de l'Aljub (antenas Eslida) (944m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4639,7 +4639,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.601799990981817" lon="0.179901039227843">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Rossell (627m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4653,7 +4653,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.320766009390354" lon="0.023646019399166">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-S. Juan Nepomuceno (Serratella) (938m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4667,7 +4667,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.407614009454846" lon="0.196595024317503">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Salsadella (531m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4681,7 +4681,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.185004994273186" lon="-0.456533012911677">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-San Bartolomé (1016m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4695,7 +4695,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.695834970101714" lon="-0.246247993782163">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-San Joaquín (Peña Cortada) (978m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4709,7 +4709,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.926950000226498" lon="-0.592660987749696">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-San Roque (690m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4723,7 +4723,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.989187978208065" lon="-0.299978004768491">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-San Salvador (324m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4737,7 +4737,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.110802017152309" lon="-0.11651499196887">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Sant Antoni (Talaiota) (414m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4751,7 +4751,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.858529027551413" lon="-0.190973030403256">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Santa Bárbara (187m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4765,7 +4765,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.923263974487782" lon="-0.619011009112">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Santa Cruz-La Cerrada (667m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4779,7 +4779,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.580616993829608" lon="0.007124030962586">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Santa Águeda (1164m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4793,7 +4793,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.075313039124012" lon="-0.070038009434938">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Serra de Moró (569m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4807,7 +4807,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.595184992998838" lon="-0.057935966178775">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Serra del Aguila (981m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4821,7 +4821,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.060698017477989" lon="-0.075402008369565">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Serra del Castellet (585m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4835,7 +4835,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.323349982500076" lon="0.029868995770812">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Serratella (842m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4849,7 +4849,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.896830972284079" lon="-0.495414985343814">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Sobremonte (500m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4863,7 +4863,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.470195980742574" lon="0.262770988047123">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Terrafort (Font de la Roca) (394m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4877,7 +4877,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.979126006364822" lon="-0.466661034151912">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Torralba del Pinar (928m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4891,7 +4891,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.307053970173001" lon="-0.090809036046267">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Torre Embesora (662m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4905,7 +4905,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.674357013776898" lon="-0.072441017255187">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Torre Miró (1204m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4919,7 +4919,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.114248991012573" lon="-0.163292968645692">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Tossal de l'Artiga (455m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4933,7 +4933,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.353379994630814" lon="-0.05111200734973">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Tossal Redó (Vilar de Canes) (636m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4947,7 +4947,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.034415973350406" lon="-0.140333008021116">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Urbanización Benadressa (282m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4961,7 +4961,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.333361998200417" lon="0.360316978767514">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Urbanización Font Nova (136m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4975,7 +4975,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.253853024914861" lon="0.261569023132324">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Urbanización Jovani (176m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -4989,7 +4989,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.265117967501283" lon="0.292596984654665">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Urbanización Marcolina (140m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5003,7 +5003,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.03300404176116" lon="-0.145354019477963">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Urbanización Montecristina (235m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5017,7 +5017,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.599910039454699" lon="0.053215026855469">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Vallibona (703m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5031,7 +5031,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.293504036962986" lon="-0.292210998013616">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Vidre-Vistabella (1246m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5045,7 +5045,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.448089968413115" lon="-0.206808960065246">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Vilafranca (1207m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5059,7 +5059,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.293472018092871" lon="-0.292252991348505">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Vistabella del Maestrat (1249m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5073,7 +5073,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.262399967759848" lon="-0.280581023544073">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Xodos (1103m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5087,7 +5087,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.143288010731339" lon="-0.4534010309726">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>CS-Zucaina (942m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5101,7 +5101,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.091333346441388" lon="-0.399800017476082">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-$Alto de Casa Ribera/El Realenc (262m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5115,7 +5115,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.089766684919596" lon="-0.914866626262665">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-$Alto del Caroig (1122m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5129,7 +5129,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.691166644915938" lon="-0.399966649711132">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-@Antenas del Garbí (705m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5143,7 +5143,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.309400040656328" lon="-0.944999987259507">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-@Cerro de los Ángeles (889m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5157,7 +5157,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.805106967687607" lon="-0.887832976877689">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Aguavientos (1044m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5171,7 +5171,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.823761036619544" lon="-0.924139022827148">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Almansa (649m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5185,7 +5185,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.68208996579051" lon="-0.434647025540471">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alqueries de Serra (380m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5199,7 +5199,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.691172009333968" lon="-0.399971008300781">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alt del Pi (716m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5213,7 +5213,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.048716649413109" lon="-1.093316674232483">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto Casa del Rabosero (813m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5227,7 +5227,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.805100010707974" lon="-0.887833312153816">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Aguavientos (1048m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5241,7 +5241,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.767733294516802" lon="-0.894700018689036">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Albarizas (649m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5255,7 +5255,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.775833338499069" lon="-0.700166691094637">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Alcublas (752m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5269,7 +5269,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.875816702842712" lon="-1.014216654002666">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Alpuente (981m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5283,7 +5283,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.93234702385962" lon="-1.157126007601619">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Aras (1033m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5297,7 +5297,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.204349983483553" lon="-1.021433304995298">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Argente (729m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5311,7 +5311,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.119433365762234" lon="-1.409166650846601">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Arroyo Cerezo (1343m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5325,7 +5325,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.22902898862958" lon="-0.968341995030642">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Ayora (Muela de Cortes) (834m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5339,7 +5339,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.229033347219229" lon="-0.968350041657686">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Ayora/Muela Cortes (834m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5353,7 +5353,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.998483316972852" lon="-0.828816667199135">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Benalí (749m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5367,7 +5367,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.849733369424939" lon="-0.408133305609226">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Beniatjar (426m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5381,7 +5381,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.97673336789012" lon="-0.448116660118103">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Benigánim (306m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5395,7 +5395,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.127200013026595" lon="-0.783416675403714">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Bicorp (340m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5409,7 +5409,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.980900011956692" lon="-0.50369999371469">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Bixquert (207m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5423,7 +5423,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.738016681745648" lon="-0.654883291572332">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Bocairent (706m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5437,7 +5437,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.022783292457461" lon="-0.742000015452504">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Buenos Aires (473m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5451,7 +5451,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.859199974685907" lon="-0.6658333260566">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Campello/Portixol (768m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5465,7 +5465,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.021649975329638" lon="-0.782733298838139">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Cantalavieja (567m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5479,7 +5479,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.255385966971517" lon="-1.042499961331487">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Casas de Oroque (El Cañizo) (530m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5493,7 +5493,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.127965975552797" lon="-1.313896011561155">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Castielfabib (973m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5507,7 +5507,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.166666707023978" lon="-0.994433350861073">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Cañada de Abajo (620m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5521,7 +5521,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.574005994945765" lon="-0.98683800548315">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Chera (675m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5535,7 +5535,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.417762039229274" lon="-0.728530967608094">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Cuatro Caminos (402m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5549,7 +5549,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.052916653454304" lon="-0.696266675367951">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de la Balsilla (362m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5563,7 +5563,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.812900017946959" lon="-0.802683318033814">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de la Bastida de les Alcusses (721m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5577,7 +5577,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.912039995193481" lon="-0.845132041722536">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Marco (Molló de les Armes) (816m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5591,7 +5591,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.227666007354856" lon="-0.777239967137575">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Millares (565m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5605,7 +5605,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.917049020528793" lon="-0.879334984347224">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Navalón (777m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5619,7 +5619,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.284888003021479" lon="-0.61909700743854">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Romeu (277m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5633,7 +5633,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.034619964659214" lon="-0.537987006828189">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Santa Ana (296m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5647,7 +5647,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.528671968728304" lon="-1.449593994766474">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto de Villargordo (849m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5661,7 +5661,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.868183363229036" lon="-0.697683300822973">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto del Campellet (639m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5675,7 +5675,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.881149999797344" lon="-0.67883332259953">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto del Campello (603m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5689,7 +5689,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.227900030091405" lon="-1.137733301147819">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto del Campichuelillo (768m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5703,7 +5703,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.749499972909689" lon="-0.786716630682349">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Alto del Moro/Beneixama (985m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5717,7 +5717,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.679910000413656" lon="-0.340104019269347">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Balcó de la Penya (220m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5731,7 +5731,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.999872976914048" lon="-1.34041802957654">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Benarruel (1178m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5745,7 +5745,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.738017017021775" lon="-0.654887985438108">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Bocairent (714m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5759,7 +5759,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.406521990895271" lon="-1.327629005536437">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Cabeza del Fraile (665m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5773,7 +5773,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.089768026024103" lon="-0.914868973195553">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Caroig (1126m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5787,7 +5787,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.341799030080438" lon="-1.123265968635678">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Casas del Río (703m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5801,7 +5801,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.224707027897239" lon="-0.587810967117548">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Caseta de Antonino (237m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5815,7 +5815,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.165339013561606" lon="-0.249080993235111">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Castell de Cullera (105m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5829,7 +5829,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.953235037624836" lon="-0.661067962646484">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Castell de Montesa (344m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5843,7 +5843,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.982898006215692" lon="-0.51768796518445">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Castell de Xàtiva (271m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5857,7 +5857,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.131574971601367" lon="-1.305013038218021">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Castielfabib (890m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5871,7 +5871,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.321782039478421" lon="-1.030054008588195">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Castilblanques (720m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5885,7 +5885,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.711616644635797" lon="-0.367916682735085">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Castillo Beselga (232m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5899,7 +5899,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.676376022398472" lon="-0.277705024927855">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Castillo de Sagunto (127m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5913,7 +5913,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.572285022586584" lon="-1.079021003097296">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Cdo. de la Cruz (Las Nogueras) (1120m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5927,7 +5927,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.092864971607924" lon="-1.178370025008917">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Cerro Caracoles (822m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5941,7 +5941,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.109981572255492" lon="-1.245162645354867">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Cerro Ramón (1049m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5955,7 +5955,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.816611967980862" lon="-0.844530975446105">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Cerro Simón (1194m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5969,7 +5969,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.797293022274971" lon="-0.5356689915061">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Chirivilla (Pico del Aguila) (712m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5983,7 +5983,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.654968976974487" lon="-0.35152000375092">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Coll de la Calderona (219m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -5997,7 +5997,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.445800008252263" lon="-1.099016703665257">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Coll de la Calera (740m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6011,7 +6011,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.175220020115376" lon="-0.614761970937252">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Coll de la Garrofera (238m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6025,7 +6025,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.286880968138576" lon="-0.740461014211178">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Coll de la Reina (572m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6039,7 +6039,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.862167000770569" lon="-0.276202987879515">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Coll de la Safor (553m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6053,7 +6053,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.023717287927866" lon="-0.308456802740693">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Coll de la Visteta (329m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6067,7 +6067,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.624796975404024" lon="-0.88890602812171">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Coll de las Muelas (468m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6081,7 +6081,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.01644098199904" lon="-1.142879035323858">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado Calderón (1304m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6095,7 +6095,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.250799054279923" lon="-0.791873428970575">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado de Cabas (441m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6109,7 +6109,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.259539032354951" lon="-0.945640029385686">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado de Cuatro Caminos (488m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6123,7 +6123,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.503966644406319" lon="-0.889983354136348">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado de la Calda (889m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6137,7 +6137,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.275786010548472" lon="-0.779084991663694">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado de la Plata (581m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6151,7 +6151,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.072811016812921" lon="-1.107430038973689">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado de la Vega (739m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6165,7 +6165,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.368630005046725" lon="-0.898219998925924">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado de las Amoladeras (563m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6179,7 +6179,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.372624987736344" lon="-0.860323989763856">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado de las Cañadillas (586m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6193,7 +6193,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.372525997459888" lon="-0.976195000112057">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado de los Cocones (629m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6207,7 +6207,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.369739014655352" lon="-0.821829009801149">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado de Montrotón (492m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6221,7 +6221,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.507417976856232" lon="-0.943494010716677">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado de Raidón (897m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6235,7 +6235,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.829236036166549" lon="-0.86920696310699">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado de Torda (La Pobleta) (1091m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6249,7 +6249,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.413585001602769" lon="-0.924869002774358">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado de Umán (812m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6263,7 +6263,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.271865962073207" lon="-0.97065900452435">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado del Azahar (Pico del Reloj) (432m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6277,7 +6277,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.07304503954947" lon="-0.802689017727971">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado del Lobo (Los Charcos) (604m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6291,7 +6291,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.084072019904852" lon="-0.31727297231555">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado del Tossalet (207m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6305,7 +6305,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.967845976352692" lon="-1.049408996477723">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado Plano (1232m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6319,7 +6319,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.612630978226662" lon="-1.083441032096744">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Collado Rullo (996m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6333,7 +6333,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.952433979138732" lon="-0.355596961453557">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Convent Sant Doménech (365m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6347,7 +6347,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.034186033532023" lon="-0.530776977539062">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Corona del Bany (225m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6361,7 +6361,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.646542984992266" lon="-0.780845023691654">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Corral Quemado (342m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6375,7 +6375,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.122435990720987" lon="-0.799942016601562">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Cuesta de los Dos Ríos (402m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6389,7 +6389,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.732373002916574" lon="-1.004691040143371">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Cuesta del Muerto (521m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6403,7 +6403,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.199985969811678" lon="-1.335697006434202">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Cuesta del Rato (1242m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6417,7 +6417,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.430292984470725" lon="-0.583305023610592">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Cumbres de Calicanto (276m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6431,7 +6431,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.030086025595665" lon="-0.549830971285701">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Cárcer (188m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6445,7 +6445,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.689059015363455" lon="-0.435761986300349">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Dèula (433m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6459,7 +6459,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.252394968643785" lon="-1.133908974006772">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-El Campichuelo (747m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6473,7 +6473,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.978763991966844" lon="-1.075244033709168">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-El Colladico (1239m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6487,7 +6487,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.803698029369116" lon="-0.466188965365291">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-El Cotet (Albaida) (733m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6501,7 +6501,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.112047962844372" lon="-0.295600974932313">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-El Fenollar (139m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6515,7 +6515,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.6965616568923" lon="-0.386662473902106">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-El Garbi (600m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6529,7 +6529,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.113878989592195" lon="-1.086788009852171">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-El Hondón (701m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6543,7 +6543,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.033585973083973" lon="-1.227551009505987">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-El Hontanar (1030m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6557,7 +6557,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.677268024533987" lon="-0.365852974355221">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-El Murtal (420m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6571,7 +6571,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.299966963008046" lon="-0.90482703410089">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-El Oro (645m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6585,7 +6585,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.999741967767477" lon="-1.315956031903625">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-El Pinar (1120m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6599,7 +6599,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.739277739077806" lon="-0.564416656270623">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-El Portell (Sª Mariola) (909m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6613,7 +6613,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.652972240000963" lon="-1.17808336392045">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-El Tormillo (Benagéber) (1053m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6627,7 +6627,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.783461013808846" lon="-0.85246997885406">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Els Pics (649m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6641,7 +6641,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.659660998731852" lon="-0.433229980990291">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Els Trencalls (332m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6655,7 +6655,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.083239026367664" lon="-0.258307037875056">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Ermita de S. Rafael (123m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6669,7 +6669,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.843684988096356" lon="-0.66913596354425">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Ermita de Sant Esteve (784m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6683,7 +6683,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.681265018880367" lon="-0.325040984898806">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Ermita de Sant Miquel (140m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6697,7 +6697,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.031219007447362" lon="-0.531291961669922">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Ermita de Santa Ana (335m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6711,7 +6711,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.772889003157616" lon="-0.613946998491883">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Ermita del Santo Cristo (722m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6725,7 +6725,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.917081961408257" lon="-0.227751983329654">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Ermita St. Josep (210m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6739,7 +6739,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.948108019307256" lon="-1.113353027030826">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Ermita Sta. Catalina (1170m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6753,7 +6753,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.593453016132116" lon="-0.597425010055304">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Ermita Virgen de Montiel (217m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6767,7 +6767,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.119239971041679" lon="-0.679478980600834">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Escalona (314m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6781,7 +6781,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.013914987444878" lon="-0.631069969385862">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Estubeny (235m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6795,7 +6795,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.185898983851075" lon="-0.226893005892634">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Faro de Cullera (105m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6809,7 +6809,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.306442989036441" lon="-0.912981033325195">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Font de la Xufa (Cdo. los Carros) (681m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6823,7 +6823,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.126131990924478" lon="-0.342636024579406">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Font de Sant Sofi (295m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6837,7 +6837,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.736630003899336" lon="-0.438637984916568">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Font del Compte (410m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6851,7 +6851,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.889428973197937" lon="-0.321393013000488">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Font del Molí (319m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6865,7 +6865,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.829110031947494" lon="-0.460910964757204">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Font Freda (711m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6879,7 +6879,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.787943990901113" lon="-0.740333022549748">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Fontanars (654m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6893,7 +6893,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.909369017928839" lon="-0.152134979143739">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Fontanelles (190m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6907,7 +6907,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.45438701659441" lon="-1.408911002799869">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Hoya de la Mora (851m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6921,7 +6921,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.888830026611686" lon="-1.018295036628842">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Hoya del Cuartel (964m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6935,7 +6935,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.881255971267819" lon="-1.074428977444768">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Hoya del Hacha (975m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6949,7 +6949,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.12263598293066" lon="-0.396624030545354">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Huerto Alberola (182m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6963,7 +6963,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.182772031053901" lon="-1.078076027333736">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Jalance (454m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6977,7 +6977,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.139913013204932" lon="-1.073698997497559">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Jarafuel (585m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -6991,7 +6991,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.299934022128582" lon="-1.075459029525518">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Chirrichana (725m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7005,7 +7005,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.895509038120508" lon="-0.224532997235656">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Corona (217m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7019,7 +7019,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.001576993614435" lon="-0.275945998728275">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Drova (Collado dels Mollons) (385m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7033,7 +7033,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.844587970525026" lon="-0.252298973500729">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Llacuna (695m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7047,7 +7047,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.923199014738202" lon="-1.009325981140137">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Mejina (1099m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7061,7 +7061,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.692690977826715" lon="-0.430225990712643">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Misèria (Dèula) (445m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7075,7 +7075,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.823996005579829" lon="-1.096143973991275">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Montalbana (924m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7089,7 +7089,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.675716031342745" lon="-0.327786980196834">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Paz (199m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7103,7 +7103,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.026251975446939" lon="-0.609740959480405">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Pedrissa (Bco. de Bono) (242m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7117,7 +7117,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.014049014076591" lon="-0.322465980425477">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Puigmola (375m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7131,7 +7131,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.749928982928395" lon="-0.301566040143371">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Retoresa (154m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7145,7 +7145,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.719005040824413" lon="-0.274185966700315">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Rodana (190m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7159,7 +7159,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.158716974779963" lon="-0.771574974060059">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Sarnosa (460m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7173,7 +7173,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.020716985687613" lon="-0.71951899677515">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Sotarraña (398m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7187,7 +7187,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.63742196559906" lon="-0.806335983797908">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-La Terrosa (389m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7201,7 +7201,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.146803021430969" lon="-0.796122970059514">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Las Almas (Cerro de Tous) (507m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7215,7 +7215,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.78914899751544" lon="-0.984306000173092">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Las Granzas (El Remedio) (998m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7229,7 +7229,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.847986018285155" lon="-0.705013023689389">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Las Umbrías (Cruz del Collado) (1003m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7243,7 +7243,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.672180963680148" lon="-0.432886993512511">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Les Canteres (309m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7257,7 +7257,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.983765030279756" lon="-0.628537964075804">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Les Pedreres (313m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7271,7 +7271,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.839773992076516" lon="-0.403060996904969">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Les Planisses (Benicadell) (845m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7285,7 +7285,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.995305988937616" lon="-0.331048965454102">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Lloma Plana (573m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7299,7 +7299,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.029786037281156" lon="-0.544723961502314">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Llosa de Ranes (218m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7313,7 +7313,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.049890978261828" lon="-1.294670021161437">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Loma de la Cruz (960m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7327,7 +7327,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.083371963351965" lon="-0.771102989092469">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Loma Estrecha (518m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7341,7 +7341,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.120704960078001" lon="-1.220984039828181">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Los Cerricos (Berbelangel) (831m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7355,7 +7355,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.280901988968253" lon="-0.50228102132678">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Los Lagos (195m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7369,7 +7369,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.642180958762765" lon="-0.343923987820745">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Los Monasterios (175m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7383,7 +7383,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.096429040655494" lon="-0.800628997385502">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Los Palleres (454m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7397,7 +7397,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.707648986950517" lon="-0.281567992642522">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Los Tres Barrancos (180m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7411,7 +7411,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.009313993155956" lon="-0.26637596078217">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Montdúver (837m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7425,7 +7425,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.949063029140234" lon="-0.220799027010798">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Monte Rey (173m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7439,7 +7439,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.670396959409118" lon="-0.428037978708744">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Monteamor (369m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7453,7 +7453,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.15202796459198" lon="-1.165624000132084">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Moragete (806m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7467,7 +7467,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.306144006550312" lon="-0.855431975796819">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Muela de Dos Aguas (595m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7481,7 +7481,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.271267997100949" lon="-1.015635039657354">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Nazareto (542m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7495,7 +7495,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.7052719630301" lon="-0.416750991716981">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Oronet (493m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7509,7 +7509,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.813745021820068" lon="-0.774020981043577">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Oset (866m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7523,7 +7523,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.26203097216785" lon="-0.87045201100409">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Otonel (683m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7537,7 +7537,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.988067964091897" lon="-0.938987983390689">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Pelegrín (1095m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7551,7 +7551,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.881044974550605" lon="-0.317658958956599">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Penyes Albes (565m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7565,7 +7565,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.580853004008532" lon="-0.818782020360231">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Peña del Cuervo (404m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7579,7 +7579,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.204025017097592" lon="-0.654373001307249">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Peñarroya (La Llacuna) (525m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7593,7 +7593,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.136450029909611" lon="-0.981350038200617">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Pico Caroche/Cuesta Bayart (860m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7607,7 +7607,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.249303974211216" lon="-1.011642990633845">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Pinoval (639m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7621,7 +7621,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.933741999790072" lon="-0.323410034179688">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Pla de Pinarets (339m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7635,7 +7635,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.007780021056533" lon="-0.312208961695433">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Pla del Garbuller (529m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7649,7 +7649,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.930169967934489" lon="-0.572448028251529">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Port de l' Olleria (392m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7663,7 +7663,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.804232962429523" lon="-0.763420974835753">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Port dels Alforins (650m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7677,7 +7677,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.680075962096453" lon="-0.477605033665895">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Porta-Coeli (302m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7691,7 +7691,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.435033034533262" lon="-0.820497963577509">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Portillo de Buñol (595m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7705,7 +7705,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.214566014707088" lon="-1.078677009791136">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Povedilla (536m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7719,7 +7719,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.807342983782291" lon="-0.462541999295354">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Pto. de Albaida (606m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7733,7 +7733,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.835628973320127" lon="-0.380616020411253">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Pto. de Beniarrés o Salem (598m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7747,7 +7747,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.524302985519171" lon="-1.467619026079774">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Pto. de Contreras (920m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7761,7 +7761,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.547801986336708" lon="-0.787538979202509">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Pto. de la Manga (434m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7775,7 +7775,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.643008001148701" lon="-1.139273978769779">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Pto. del Negrete (El Remedio) (1237m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7789,7 +7789,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.543778588995337" lon="-1.503350324928761">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Puerto de Contreras (578m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7803,7 +7803,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.113099999725819" lon="-1.395159987732768">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Puerto de Hontanar (1309m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7817,7 +7817,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.374900003895164" lon="-1.112959999591112">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Puerto de la Cruz de Cofrentes (715m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7831,7 +7831,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.750365680083632" lon="-1.084119211882353">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Puerto de Mataparda (850m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7845,7 +7845,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.892603032290936" lon="-0.154537986963987">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Puig del Frare (Panorama II) (280m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7859,7 +7859,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.888127012178302" lon="-0.16612496227026">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Pujada de Gualde (355m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7873,7 +7873,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.176217969506979" lon="-0.25088301859796">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Radar de Cullera (230m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7887,7 +7887,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.525461029261351" lon="-1.049066008999944">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Repecho del Chivato (El Tejo) (810m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7901,7 +7901,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.314545020461082" lon="-1.041083000600338">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Rincón de Mira (La Cabezuela) (693m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7915,7 +7915,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.408776974305511" lon="-0.810714019462466">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Río Juanes (527m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7929,7 +7929,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.621755015105009" lon="-0.599356032907963">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Sant Miquel de Llíria (274m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7943,7 +7943,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.668713035061955" lon="-0.349416984245181">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Santo Espíritu (188m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7957,7 +7957,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.683510027825832" lon="-0.373835982754827">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Segart (369m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7971,7 +7971,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.953868960961699" lon="-0.508503997698426">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Serra Grossa (253m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7985,7 +7985,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.032412027940154" lon="-1.208625007420778">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Sesga (1225m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -7999,7 +7999,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.568017963320017" lon="-0.875473022460938">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Sierra de los Bosques (765m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -8013,7 +8013,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.429995007812977" lon="-0.564294029027224">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Sierra Perenchisa (240m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -8027,7 +8027,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.040253022685647" lon="-0.353837013244629">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Simat (278m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -8041,7 +8041,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.080607024952769" lon="-0.639954032376409">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Sumacárcer (275m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -8055,7 +8055,7 @@
     </extensions>
   </wpt>
   <wpt lat="39.139979984611273" lon="-1.1203049775213">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Tobarro (Puntal de la Cruz) (784m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>
@@ -8069,7 +8069,7 @@
     </extensions>
   </wpt>
   <wpt lat="38.902556039392948" lon="-0.902510024607182">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>V-Torre Tallada (845m)</name>
     <type>POI CValenciana.2018.11.20</type>
     <extensions>

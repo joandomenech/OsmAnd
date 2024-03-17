@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="OsmAnd 4.6.6" creator="OsmAnd Maps 4.6.6 (4.6.6.1)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-POI Asturias.2018.11.20</name>
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
   </metadata>
   <wpt lat="43.440768029540777" lon="-6.452193008735776">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Adrau (collado espina) (687m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -19,7 +19,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.19973299279809" lon="-6.357479011639953">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de Azorenina (954m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -33,7 +33,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.39675297960639" lon="-6.646042037755251">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de Brañuas (775m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -47,7 +47,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.337788973003626" lon="-6.704921973869205">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de Bustantigo (1033m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -61,7 +61,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.211807040497661" lon="-6.379280006513">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de Dagüeño (999m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -75,7 +75,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.457466959953308" lon="-5.997076034545898">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de Degollada (532m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -89,7 +89,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.262644037604332" lon="-6.195687996223569">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de Dolia (820m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -103,7 +103,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.056992115452886" lon="-6.089999824762344">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de Farrapona (1707m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -117,7 +117,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.444443996995687" lon="-6.364345969632268">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de la Espina (660m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -131,7 +131,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.460332984104753" lon="-5.558394966647029">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de la Fumarea (583m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -145,7 +145,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.468742966651917" lon="-5.695981979370117">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de la Madera (337m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -159,7 +159,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.463822035118937" lon="-5.850390968844295">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de la Miranda (239m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -173,7 +173,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.475595004856586" lon="-5.991840027272701">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de la Reigada (450m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -187,7 +187,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.281767014414072" lon="-6.267098961398005">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de las Estacas (748m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -201,7 +201,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.322680005803704" lon="-4.902991997078061">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de Ortiguero (436m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -215,7 +215,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.532776013016701" lon="-6.044926978647709">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de Praviano (175m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -229,7 +229,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.278705021366477" lon="-5.709971962496638">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto de Santo Emiliano (525m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -243,7 +243,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.951899981126189" lon="-6.627588020637631">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto del Campillo (1075m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -257,7 +257,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.386088013648987" lon="-5.853910027071834">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto del Naranco (590m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -271,7 +271,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.462388981133699" lon="-6.640720032155514">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Alto del Segredal (685m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -285,7 +285,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.221596013754606" lon="-5.941780032590032">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Angliru (1570m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -299,7 +299,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.230969998985529" lon="-5.368173038586974">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Arnicio (916m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -313,7 +313,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.353456007316709" lon="-5.165205001831055">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Bada (270m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -327,7 +327,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.222691025584936" lon="-6.058101989328861">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Banduxu (805m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -341,7 +341,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.310315022245049" lon="-6.065140021964908">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Baselgas (428m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -355,7 +355,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.199482038617134" lon="-5.977248977869749">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Bermiego (756m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -369,7 +369,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.292701039463282" lon="-6.602353965863585">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Campa de Lavadoira (805m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -383,7 +383,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.935751993209124" lon="-6.732645034790039">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Campa de Tormaleo (1024m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -397,7 +397,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.273456022143364" lon="-5.969695961102843">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Campa Dosango (641m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -411,7 +411,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.182773971930146" lon="-5.570412017405033">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Campa Doãngo (1006m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -425,7 +425,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.318433985114098" lon="-5.581613006070256">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Campa San Juan (534m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -439,7 +439,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.494713036343455" lon="-6.19328498840332">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Campo de Funturil (482m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -453,7 +453,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.225066959857941" lon="-5.192070007324219">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Carangas (755m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -467,7 +467,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.189665991812944" lon="-5.090725002810359">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Casielles (812m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -481,7 +481,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.210493009537458" lon="-6.905851028859615">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Cereixeira (635m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -495,7 +495,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.032258963212371" lon="-6.892462028190494">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Chao de Arqueira (773m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -509,7 +509,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.303539007902145" lon="-5.613713013008237">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Cocañin (484m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -523,7 +523,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.252477962523699" lon="-5.079534994438291">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Collada Amieva (803m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -537,7 +537,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.452669996768236" lon="-6.539954971522093">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Collada Aristebano (560m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -551,7 +551,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.231048034504056" lon="-5.368204973638058">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Collada Arnicio (908m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -565,7 +565,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.333294009789824" lon="-6.249161018058658">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Collada Brueva (734m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -579,7 +579,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.268455965444446" lon="-5.87571102194488">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Collada de Morcin (398m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -593,7 +593,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.201047023758292" lon="-5.137825012207031">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Collada Llomena (1003m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -607,7 +607,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.279516976326704" lon="-5.227517997846007">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Collada Moandi (670m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -621,7 +621,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.225552020594478" lon="-5.64798703417182">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Colladiella (857m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -635,7 +635,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.258081013336778" lon="-6.719427024945617">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Collado Couso (0m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -649,7 +649,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.247577985748649" lon="-6.24607102945447">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Collado de Campo la Eria (770m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -663,7 +663,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.405172014608979" lon="-4.990109978243709">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Collado del Torno (533m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -677,7 +677,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.259518006816506" lon="-5.137138031423092">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Collado Tresiero (455m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -691,7 +691,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.269831016659737" lon="-6.031665969640017">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Cruz de Linares (845m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -705,7 +705,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.461766038089991" lon="-5.313606010749936">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Cueto Arguer (371m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -719,7 +719,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.301930017769337" lon="-5.654450990259647">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Cuetos (492m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -733,7 +733,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.27862698584795" lon="-5.642547011375427">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-El Abeduriu (510m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -747,7 +747,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.462793994694948" lon="-6.302031967788935">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-El Aguión (920m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -761,7 +761,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.257331000640988" lon="-5.688729034736753">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-El Cabo (655m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -775,7 +775,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.952151019126177" lon="-6.624498032033443">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-El Campillo (1075m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -789,7 +789,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.198575032874942" lon="-5.851078033447266">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-El Cordal (804m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -803,7 +803,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.257267968729138" lon="-5.662528965622187">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-El Corralón (609m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -817,7 +817,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.439061976969242" lon="-5.193485962226987">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-El Fito (590m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -831,7 +831,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.441702025011182" lon="-6.112260986119509">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-El Otero (227m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -845,7 +845,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.446438973769546" lon="-6.19371397420764">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-el Pozo (398m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -859,7 +859,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.188124978914857" lon="-5.951672019436955">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Ermita del Alba (1221m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -873,7 +873,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.297011014074087" lon="-5.565862990915775">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Falla de los Lobos (654m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -887,7 +887,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.086566990241408" lon="-6.564244972541928">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Folgueraxu (1100m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -901,7 +901,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.095467984676361" lon="-6.458415985107422">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Fuentes de Corbero (1026m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -915,7 +915,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.317747004330158" lon="-4.999466026201844">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Gamonedo (548m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -929,7 +929,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.064169036224484" lon="-6.39586703851819">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Genestoso (1146m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -943,7 +943,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.028870997950435" lon="-6.554546020925045">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Gillon (1063m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -957,7 +957,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.019458958879113" lon="-6.594672035425901">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Jalón (1015m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -971,7 +971,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.238137029111385" lon="-4.71935698762536">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Jito Escarandi (1308m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -985,7 +985,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.298116000369191" lon="-5.640271995216608">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Acebal (443m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -999,7 +999,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.35988400503993" lon="-6.936921989545226">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Bobia (1103m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1013,7 +1013,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.141140975058079" lon="-6.19491602294147">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Bustariega (1032m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1027,7 +1027,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.422474022954702" lon="-5.513163032010198">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Campa (400m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1041,7 +1041,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.329314030706882" lon="-5.607458017766476">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Camperona (577m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1055,7 +1055,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.297291975468397" lon="-5.567107032984495">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Casilla (635m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1069,7 +1069,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.499133987352252" lon="-6.288728965446353">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Cerezal (674m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1083,7 +1083,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.225411036983132" lon="-5.648217033594847">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Colladiella (847m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1097,7 +1097,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.180959038436413" lon="-5.609635971486568">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Colladona (850m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1111,7 +1111,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.351865038275719" lon="-5.592190967872739">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Cruz (540m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1125,7 +1125,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.367371978238225" lon="-6.289930008351803">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Cruz de Cueva (672m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1139,7 +1139,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.358667036518455" lon="-5.591397034004331">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Cruz de Lieres (552m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1153,7 +1153,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.473850982263684" lon="-5.514277992770076">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Cruz de Peon (438m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1167,7 +1167,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.27583103440702" lon="-5.95853797160089">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Cruz de Viesca (611m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1181,7 +1181,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.990334024652839" lon="-5.905838012695312">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Cubilla (1683m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1195,7 +1195,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.343033026903868" lon="-7.01494200155139">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Garganta (878m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1209,7 +1209,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.331920970231295" lon="-5.663623977452517">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Gargantada (367m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1223,7 +1223,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.282078988850117" lon="-6.972026992589235">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Llanada (842m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1237,7 +1237,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.295448962599039" lon="-6.671019019559026">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Marta (1114m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1251,7 +1251,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.430919963866472" lon="-6.089344024658203">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Mortera (406m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1265,7 +1265,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.238137029111385" lon="-5.65873104147613">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Mozqueta (848m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1279,7 +1279,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.152975970879197" lon="-6.448975028470159">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-la Parada (970m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1293,7 +1293,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.530536033213139" lon="-6.12749601714313">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Peñona (470m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1307,7 +1307,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.232572032138705" lon="-6.877955971285701">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Ronda (660m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1321,7 +1321,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.477026969194412" lon="-6.04428299702704">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Roñada (430m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1335,7 +1335,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.388083996251225" lon="-4.831065963953733">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-La Torneria (468m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1349,7 +1349,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.272019028663635" lon="-4.983759010210633">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Lagos de Cavadonga (1135m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1363,7 +1363,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.303819969296455" lon="-6.199550963938236">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Las Cruces (641m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1377,7 +1377,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.176641017198563" lon="-6.402196967974305">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Las Cuadriechas (1016m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1391,7 +1391,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.247266011312604" lon="-7.062406959012151">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Las Gavitas (862m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1405,7 +1405,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.468244997784495" lon="-5.882319984957576">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Les Areñes (324m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1419,7 +1419,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.085187999531627" lon="-5.903091011568904">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Lindes (925m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1433,7 +1433,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.243951974436641" lon="-6.430949997156858">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Llamas del Mouro (741m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1447,7 +1447,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.041966967284679" lon="-5.789065025746822">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Llanos de Someron (863m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1461,7 +1461,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.219438008964062" lon="-6.371468994766474">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Los Tornos (875m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1475,7 +1475,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.303945027291775" lon="-6.247100997716188">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Modreros (633m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1489,7 +1489,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.97488802112639" lon="-6.488799965009093">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Monasterio de Hermo (1330m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1503,7 +1503,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.204972017556429" lon="-6.222767997533083">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Montovo (768m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1517,7 +1517,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.168252995237708" lon="-5.940342033281922">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Muriellos (990m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1531,7 +1531,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.188031017780304" lon="-6.307869041338563">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Noceda (733m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1545,7 +1545,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.263268992304802" lon="-5.935879005119205">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Ories (926m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1559,7 +1559,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.948947036638856" lon="-6.834697974845767">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Peliceira (1158m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1573,7 +1573,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.314436990767717" lon="-6.017760979011655">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Perlavia (412m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1587,7 +1587,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.089263029396534" lon="-6.283492958173156">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Perlunes (1080m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1601,7 +1601,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.340255012735724" lon="-7.02974796295166">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Pico Ouroso (1032m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1615,7 +1615,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.230507988482714" lon="-5.726193962618709">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Pico Polio (896m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1629,7 +1629,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.420261032879353" lon="-5.585603965446353">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Picu Fariu (736m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1643,7 +1643,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.105495003983378" lon="-6.787833999842405">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Pozo las Mujeres Muertas (1097m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1657,7 +1657,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.381783990189433" lon="-6.399879036471248">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Puerto Bustellan (1012m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1671,7 +1671,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.954538017511368" lon="-6.439532982185483">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Puerto de Cerredo (1359m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1685,7 +1685,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.996863024309278" lon="-6.415328979492188">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Puerto de Leitariegos (1525m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1699,7 +1699,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.966220965608954" lon="-6.797275962308049">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Puerto de Porredo (870m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1713,7 +1713,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.999625029042363" lon="-6.624756027013063">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Puerto de Rañadoiro (1145m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1727,7 +1727,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.014564011245966" lon="-6.2265869602561">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Puerto de Somiedo (1486m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1741,7 +1741,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.084561033174396" lon="-5.217990959063172">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Puerto de Tarna (1492m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1755,7 +1755,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.057474996894598" lon="-6.004371978342533">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Puerto de Ventana (1587m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1769,7 +1769,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.111099982634187" lon="-5.179750034585595">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Puerto de Ventaniella (1035m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1783,7 +1783,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.148592989891768" lon="-6.96524603292346">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Puerto del Acebo (1036m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1797,7 +1797,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.27233100309968" lon="-6.677541984245181">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Puerto del Palo (1146m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1811,7 +1811,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.065626984462142" lon="-5.387420989573002">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Puerto San Isidro (1520m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1825,7 +1825,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.215935965999961" lon="-6.130028022453189">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Puertos del Maravio (1051m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1839,7 +1839,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.478147964924574" lon="-6.066770972684026">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Ricabo (337m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1853,7 +1853,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.318386962637305" lon="-5.58200997300446">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-San Juan Campa (547m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1867,7 +1867,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.446251973509789" lon="-6.172255966812372">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Sandamias (400m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1881,7 +1881,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.177266977727413" lon="-6.581669021397829">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Santo Arbas (892m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1895,7 +1895,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.158470978960395" lon="-6.499013984575868">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Santuario de Acebo (1170m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1909,7 +1909,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.419888876378536" lon="-6.258444478735328">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Santuario del Viso (675m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1923,7 +1923,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.322493005543947" lon="-5.108642997220159">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Següencu (570m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1937,7 +1937,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.303945027291775" lon="-5.969180976971984">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Siones (479m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1951,7 +1951,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.486369019374251" lon="-6.033039009198546">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Tablado (426m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1965,7 +1965,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.171007037162781" lon="-6.165733002126217">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Taxa (994m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1979,7 +1979,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.209805022925138" lon="-5.996303977444768">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Tene (633m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -1993,7 +1993,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.218437964096665" lon="-6.470432030037045">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Villadestre (750m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -2007,7 +2007,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.511272994801402" lon="-6.154404021799564">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Villafria (400m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -2021,7 +2021,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.494588984176517" lon="-6.173372017219663">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Villamejan (408m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -2035,7 +2035,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.098475998267531" lon="-6.336707985028625">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Villar de Vildas (845m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -2049,7 +2049,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.497888017445803" lon="-6.170111037790775">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Villarigan (407m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -2063,7 +2063,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.481012983247638" lon="-6.16238602437079">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Villavaler (306m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -2077,7 +2077,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.25129795819521" lon="-6.961039993911982">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Vitos (794m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -2091,7 +2091,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.279580008238554" lon="-6.109342994168401">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Yernes (695m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>
@@ -2105,7 +2105,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.361670020967722" lon="-5.358457993716002">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>O-Área Recreativa Monte Cayón (514m)</name>
     <type>POI Asturias.2018.11.20</type>
     <extensions>

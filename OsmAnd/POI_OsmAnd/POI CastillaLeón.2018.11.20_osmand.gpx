@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<gpx version="OsmAnd 4.6.3" creator="OsmAnd Maps 4.6.3 (4.6.3.2)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx version="OsmAnd 4.6.6" creator="OsmAnd Maps 4.6.6 (4.6.6.1)" xmls="http://www.topografix.com/GPX/1/1" xmlns:osmand="http://www.osmand.net/osmand" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:schemaLocation="gpxNs http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>favorites-POI CastillaLeón.2018.11.20</name>
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
   </metadata>
   <wpt lat="40.621878001838923" lon="-4.179533002898097">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Abantos (1640m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -19,7 +19,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.422344952821732" lon="-5.298768281936646">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Alto de Peña Negra (1909m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -33,7 +33,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.571631006896496" lon="-4.499337980523705">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Arrebatacapas (1374m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -47,7 +47,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.231446018442512" lon="-5.160377025604248">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Barranco del Nogal (1080m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -61,7 +61,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.558882970362902" lon="-4.764339979737997">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Cabañas (1408m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -75,7 +75,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.393080962821841" lon="-5.151822958141565">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Cañada del Horno (1767m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -89,7 +89,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.657060034573078" lon="-4.663163032382727">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Cerro Hervero (1218m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -103,7 +103,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.455653965473175" lon="-5.162458000704646">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Chía (1663m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -117,7 +117,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.68712399341166" lon="-4.163268003612757">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Collado de la Mina (1710m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -131,7 +131,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.248293979093432" lon="-5.07826597429812">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Collado de Machaconas (984m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -145,7 +145,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.35953801125288" lon="-5.208900030702353">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Collado del Hoyos (1555m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -159,7 +159,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.372877977788448" lon="-5.182464011013508">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Cuarenta Pinos(Prados y Arroyo Cervunal) (1665m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -173,7 +173,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.621258998289704" lon="-4.249313017353415">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-El Carrascal (1431m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -187,7 +187,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.590166999027133" lon="-4.514007987454534">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-El Mediano (1380m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -201,7 +201,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.351230958476663" lon="-5.399958975613117">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-El Reventón (1462m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -215,7 +215,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.308821965008974" lon="-5.004616035148501">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-El Sidrillo (1270m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -229,7 +229,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.28788941912353" lon="-5.061146356165409">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-La Centenera (1350m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -243,7 +243,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.417687967419624" lon="-4.954755026847124">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-La Erilla (1612m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -257,7 +257,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.345627991482615" lon="-4.8727370146662">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-La Mesa (1682m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -271,7 +271,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.526402005925775" lon="-4.654004964977503">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-la Paramera (1412m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -285,7 +285,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.226868996396661" lon="-5.048997038975358">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-La Parra (688m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -299,7 +299,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.378665011376143" lon="-4.921581968665123">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-La Vececilla Marirías (1270m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -313,7 +313,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.410032020881772" lon="-5.064054038375616">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Las Erillas (1642m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -327,7 +327,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.619043996557593" lon="-5.038354033604264">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Las Fuentes (1499m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -341,7 +341,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.588970985263586" lon="-4.332267958670855">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Las Navas del Marqués (1325m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -355,7 +355,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.653662011027336" lon="-4.831587988883257">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Los Pedregales (1324m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -369,7 +369,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.6576460134238" lon="-4.696873035281897">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Murallas de Ávila (1115m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -383,7 +383,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.497353011742234" lon="-4.73630896769464">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Navalmoral (1514m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -397,7 +397,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.250184014439583" lon="-4.968909965828061">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Pedro Bernardo (1242m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -411,7 +411,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.275284796953201" lon="-5.232346979901195">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Plataforma de Gredos (1768m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -425,7 +425,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.425081979483366" lon="-4.85423999838531">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Puerto de Aguilones (1245m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -439,7 +439,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.512009272351861" lon="-4.521831320598722">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Puerto de Arrebatacapas (1374m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -453,7 +453,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.575734283775091" lon="-4.607000341638923">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Puerto de El Boquerón (1315m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -467,7 +467,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.321336146444082" lon="-5.012766262516379">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Puerto de El Pico (1391m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -481,7 +481,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.364703610539436" lon="-5.617422927170992">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Puerto de El Tremedal (1637m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -495,7 +495,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.714149344712496" lon="-4.442623006179929">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Puerto de la Cruz de Hierro (1470m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -509,7 +509,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.633158534765244" lon="-4.419786175712943">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Puerto de la Lancha (1485m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -523,7 +523,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.205469578504562" lon="-5.01998433843255">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Puerto de la Reina (714m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -537,7 +537,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.476815002039075" lon="-5.011772001162171">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Puerto de Menga (1566m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -551,7 +551,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.331342965364456" lon="-4.814207023009658">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Puerto de Mijares (1570m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -565,7 +565,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.308481995016336" lon="-4.948095018044114">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Puerto de Serranillos (1637m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -579,7 +579,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.272870976477861" lon="-5.662197964265943">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Puerto de Tornavacas (1275m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -593,7 +593,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.262138033285737" lon="-5.137010039761662">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Refugio de Domingo Fernando (1138m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -607,7 +607,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.303931040689349" lon="-5.561509011313319">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Umbrías (1362m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -621,7 +621,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.620315028354526" lon="-4.509894987568259">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Valdelavía (1448m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -635,7 +635,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.378762995824218" lon="-4.823948973789811">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Villanueva (1083m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -649,7 +649,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.537664014846087" lon="-5.160485990345478">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>AV-Villatoro (1386m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -663,7 +663,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.807114003226161" lon="-3.645829986780882">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Ahedo de Butrón (0m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -677,7 +677,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.669382989406586" lon="-2.580464025959373">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto de Bajauri (780m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -691,7 +691,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.871734010055661" lon="-3.115182006731629">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto de Campastros (1185m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -705,7 +705,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.02529402077198" lon="-3.375977966934443">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto de Castrobarto (784m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -719,7 +719,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.924760024994612" lon="-3.454298973083496">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto de Hortezuelos (1141m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -733,7 +733,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.103268997743726" lon="-3.286928962916136">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto de la Somadilla (1114m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -747,7 +747,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.287246994674206" lon="-3.707156013697386">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto de la Varga (967m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -761,7 +761,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.585938964039087" lon="-3.750224998220801">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto de las Mercedes (1029m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -775,7 +775,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.270831037312746" lon="-3.602808024734259">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto de los Buitres (1012m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -789,7 +789,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.564375009387732" lon="-3.393623968586326">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto de los Mojones (920m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -803,7 +803,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.911754999309778" lon="-3.303162027150393">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto de Pinilla (1142m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -817,7 +817,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.172246025875211" lon="-3.454707004129887">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto de San Roque (1140m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -831,7 +831,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.283802032470703" lon="-3.744407035410404">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto de Santa Bárbara (942m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -845,7 +845,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.298848973587155" lon="-3.282100986689329">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto de Valmala (1195m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -859,7 +859,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.89185001514852" lon="-3.365449961274862">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto del Hierro (831m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -873,7 +873,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.922984007745981" lon="-3.781574992462993">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Alto deMunilla (989m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -887,7 +887,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.669058023020625" lon="-3.535388018935919">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Altotero (1080m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -901,7 +901,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.105511013418436" lon="-3.36398396641016">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Arceo (462m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -915,7 +915,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.983475029468536" lon="-3.764383960515261">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Argomedo (883m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -929,7 +929,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.084846999496222" lon="-3.26482797972858">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Arroyo de Salas (1146m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -943,7 +943,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.115613972768188" lon="-3.188158962875605">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Artieta (475m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -957,7 +957,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.514897976070642" lon="-3.279347028583288">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Bañuelos (870m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -971,7 +971,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.994351973757148" lon="-3.529486991465092">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Bocos (787m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -985,7 +985,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.762205023318529" lon="-2.759459987282753">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Busto de Treviño (695m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -999,7 +999,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.231870023533702" lon="-3.438913989812136">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Cabañas y Matalindo (1165m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1013,7 +1013,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.071944005787373" lon="-3.350421963259578">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Cadagua (415m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1027,7 +1027,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.117712968960404" lon="-3.358083022758365">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Campillo (463m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1041,7 +1041,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.088807975873351" lon="-3.354950034990907">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Cantonad (488m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1055,7 +1055,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.971584018319845" lon="-3.351773964241147">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Carazo (1140m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1069,7 +1069,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.936698980629444" lon="-3.829936981201172">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Carrales (1015m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1083,7 +1083,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.100591003894806" lon="-3.651365982368588">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Castríos (1394m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1097,7 +1097,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.180229034274817" lon="-3.395376037806273">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Cerro de Tañabueyes (1243m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1111,7 +1111,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.893928978592157" lon="-3.849299009889364">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Cilleruelo de Bricia (986m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1125,7 +1125,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.070130975916982" lon="-3.044071029871702">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Collado de Huerta (1445m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1139,7 +1139,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.929069999605417" lon="-3.090034034103155">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Collado de Vilviestre (1269m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1153,7 +1153,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.088447973132133" lon="-3.443269981071353">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-El Cabrio (755m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1167,7 +1167,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.12178598716855" lon="-3.305596970021725">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-El Carel (450m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1181,7 +1181,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.907131960615516" lon="-3.025295985862613">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-El Cargadero (1349m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1195,7 +1195,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.884770970791578" lon="-3.31495301797986">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-El Cerro (1218m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1209,7 +1209,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.042831033468246" lon="-3.010162962600589">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-El Collado (1404m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1223,7 +1223,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.851317981258035" lon="-3.771764980629086">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-El Escalerón (895m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1237,7 +1237,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.047957010567188" lon="-3.879129029810429">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-El Escudo (1011m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1251,7 +1251,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.178924977779388" lon="-3.226225040853024">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-El Manquillo (1400m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1265,7 +1265,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.313432982191443" lon="-3.344522025436163">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-El Matorro (1164m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1279,7 +1279,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.000292958691716" lon="-3.504381012171507">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-El Quemadal (1085m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1293,7 +1293,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.066764995455742" lon="-3.30478903837502">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-El Vigo (453m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1307,7 +1307,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.835161024704576" lon="-3.776120971888304">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Escalada (866m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1321,7 +1321,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.754008024930954" lon="-3.611325966194272">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Escobados (1061m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1335,7 +1335,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.117651026695967" lon="-3.704238021746278">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Estacas de Trueba (1166m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1349,7 +1349,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.16561596468091" lon="-3.654016004875302">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Estación de Esquí de Lunada (1275m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1363,7 +1363,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.668193010613322" lon="-2.6570750400424">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Faido (778m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1377,7 +1377,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.753378041088581" lon="-3.66685900837183">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Gredilla de Sedano (1079m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1391,7 +1391,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.954788971692324" lon="-3.781184982508421">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Hoz de Arreba (893m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1405,7 +1405,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.756402986124158" lon="-3.702563988044858">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Huidobro (1088m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1419,7 +1419,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.148879962041974" lon="-3.324630009010434">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Iglesiapinta (La Pinta) (1205m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1433,7 +1433,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.708804002031684" lon="-3.151015983894467">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-La Cubilla (997m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1447,7 +1447,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.797384960576892" lon="-3.675248958170414">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-La Eme (1027m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1461,7 +1461,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.923968965187669" lon="-3.245386993512511">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-La Horca (896m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1475,7 +1475,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.04280599579215" lon="-3.85885102674365">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-La Magdalena (970m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1489,7 +1489,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.817235989496112" lon="-3.618901027366519">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-La Mazorra (1005m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1503,7 +1503,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.135706963017583" lon="-3.072846019640565">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-La Mojonera (1306m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1517,7 +1517,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.810798017308116" lon="-3.767537986859679">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-La Mota (880m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1531,7 +1531,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.365330038592219" lon="-3.353747986257076">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-La Pedraja (1150m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1545,7 +1545,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.009024998173118" lon="-3.637741031125188">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-La Retuerta (876m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1559,7 +1559,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.152412958443165" lon="-3.573216972872615">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-La Sía (1250m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1573,7 +1573,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.790140984579921" lon="-3.49959603510797">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-La Varga (Valle de Valdivielso) (729m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1587,7 +1587,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.046122020110488" lon="-3.04482196457684">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Lagunas de Neila (1872m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1601,7 +1601,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.51759996637702" lon="-3.880749000236392">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Las Hormazas (1019m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1615,7 +1615,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.419484006240964" lon="-3.298917012289166">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Las Olmayas (1005m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1629,7 +1629,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.171406015753746" lon="-3.655701018869877">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Lunada (1320m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1643,7 +1643,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.12799203209579" lon="-3.274937979876995">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Maltranilla (403m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1657,7 +1657,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.051809979602695" lon="-3.193888999521732">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Monasterio de la Sierra (1163m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1671,7 +1671,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.661367040127516" lon="-3.124887999147177">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Montes Obarenes (996m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1685,7 +1685,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.750542024150491" lon="-3.721360992640257">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Nocedo (1023m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1699,7 +1699,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.461017007008195" lon="-3.828263031318784">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Nuez de Abajo (978m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1713,7 +1713,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.948789959773421" lon="-3.03093901835382">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Orduña (903m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1727,7 +1727,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.645749961957335" lon="-3.110031997784972">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Pancorbo (antenas) (820m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1741,7 +1741,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.023156970739365" lon="-3.192707989364862">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Peña Angulo (728m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1755,7 +1755,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.499914988875389" lon="-3.576435958966613">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Peñas de Tobes (937m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1769,7 +1769,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.943850982934237" lon="-3.551330985501409">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Pico de la Sierra (Repetidor de Tejada) (1323m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1783,7 +1783,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.129961024969816" lon="-3.545407997444272">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Picón Blanco (1512m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1797,7 +1797,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.180864993482828" lon="-3.64849098958075">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Picón del Fraile (1614m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1811,7 +1811,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.931667994707823" lon="-3.657245971262455">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Portillo de Manzanedo (Alto del Repetidor) (1015m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1825,7 +1825,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.27146596647799" lon="-3.63151797093451">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Portillo de Modúbar (1002m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1839,7 +1839,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.689967015758157" lon="-3.265740014612675">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Portillo del Busto (1003m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1853,7 +1853,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.893572999164462" lon="-3.751100990921259">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Portillo del Castillo (Arreba) (873m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1867,7 +1867,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.886486016213894" lon="-3.786606984212995">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Portillo del Castillo y Arreba (1000m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1881,7 +1881,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.643935028463602" lon="-3.748225998133421">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Portillo del Fresno (1047m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1895,7 +1895,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.31782803311944" lon="-3.103959979489446">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Pradilla (1245m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1909,7 +1909,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.719793012365699" lon="-3.205861961469054">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Puerto de Somo (971m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1923,7 +1923,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.692656014114618" lon="-3.671579025685787">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Quintanaloma (1005m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1937,7 +1937,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.704208958894014" lon="-3.753253966569901">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Repetidor de Sedano (960m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1951,7 +1951,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.105683010071516" lon="-3.225088035687804">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Ro (546m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1965,7 +1965,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.936004037037492" lon="-3.442583000287414">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Rosales (772m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1979,7 +1979,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.100658034905791" lon="-3.094132030382752">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Salegar (1329m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -1993,7 +1993,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.033680031076074" lon="-3.664505034685135">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-San Bernabé (765m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2007,7 +2007,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.723119035363197" lon="-2.83078202046454">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-San Formerio (750m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2021,7 +2021,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.642925009131432" lon="-2.929572975263">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-San Juan del Monte (624m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2035,7 +2035,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.693118024617434" lon="-2.715278975665569">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-San Martín de Zar (690m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2049,7 +2049,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.915534004569054" lon="-3.665671041235328">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-San Martín del Rojo (819m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2063,7 +2063,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.64090396463871" lon="-2.971802009269595">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-San Miguel del Monte (619m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2077,7 +2077,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.554697012528777" lon="-3.40078697539866">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Santa Casilda (955m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2091,7 +2091,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.074674997478724" lon="-3.197035985067487">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Santa Olaja (585m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2105,7 +2105,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.768910964950919" lon="-3.870728015899658">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Sargentes de Lora (Las Trapas) (1025m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2119,7 +2119,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.563963960856199" lon="-3.391950018703938">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Soladillos (920m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2133,7 +2133,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.108518021181226" lon="-3.327162014320493">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Taranco (427m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2147,7 +2147,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.823876971378922" lon="-3.487730026245117">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Tartales de los Montes (742m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2161,7 +2161,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.306038970127702" lon="-3.252511024475098">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Trigaza (1661m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2175,7 +2175,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.195444032549858" lon="-3.304416965693235">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Valle del Sol (1470m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2189,7 +2189,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.460338994860649" lon="-3.221411984413862">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Valperrillo (900m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2203,7 +2203,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.129634968936443" lon="-3.207078007981181">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Viergol (482m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2217,7 +2217,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.751685986295342" lon="-3.375084036961198">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Villanueva de los Montes (872m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2231,7 +2231,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.778482930734754" lon="-2.676040604710579">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Vitoria (778m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2245,7 +2245,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.790949000045657" lon="-2.728390032425523">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Zaldiarán (800m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2259,7 +2259,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.77241300791502" lon="-2.772398963570595">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>BU-Zurbitu (655m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2273,7 +2273,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.770851962268353" lon="-6.767248967662454">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Alto de Couso-Burbia (1050m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2287,7 +2287,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.888966975733638" lon="-5.594508983194828">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Alto de la - Alto de Villar del Puerto Vid (1323m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2301,7 +2301,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.497351970523596" lon="-6.598920989781618">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Alto de la Peñona (681m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2315,7 +2315,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.753468984737992" lon="-6.568761980161071">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Alto de las Minas (1168m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2329,7 +2329,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.683896003291011" lon="-6.640555998310447">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Alto de los Pinos (860m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2343,7 +2343,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.606359962373972" lon="-6.895852005109191">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Alto de Moral de Valcarce (983m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2357,7 +2357,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.712746011093259" lon="-6.115865958854556">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Alto de Nistoso (1372m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2371,7 +2371,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.529516015201807" lon="-6.909681977704167">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Alto de Pedregueira (928m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2385,7 +2385,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.663409039378166" lon="-6.855983985587955">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Alto de Pradela (1023m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2399,7 +2399,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.760751014575362" lon="-5.886697014793754">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Alto de Santovenia (1216m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2413,7 +2413,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.868079021573067" lon="-6.820714026689529">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Ancares (1670m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2427,7 +2427,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.747311973944306" lon="-6.007289970293641">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Andarraso (1414m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2441,7 +2441,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.853096034377813" lon="-5.70120700635016">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Barrios de Gordón (1220m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2455,7 +2455,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.977149039506912" lon="-6.327610015869141">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Braña San Miguel (1342m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2469,7 +2469,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.707053022459149" lon="-6.894971989095211">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Cantejeira (1096m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2483,7 +2483,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.265064958482981" lon="-6.529068974778056">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Carbajal (1341m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2497,7 +2497,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.151270002126694" lon="-4.917779015377164">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Caín (941m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2511,7 +2511,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.657823003828526" lon="-6.108344960957766">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Cerro San Bartolo (1307m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2525,7 +2525,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.955636968836188" lon="-5.611566994339228">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Collada de Cármenes (1339m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2539,7 +2539,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.797368029132485" lon="-5.716796005144715">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Collada de Olleros (1192m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2553,7 +2553,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.381277028471231" lon="-6.676297020167112">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Collado (El Sierro) Piedrafita (1308m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2567,7 +2567,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.904073009267449" lon="-5.805264981463552">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Collado de Aralla (1524m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2581,7 +2581,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.706116009503603" lon="-6.957241985946894">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Collado Furco (1067m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2595,7 +2595,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.885501980781555" lon="-5.453860983252525">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Correcillas (1306m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2609,7 +2609,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.77091097086668" lon="-6.046922039240599">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Cueto Rosales (1541m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2623,7 +2623,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.606690041720867" lon="-6.860264036804438">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Dragonte (958m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2637,7 +2637,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.498965989798307" lon="-6.457235980778933">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-El Acebo (1114m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2651,7 +2651,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.769140964373946" lon="-5.612733000889421">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-El Rabizo (1162m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2665,7 +2665,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.973610032349825" lon="-6.336458036676049">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Feixolin (1480m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2679,7 +2679,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.488588020205498" lon="-6.361720003187656">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Foncebadón-Cruz de Ferro (1503m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2693,7 +2693,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.756560984998941" lon="-5.539555968716741">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Fontanos (1072m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2707,7 +2707,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.318548038601875" lon="-6.735481973737478">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Fonte da Cova-Collada Trevinca (1837m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2721,7 +2721,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.836010027676821" lon="-5.088773025199771">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Fuentes de Peñacorada (1146m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2735,7 +2735,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.853211034089327" lon="-5.194047968834639">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-La Camperona (1601m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2749,7 +2749,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.977230008691549" lon="-6.37165498919785">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-La Fonfría (1495m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2763,7 +2763,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.910675015300512" lon="-6.185044990852475">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-La Mora (1415m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2777,7 +2777,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.294009011238813" lon="-6.670547034591436">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Las Gobernadas (1422m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2791,7 +2791,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.459860974922776" lon="-6.768394019454718">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Las Médulas (756m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2805,7 +2805,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.076046025380492" lon="-5.242641968652606">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Las Señales (1625m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2819,7 +2819,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.843001037836075" lon="-5.591979995369911">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Llombera (1278m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2833,7 +2833,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.982846973463893" lon="-6.257358016446233">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Lumajo (1358m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2847,7 +2847,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.781622037291527" lon="-6.686726035550237">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Lumeras (1048m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2861,7 +2861,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.979306960478425" lon="-5.64332501962781">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Millaró (1391m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2875,7 +2875,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.853845963254571" lon="-5.599821014329791">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Mina de Llombera (1360m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2889,7 +2889,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.455934975296259" lon="-6.751892985776067">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Mirador de Orellán (944m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2903,7 +2903,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.904404010623693" lon="-4.918763972818851">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Monteviejo (1432m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2917,7 +2917,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.366569973528385" lon="-6.460883030667901">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Morredero - Portillinos (1946m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2931,7 +2931,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.707866989076138" lon="-7.044217977672815">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-O Cebreiro (1300m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2945,7 +2945,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.739447988569736" lon="-5.999999977648258">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-O Portelo (1083m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2959,7 +2959,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.726092012599111" lon="-6.990015981718898">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-O Portelo-Comeal (1264m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2973,7 +2973,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.704682033509016" lon="-6.628840025514364">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Ocero (870m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -2987,7 +2987,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.54628200083971" lon="-6.970782028511167">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Oencia (859m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3001,7 +3001,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.55326203070581" lon="-6.498520039021969">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Onamio (735m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3015,7 +3015,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.125001033768058" lon="-4.981289030984044">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Panderrueda (1463m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3029,7 +3029,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.107342962175608" lon="-4.876426979899406">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Pandetrave (1562m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3043,7 +3043,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.928964998573065" lon="-4.949597977101803">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Pando (1422m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3057,7 +3057,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.541250009089708" lon="-6.455861097201705">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Paradasolana (846m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3071,7 +3071,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.427487969398499" lon="-6.540843034163117">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Peñalba de Santiago (1098m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3085,7 +3085,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.724898010492325" lon="-7.0168980024755">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Piedrafita (1107m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3099,7 +3099,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.951909033581614" lon="-6.190503034740686">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Piedrafita de Babia (1270m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3113,7 +3113,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.584695005789399" lon="-6.886975988745689">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Puerto de-Monte Agudo Gallegos (1060m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3127,7 +3127,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.549746995791793" lon="-6.416436983272433">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Redondal (1530m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3141,7 +3141,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.835868960246444" lon="-5.985167026519775">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Robledo de Omaña - Curueña (1356m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3155,7 +3155,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.415741989389062" lon="-6.738224029541016">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Robledo de Sobrecastro (704m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3169,7 +3169,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.922210022807121" lon="-5.504321968182921">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Rodillazo (1317m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3183,7 +3183,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.838307004421949" lon="-5.818763030692935">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Saguera de Luna (1330m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3197,7 +3197,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.066818974912167" lon="-4.766499996185303">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-San Glorio (1595m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3211,7 +3211,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.043317962437868" lon="-5.385018987581134">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-San Isidro (Cebolledo) (1668m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3225,7 +3225,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.028184017166495" lon="-6.227661017328501">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Somiedo (1486m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3239,7 +3239,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.396268984302878" lon="-6.731571983546019">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Sotillo de Cabrera (976m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3253,7 +3253,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.163285041227937" lon="-5.034106001257896">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Soto de Sajambre (935m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3267,7 +3267,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.917134026065469" lon="-6.38662900775671">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Tejedo del Sil (1099m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3281,7 +3281,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.928651012480259" lon="-5.323433959856629">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Valdehuesa (1181m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3295,7 +3295,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.925085015594959" lon="-6.519570015370846">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Valdeprado (1341m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3309,7 +3309,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.890695994719863" lon="-5.416569979861379">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Valdorria (1348m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3323,7 +3323,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.441854970529675" lon="-6.603028038516641">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Vallenón-Campo Las Danzas (1545m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3337,7 +3337,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.908685989677906" lon="-5.558265969157219">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Valporquero (1421m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3351,7 +3351,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.571072988212109" lon="-7.022367026656866">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Villarrubin (909m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3365,7 +3365,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.396627981215715" lon="-6.622917959466577">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>LE-Virgen del Valle (1035m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3379,7 +3379,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.167474962770939" lon="-4.428305961191654">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>P-Alcor (866m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3393,7 +3393,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.77696100436151" lon="-4.411267982795835">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>P-Cañada Real Burgalesa (877m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3407,7 +3407,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.894013971090317" lon="-4.48624100536108">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>P-Cervera (1166m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3421,7 +3421,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.768664034083486" lon="-4.130455031991005">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>P-Covalagua-Cueva de los Franceses (1158m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3435,7 +3435,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.967764995992184" lon="-4.337136000394821">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>P-Golobar (1800m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3449,7 +3449,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.910652970895171" lon="-4.640528960153461">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>P-La Varga (1414m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3463,7 +3463,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.963543007150292" lon="-4.568982040509582">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>P-Monte Viejo (890m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3477,7 +3477,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.872520005330443" lon="-4.520766986533999">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>P-Parador de Cervera (1140m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3491,7 +3491,7 @@
     </extensions>
   </wpt>
   <wpt lat="43.041511997580528" lon="-4.458045959472656">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>P-Piedrasluengas (1353m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3505,7 +3505,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.849275982007384" lon="-4.711398035287857">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>P-Santuario del Brezo (1450m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3519,7 +3519,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.781575014814734" lon="-4.102663993835449">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>P-Subida a Valcabado-Covalagua (1220m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3533,7 +3533,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.903420981019735" lon="-4.347109962254763">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>P-Ursi (1241m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3547,7 +3547,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.886611996218562" lon="-4.245800999924541">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>P-Valberzoso (1228m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3561,7 +3561,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.375462034717202" lon="-5.763446995988488">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Albergue de Llano Alto (1156m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3575,7 +3575,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.217510038986802" lon="-6.606695959344506">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Aldeadávila (679m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3589,7 +3589,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.715506039559841" lon="-5.884298030287027">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Cortos (1072m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3603,7 +3603,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.314558036625385" lon="-5.910737989470363">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-El Cerro (1110m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3617,7 +3617,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.472503015771508" lon="-6.119666984304786">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-El Portillo Batuecas (1252m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3631,7 +3631,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.452321991324425" lon="-6.295027965679765">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-El Robledo (1075m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3645,7 +3645,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.51231998950243" lon="-6.02716295979917">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Ermita del Humilladero-Sequeros (934m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3659,7 +3659,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.358982039615512" lon="-5.688693998381495">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-La Covatilla (1962m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3673,7 +3673,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.041144989430904" lon="-6.760503966361284">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-La Molinera (651m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3687,7 +3687,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.543949017301202" lon="-6.059138998389244">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Las Casas del Conde Arroyomuerto (1106m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3701,7 +3701,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.208837032318115" lon="-6.684626033529639">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Mirador del Salto de Aldeadávila (518m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3715,7 +3715,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.489689018577337" lon="-6.092415992170572">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Mogarraz (1031m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3729,7 +3729,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.488780001178384" lon="-6.090853018686175">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Monforte de la Sierra (1018m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3743,7 +3743,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.343358004465699" lon="-5.869876965880394">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Montemayor (838m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3757,7 +3757,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.513123981654644" lon="-6.169131025671959">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Paso de los Lobos-Peña de Francia (1710m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3771,7 +3771,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.512349996715784" lon="-6.168138021603227">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Peña de Francia (1723m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3785,7 +3785,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.696040997281671" lon="-5.796974021941423">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Peñas Grandes-Sierra Dueña (1097m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3799,7 +3799,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.041403990238905" lon="-6.76814298145473">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Saucelle (655m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3813,7 +3813,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.537714976817369" lon="-5.921355010941625">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SA-Valero (928m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3827,7 +3827,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.343050999566913" lon="-3.823028029873967">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Aldehuela (1105m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3841,7 +3841,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.710166012868285" lon="-4.140100004151464">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Alto de los Leones (1511m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3855,7 +3855,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.339131034910679" lon="-3.887111032381654">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Burgomillodo y Presa (n/a)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3869,7 +3869,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.749933030456305" lon="-4.286907026544213">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Cristo del Caloco (1295m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3883,7 +3883,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.093713017180562" lon="-3.820496024563909">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Dehesa Vieja de Pedraza (1163m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3897,7 +3897,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.298711989074945" lon="-3.215310964733362">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-El Confín (1395m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3911,7 +3911,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.812249965965748" lon="-4.056701995432377">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Fuente La Reina (1640m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3925,7 +3925,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.299544982612133" lon="-3.846886027604342">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Hoces del Duraton (n/a)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3939,7 +3939,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.205256618559361" lon="-3.472967147827148">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-La Pinilla (1506m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3953,7 +3953,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.440254002809525" lon="-3.773657027631998">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-La Serrezuela (1317m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3967,7 +3967,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.296115024015307" lon="-3.738881014287472">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Loma de Sepúlveda (1036m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3981,7 +3981,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.870967041701078" lon="-3.979893000796437">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Peñas de la Chorranca (1648m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -3995,7 +3995,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.29171502776444" lon="-3.429673025384545">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Peñas Llanas Hontanares (1471m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4009,7 +4009,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.216614097356796" lon="-3.420137604698539">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Puerto de la Quesera (1757m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4023,7 +4023,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.789195960387588" lon="-4.003795003518462">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Puerto de Navacerrada (1860m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4037,7 +4037,7 @@
     </extensions>
   </wpt>
   <wpt lat="40.986719029024243" lon="-3.814068026840687">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Puerto de Navafría (1778m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4051,7 +4051,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.284998022019863" lon="-3.7510159984231">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Sepúlveda (1043m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4065,7 +4065,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.342599969357252" lon="-3.772001015022397">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Urueñas (1126m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4079,7 +4079,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.367083005607128" lon="-3.800839958712459">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Valle de Tabladillo (1082m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4093,7 +4093,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.280902959406376" lon="-3.810282004997134">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Villar de Sobrepeña (1047m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4107,7 +4107,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.2900610268116" lon="-3.779167961329222">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SG-Villar de Sobrepeña (Canteras) (1070m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4121,7 +4121,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.508099976927042" lon="-2.052536979317665">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Alto Cruz (1307m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4135,7 +4135,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.840113028883934" lon="-3.240065993741155">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Alto de Espejón (1152m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4149,7 +4149,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.45968702621758" lon="-2.007072027772665">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Alto de San Roque o de Deza (1006m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4163,7 +4163,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.915837991982698" lon="-2.945208996534348">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Cabeza Alta (1400m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4177,7 +4177,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.820497028529644" lon="-2.791693015024066">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Camping El Concurso (1150m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4191,7 +4191,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.804472003132105" lon="-3.048713011667132">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Casarejos (1120m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4205,7 +4205,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.988304993137717" lon="-2.921636989340186">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Castroviejo (1529m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4219,7 +4219,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.875839969143271" lon="-3.092500995844603">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Cruz del Muerto (1197m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4233,7 +4233,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.952734040096402" lon="-2.853534026071429">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-El Becedo (1617m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4247,7 +4247,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.907236985862255" lon="-3.025238988921046">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-El Cargadero (1330m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4261,7 +4261,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.720273019745946" lon="-2.839343966916203">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-El Mirón (1108m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4275,7 +4275,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.928213033825159" lon="-2.665174975991249">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-El Royo (1225m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4289,7 +4289,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.940967021510005" lon="-2.947043040767312">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-La Encrucijada (1202m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4303,7 +4303,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.730051012709737" lon="-3.041717978194356">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-La Galiana (1122m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4317,7 +4317,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.998432008549571" lon="-2.826687041670084">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Laguna Negra de Urbión (1715m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4331,7 +4331,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.096370020881295" lon="-2.78993901796639">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Las Viniegras (1583m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4345,7 +4345,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.172181963920593" lon="-2.435191981494427">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Medinaceli (1205m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4359,7 +4359,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.352404030039907" lon="-2.975285025313497">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Mojón de la Lastra (1300m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4373,7 +4373,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.826893007382751" lon="-2.945459028705955">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Mojón Pardo (1234m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4387,7 +4387,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.089314972981811" lon="-2.7518679946661">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Montenegro de Cameros (Río Mayor) (1190m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4401,7 +4401,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.809902973473072" lon="-2.444019969552755">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Numancia (1076m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4415,7 +4415,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.953371986746788" lon="-2.329710004851222">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Oncala (1454m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4429,7 +4429,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.055484019219875" lon="-2.538064001128078">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Piqueras (1710m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4443,7 +4443,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.771801020950079" lon="-3.140895003452897">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Portillo de Santa María (1132m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4457,7 +4457,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.038531033322215" lon="-2.784736035391688">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Santa Inés (1753m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4471,7 +4471,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.946988999843597" lon="-2.838128004223108">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Tejeros (1646m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4485,7 +4485,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.969131976366043" lon="-2.214284995570779">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>SO-Valdelavilla (1340m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4499,7 +4499,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.561784977093339" lon="-4.559720037505031">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>VA-La Parrilla (860m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4513,7 +4513,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.656835256144404" lon="-4.953283499926329">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>VA-Meseta castellana (774m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4527,7 +4527,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.638717018067837" lon="-4.765014974400401">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>VA-Parquesol (768m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4541,7 +4541,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.638111006468534" lon="-4.760127989575267">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>VA-Parquesol (Acuña) (747m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4555,7 +4555,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.637526033446193" lon="-4.768073027953506">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>VA-Parquesol (Morelia) (762m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4569,7 +4569,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.643263027071953" lon="-4.596926970407367">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>VA-Renedo (858m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4583,7 +4583,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.744510969147086" lon="-4.599603982642293">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>VA-San Martín - Páramo de Bárcena (848m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4597,7 +4597,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.601782999932766" lon="-4.360892996191978">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>VA-Valdefuentes - La de Cogeces (881m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4611,7 +4611,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.72552595846355" lon="-4.332132004201412">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>VA-Villafuerte (879m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4625,7 +4625,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.675101015716791" lon="-4.803693015128374">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>VA-Villanubla - Páramo Carrocastellares (841m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4639,7 +4639,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.016566004604101" lon="-6.914484975859523">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Alto da Penagueira - Castrelos (La Gamoneda) (1073m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4653,7 +4653,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.116243010386825" lon="-6.659775031730533">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Alto de Trefacio (1036m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4667,7 +4667,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.967286029830575" lon="-6.924783987924457">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Alto do Ladiairo (Carretera Castromil)  (1005m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4681,7 +4681,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.172362031415105" lon="-6.944456985220313">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Alto dos - Serra do Xistral Currais (1519m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4695,7 +4695,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.070760959759355" lon="-6.717025022953749">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Avedillo de Sanabria (Este) (1053m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4709,7 +4709,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.071804003790021" lon="-6.72012004069984">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Avedillo de Sanabria (Oeste) (1072m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4723,7 +4723,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.120103966444731" lon="-6.957828970625997">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Barjacoba (Barrio do Pedazo) (1290m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4737,7 +4737,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.818450000137091" lon="-6.040942976251245">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Campanario (983m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4751,7 +4751,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.148965038359165" lon="-6.63121797144413">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Carpazal-Coso (1200m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4765,7 +4765,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.054783962666988" lon="-6.633823988959193">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Castillo de Puebla de Sanabria (948m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4779,7 +4779,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.600573994219303" lon="-6.1816590372473">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Castro de Alcañices (758m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4793,7 +4793,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.997431963682175" lon="-6.971346968784928">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Castromil (A Portela) (1085m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4807,7 +4807,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.040293999016285" lon="-6.928772013634443">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Chanos (1115m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4821,7 +4821,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.964223030954599" lon="-6.629312010481954">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Coto Alto (910m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4835,7 +4835,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.026268979534507" lon="-6.682458976283669">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-El Centinela - Pedralba (1061m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4849,7 +4849,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.206033980473876" lon="-6.551691982895136">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-El Peñón (1840m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4863,7 +4863,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.317031979560852" lon="-6.399206975474954">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Fermoselle (660m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4877,7 +4877,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.085907980799675" lon="-6.892983969300985">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Hedroso-Aciberos (P. Eólico) (1679m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4891,7 +4891,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.01454202644527" lon="-6.691919965669513">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-La Atalaya - Calabor (1095m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4905,7 +4905,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.007191013544798" lon="-6.620041960850358">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-La Folgueira - Rihonor (1072m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4919,7 +4919,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.96074403822422" lon="-6.861827010288835">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-La Tejera - Fillobal (1145m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4933,7 +4933,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.165110008791089" lon="-6.735037984326482">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Laguna de los Peces (1727m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4947,7 +4947,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.09434000775218" lon="-6.706242961809039">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Limianos de Sanabria (1051m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4961,7 +4961,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.141407998278737" lon="-6.666107978671789">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Murias (1220m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4975,7 +4975,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.070617964491248" lon="-6.843330999836326">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Padornelo (P. Eólico) - Alto de Malladabarreiro (1749m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -4989,7 +4989,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.47509103640914" lon="-6.215050024911761">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Peña de la Parada (Gamones/Torregamones) (763m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5003,7 +5003,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.881116963922977" lon="-6.210411982610822">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Peña del Águila-Ferreras (1004m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5017,7 +5017,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.926238005980849" lon="-6.486832983791828">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Peña Mira (1061m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5031,7 +5031,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.037398973479867" lon="-6.968627963215113">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Portilla de la Canda (1204m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5045,7 +5045,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.033748989924788" lon="-6.824062010273337">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Portilla de Padornelo (1313m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5059,7 +5059,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.916306959465146" lon="-6.38503803871572">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Portillo de San Pedro de las Herrerías (975m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5073,7 +5073,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.110740039497614" lon="-6.590619971975684">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-San Juan de la Cuesta (Repetidor) (1415m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5087,7 +5087,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.046490991488099" lon="-6.73161699436605">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-San Martín del Terroso (Oeste) (1082m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5101,7 +5101,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.076666010543704" lon="-6.686599971726537">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-San Román - Las Chanas (1048m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5115,7 +5115,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.100487966090441" lon="-6.664435034617782">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Sanamedio (1029m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5129,7 +5129,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.141301967203617" lon="-6.619667960330844">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Santuario de Nra. Sra. de la Alcobilla (1127m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5143,7 +5143,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.09313603118062" lon="-6.721530966460705">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Sotillo de Sanabria (1083m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5157,7 +5157,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.539110001176596" lon="-6.152780028060079">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Villadepera (820m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5171,7 +5171,7 @@
     </extensions>
   </wpt>
   <wpt lat="41.521537005901337" lon="-6.049439962953329">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Villalcampo (796m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
@@ -5185,7 +5185,7 @@
     </extensions>
   </wpt>
   <wpt lat="42.070268020033836" lon="-7.006232030689716">
-    <time>2024-03-17T17:49:50Z</time>
+    <time>2024-03-17T18:15:40Z</time>
     <name>ZA-Villanueva de la Sierra (1237m)</name>
     <type>POI CastillaLeón.2018.11.20</type>
     <extensions>
