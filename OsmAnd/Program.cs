@@ -8,8 +8,18 @@ class Program
         XNamespace gpxNs = "http://www.topografix.com/GPX/1/1";
         XNamespace osmandNs = "http://www.osmand.net/osmand";
 
-        //Open all files from POI folder    
-        string[] files = Directory.GetFiles("POI", "*.gpx");
+        //Open all files from POI folder
+        string[] files = [""];
+
+        if (Directory.Exists("POI"))
+        {
+            files = Directory.GetFiles("POI", "*.gpx");
+        }
+        else
+        {
+            Console.WriteLine("Cal que existeixi el directori POI amb els fitxers a convertir");
+            Environment.Exit(0);
+        } 
 
         foreach (var file in files)
         {
@@ -69,8 +79,14 @@ class Program
             gpx.Add(lastElement);
 
             // Write the desti GPX file
-            var destiDoc = new XDocument(new XDeclaration("1.0", "utf-8", "yes"),gpx);
-            destiDoc.Save("POI_OsmAnd/" + fileName +"_osmand.gpx");
+            string directoryPath = "POI_OsmAnd";
+            if (!Directory.Exists(directoryPath))
+            {
+                Directory.CreateDirectory(directoryPath);
+            }
+            var destiDoc = new XDocument(new XDeclaration("1.0", "utf-8", "yes"), gpx);
+            string filePath = Path.Combine(directoryPath, fileName + "_osmand.gpx");
+            destiDoc.Save(filePath);
         }
     }
 }
