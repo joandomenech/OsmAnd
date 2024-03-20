@@ -49,7 +49,6 @@ class Program
             // Iterate over waypoints in the origen GPX file
             foreach (var wpt in origenDoc.Descendants(gpxNs + "wpt"))
             {
-                
                 // Create a waypoint for each waypoint in the origen file
                 var newWpt = new XElement("wpt",
                     new XAttribute("lat", wpt.Attribute("lat").Value),
